@@ -21,7 +21,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 
 <p align="center">
-    <img src="./figs/fig_1.png" alt="fig_1" width="800" />
+    <img src="./figs/fig_1.png" alt="fig_1" width="460" />
 </p>
 <br>
 <br>
