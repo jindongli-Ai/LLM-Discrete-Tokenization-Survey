@@ -20,7 +20,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 </div>
 
 
-## 2345
+## Basic Methods
 
 
 
