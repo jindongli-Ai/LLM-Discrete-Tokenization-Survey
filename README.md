@@ -21,6 +21,12 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 
 <p align="center">
+    <img src="./figs/fig_1.png" alt="fig_1" width="800" />
+</p>
+<br>
+<br>
+
+<p align="center">
     <img src="./figs/fig_2.png" alt="fig_2" width="800" />
 </p>
 <br>
@@ -171,6 +177,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 
 ### 5.10
+
+
+## 6 Challenges and Future Directions
 
 
 
