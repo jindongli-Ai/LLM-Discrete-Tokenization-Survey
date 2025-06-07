@@ -20,6 +20,39 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 </div>
 
 
+<p align="center">
+    <img src="./figs/fig_2.png" alt="fig_2" width="800" />
+</p>
+<br>
+<br>
+
+<p align="center">
+    <img src="./figs/fig_12.png" alt="fig_12" width="1000" />
+</p>
+<br>
+<br>
+
+
+<p align="center">
+    <img src="./figs/tab_LLM.png" alt="tab_LLM" width="800" />
+</p>
+<br>
+<br>
+
+
+<p align="center">
+    <img src="./figs/tab_MLLM.png" alt="tab_MLLM" width="800" />
+</p>
+<br>
+<br>
+
+
+
+
+
+
+
+
 ## Basic Methods
 
 
