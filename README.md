@@ -109,27 +109,27 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.2 Residual Vector Quantization (RVQ)
 
-1. 2010_RVQ_Approximate nearest neighbor search by residual vector quantization.
+1. 2010_Sensors_RVQ_Approximate nearest neighbor search by residual vector quantization. [[Sensors]](https://www.mdpi.com/1424-8220/10/12/11259)
 
-2. 2014_arXiv_SQ_Stacked Quantizers for Compositional Vector Compression.
+2. 2014_arXiv_SQ_Stacked Quantizers for Compositional Vector Compression. [[arXiv]](https://arxiv.org/abs/1411.2173)
 
-3. 2014_IEEE Multimedia_PRVQ_Projected residual vector quantization for ANN search.
+3. 2014_IEEE Multimedia_PRVQ_Projected residual vector quantization for ANN search. [[IEEE]](https://ieeexplore.ieee.org/document/6701297)
 
-4. 2015_arXiv_IRVQ_Improved Residual Vector Quantization for High-dimensional Approximate Nearest Neighbor Search.
+4. 2015_arXiv_IRVQ_Improved Residual Vector Quantization for High-dimensional Approximate Nearest Neighbor Search. [[arXiv]](https://arxiv.org/abs/1509.05195)
 
-5. 2015_arXiv_TRQ_Transformed Residual Quantization for Approximate Nearest Neighbor Search.
+5. 2015_arXiv_TRQ_Transformed Residual Quantization for Approximate Nearest Neighbor Search. [[arXiv]](https://arxiv.org/abs/1512.06925)
 
-6. 2016_Neurocomputing_RVQ-P RVQ-NP_Parametric and nonparametric residual vector quantization optimizations for ANN search.
+6. 2016_Neurocomputing_RVQ-P RVQ-NP_Parametric and nonparametric residual vector quantization optimizations for ANN search. [[ACM]](https://dl.acm.org/doi/10.1016/j.neucom.2016.04.061)
 
-7. 2016_TKDE_CompQ_Competitive Quantization for Approximate Nearest Neighbor Search.
+7. 2016_TKDE_CompQ_Competitive Quantization for Approximate Nearest Neighbor Search. [[IEEE TKDE]](https://ieeexplore.ieee.org/document/7539664)
 
-8. 2017_Multimedia Systems_ERVQ_Optimized residual vector quantization for efficient approximate nearest neighbor search.
+8. 2017_Multimedia Systems_ERVQ_Optimized residual vector quantization for efficient approximate nearest neighbor search. [[Springer]](https://link.springer.com/article/10.1007/s00530-015-0470-9)
 
-9. 2017_Multimedia_GRVQ_Generalized Residual Vector Quantization and Aggregating Tree for Large Scale Search.
+9. 2017_Multimedia_GRVQ_Generalized Residual Vector Quantization and Aggregating Tree for Large Scale Search. [[IEEE Transactions on Multimedia]](https://ieeexplore.ieee.org/document/7894185)
 
-10. 2024_ICML_QINCo_Residual Quantization with Implicit Neural Codebooks.
+10. 2024_ICML_QINCo_Residual Quantization with Implicit Neural Codebooks. [[ICML]](https://proceedings.mlr.press/v235/huijben24a.html) [[arXiv]](https://arxiv.org/abs/2401.14732)
 
-11. 2025_arXiv_Qinco2_Qinco2：Vector Compression and Search with Improved Implicit Neural Codebooks.
+11. 2025_arXiv_Qinco2_Qinco2：Vector Compression and Search with Improved Implicit Neural Codebooks. [[arXiv]](https://arxiv.org/abs/2501.03078)
 
 
 
