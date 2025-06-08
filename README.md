@@ -839,10 +839,47 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ## Related Survey
 
+1. 1988_IEEE Transactions on Communications_Survey_Image Coding Using Vector Quantization：A Review
 
-### non-LLM
+2. 1989_IEEE Transactions on Information Theory_Survey_High-Resolution Quantization Theory and the Vector Quantizer Advantage
 
-### LLM
+3. 1990_IEEE Transactions on Information Theory_Survey_A Study of Vector Quantization for Noisy Channels
+
+4. 1996_TIP_Survey_Advances in Residual Vector Quantization：A  Review
+
+5. 1998_IEEE transactions on information theory_Survey_Quantization
+
+6. 2006_IEEE Potentials_Survey_A review of vector quantization techniques
+
+7. 2010_IHMSP_Survey_A Survey of VQ Codebook Generation
+
+8. 2018_MTA_Survey_A Survey of Product Quantization
+
+9. 2019_Frontiers of Information Technology & Electronic Engineering_Survey_Vector quantization：a review
+
+10. 2023_ACM Computing Surveys_Survey_Embedding in Recommender Systems：A Survey
+
+11. 2024_arXiv_Survey_Vector quantization for recommender systems：a review and outlook
+
+12. 2024_ACM Computing Surveys_Survey_Embedding Compression in Recommender Systems：A Survey
+
+13. 2024_Data Engineering_Survey_High-Dimensional Vector Quantization：General Framework, Recent Advances, and Future Directions
+
+14. 2024_arXIv_Survey_Next Token Prediction Towards Multimodal Intelligence：A Comprehensive Survey
+
+15. 2024_PrePrints_Survey_Continuous or Discrete, That is the Question=A Survey on Large Multi-Modal Models from the Perspective of Input-Output Space Extension
+
+16. 2025_arXiv_Survey_A Survey of Quantized Graph Representation Learning= Connecting Graph Structures with Large Language Models
+
+17. 2025_arXiv_Survey_From Principles to Applications= A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval
+
+18. 2025_arXiv_Survey_Recent Advances in Discrete Speech Tokens：A Review
+
+19. 2025_TMLR_Survey_Autoregressive Models in Vision：A Survey
+
+
+
+
 
 
 ## Related Reposority
