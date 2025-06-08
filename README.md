@@ -219,16 +219,121 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 
 
-### 3.4
+### 3.4 Video
+
+1. 2021_arXiv_VideoGPT_VideoGPT：Video Generation using VQ-VAE and Transformers
+
+2. 2022_ECCV_TATS_Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
+
+3. 2023_CVPR_MAGVIT_MAGVIT= Masked Generative Video Transformer
+
+4. 2023_ICLR_Phenaki_Phenaki= Variable Length Video Generation From Open Domain Textual Descriptions
+
+5. 2024_arXiv_LARP_LARP：Tokenizing Videos with a Learned Autoregressive Generative Prior
+
+6. 2024_arXiv_VidTok_VidTok：A Versatile and Open-Source Video Tokenizer
+
+7. 2024_arXiv_VQ-NeRV_VQ-NeRV：A Vector Quantized Neural Representation for Videos
+
+8. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation
+
+9. 2024_NeurlPS_OmniTokenizer_OmniTokenizer：A Joint Image-Video Tokenizer for Visual Generation
+
+10. 2025_arXiv_SweetTok_SweetTok：Semantic-Aware Spatial-Temporal Tokenizer for Compact Visual Discretization
+
+11. 2025_arXiv_TVC_TVC：Tokenized Video Compression with Ultra-Low Bitrate
+
+12. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization
 
 
-### 3.5
 
 
-### 3.6
 
 
-### 3.7
+### 3.5 Action
+
+1. 2023_CoLR_SAQ_Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning
+
+2. 2024_ICML_PRISE_PRISE=LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control
+
+
+
+
+
+
+
+
+### 3.6 Text + Image
+
+1. 2021_ICML_DALL-E_Zero-Shot Text-to-Image Generation
+
+2. 2021_NeurIPS_CogView_CogView：Mastering Text-to-Image Generation via Transformers
+
+3. 2022_CVPR_VQ-Diffusion_Vector Quantized Diffusion Model for Text-to-Image Synthesis
+
+4. 2022_ECCV_Make-A-Scene_Make-A-Scene：Scene-Based Text-to-Image Generation with Human Priors
+
+5. 2023_CVPR_NUWA-LIP_NUWA-LIP：Language-guided Image Inpainting with Defect-free VQGAN
+
+6. 2023_ICLR_Unified-IO_A unified model for vision, language, and multi-modal tasks
+
+7. 2023_ICML_Muse_Muse=Text-to-Image Generation via Masked Generative Transformer
+
+8. 2024_arXiv_TexTok_Language-Guided Image Tokenization for Generation
+
+9. 2024_NeurlPS_LG-VQ_LG-VQ：Language-Guided Codebook Learning
+
+10. 2025_arXiv_TokLIP_TokLIP= Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation
+
+11. 2025_arXiv_UniTok_UniTok：A Unified Tokenizer for Visual Generation and Understanding
+
+12. 2025_AAAI_MyGO_MyGO= Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion
+
+13. 2025_ICLR_HART_HART= Efficient Visual Generation with Hybrid Autoregressive Transformer
+
+
+
+
+
+
+
+
+### 3.7 Text + Sound
+
+1. 2023_ICLR_AudioGen_AudioGen：Textually Guided Audio Generation
+
+2. 2024_arXiv_Spectral Codecs：Spectrogram-Based Audio Codecs for High Quality Speech Synthesis
+
+
+
+
+
+1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice：Cross-Lingual Neural Codec Language Modeling
+
+2. 2023_arXiv_VALL-E_Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
+
+3. 2024_arXiv_RALL-E_RALL-E=Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis
+
+4. 2024_arXiv_SimpleSpeech 2_SimpleSpeech 2：Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models
+
+5. 2024_ICML_NaturalSpeech 3_NaturalSpeech 3：Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models
+
+6. 2024_Interspeech_SimpleSpeech_SimpleSpeech：Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models
+
+7. 2024_Interspeech_Single-Codec_Single-Codec=Single-Codebook Speech Codec towards High-Performance
+
+8. 2025_ICLR_HALL-E_HALL-E=Hierarchical Neural Codec Language Mdoel for Minute-Long Zero-Shot Text-to-Speech Synthesis
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### 3.8
