@@ -61,15 +61,15 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.1 Vinalla Vector Quantization (VQ)
 
-1. 2017_NeurIPS_VQ-VAE_Neural Discrete Representation Learning.
+1. 2017_NeurIPS_VQ-VAE_Neural Discrete Representation Learning. [[arXiv]](https://arxiv.org/abs/1711.00937)
 
-2. 2017_NeurlPS_SHVQ_Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations.
+2. 2017_NeurlPS_SHVQ_Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations. [[arXiv]](https://arxiv.org/abs/1704.00648)
 
-3. 2018_arXiv_Theory and Experiments on Vector Quantized Autoencoders.
+3. 2018_arXiv_Theory and Experiments on Vector Quantized Autoencoders. [[arXiv]](https://arxiv.org/abs/1805.11063)
 
-4. 2019_NeurlPS_VQ-VAE-2_Generating Diverse High-Fidelity Images with VQ-VAE-2.
+4. 2019_NeurlPS_VQ-VAE-2_Generating Diverse High-Fidelity Images with VQ-VAE-2. [[NeurIPS]](https://dl.acm.org/doi/10.5555/3454287.3455618) [[arXiv]](https://arxiv.org/abs/1906.00446)
 
-5. 2020_AAAI_soft VQ-VAE_Vector quantization-based regularization for autoencoders.
+5. 2020_AAAI_soft VQ-VAE_Vector quantization-based regularization for autoencoders. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/6108) [[arXiv]](https://arxiv.org/abs/1905.11062)
 
 6. 2020_NeurlPS_HQA_Hierarchical Quantized Autoencoders.
 
