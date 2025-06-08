@@ -87,11 +87,98 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ## 3 Classical Applications without LLMs
 
-### 3.1
+### 3.1 Image
+
+1. 2017_CVPR_DVSQ_Deep Visual-Semantic Quantization for Efficient Image Retrieval
+
+2. 2019_IJCAI_DPQ_Beyond product quantization：Deep progressive quantization for image retrieval
+
+3. 2021_ICCV_SPQ_Self-supervised Product Quantization for Deep Unsupervised Image Retrieval
+
+4. 2022_arXiv_BEiT v2_BEiT v2= Masked Image Modeling with Vector-Quantized Visual Tokenizers
+
+5. 2022_AAAI_MeCoQ_Contrastive Quantization with Code Memory for Unsupervised Image Retrieval
+
+6. 2022_CVPR_MaskGIT_MaskGIT：Masked Generative Image Transformer
+
+7. 2022_CVPR_RQ-VAE RQ-Transformer_AutoRegressive Image Generation using Residual Quantization
+
+8. 2022_ICLR_BEiT_BEiT= BERT Pre-Training of Image Transformers
+
+9. 2022_ICLR_ViT-VQGAN_Vector-Quantization Image Modeling with Improved VQGAN
+
+10. 2022_NeurlPS_MoVQ_MoVQ：Modulating Quantized Vectors for High-Fidelity Image Generation
+
+11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding：Improved Autoregressive Image Generation with Dynamic Vector Quantization
+
+12. 2023_CVPR_MAGE_MAGE：MAsked Generative Encoder to Unify Representation Learning and Image Synthesis
+
+13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter：Masked Vector Quantization for Autoregressive Image Generation
+
+14. 2023_ICCV_Efficient-VQGAN_Efficient-VQGAN：Towards High-Resolution Image Generation with Efficient Vision Transformers
+
+15. 2024_CVPR_SeQ-GAN_Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis
+
+16. 2024_ICLR_ClusterMIM_On the Role of Discrete Tokenization in Visual Representation Learning
+
+17. 2024_NeurlPS_TiTok_An Image is Worth 32 Tokens for Reconstruction and Generation
+
+18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling：Scalable Image Generation via Next-Scale Prediction
+
+19. 2024_NeurlPS_VQ-KD_Image Understanding Makes for A Good Tokenizer for Image Generation
+
+20. 2024_TMLR_MaskBit_MaskBit：Embedding-free Image Generation via Bit Tokens
+
+21. 2025_arXiv_FlowMo_Flow to the Mode= Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization
+
+22. 2025_CVPR_MergeVQ_MergeVQ：A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization
+
+23. 2025_ICLR_DnD-Transformer_A spark of vision-language intelligence=2-dimensional autoregressive transformer for efficient finegrained image generation
 
 
 
-### 3.2
+
+
+
+
+
+### 3.2 Sound
+
+1. 2022_TASLP_SoundStream_SoundStream：An End-to-End Neural Audio Codec
+
+2. 2023_arXiv_HiFi-Codec_HiFi-Codec：Group-residual Vector quantization for High Fidelity Audio Codec
+
+3. 2023_NeurlPS_DAC_High fidelity neural audio compression with Improved RVQGAN
+
+4. 2023_TMLR_EnCodec_High Fidelity Neural Audio Compression
+
+5. 2024_J-STSP_SemantiCodec_SemantiCodec：An Ultra Low Bitrate Semantic Audio Codec for General Sound
+
+6. 2025_arXiv_QINCODEC_QINCODEC：Neural Audio Compression with Implicit Neural Codebooks
+
+7. 2025_arXiv_SQCodec_One Quantizer is Enough：Toward a Lightweight Audio Codec
+
+8. 2025_arXiv_UniCodec_UniCodec：Unified Audio Codec with Single Domain-Adaptive Codebook
+
+9. 2025_IEEE Signal Processing Letter_StreamCodec_A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication
+
+
+
+1. 2020_ICLR_vq-wav2vec_vq-wav2vec：Self-Supervised Learning of Discrete Speech Representations
+
+2. 2020_NeurlPS_wav2vec 2.0_wav2vec 2.0：A Framework for Self-Supervised Learning of Speech Representations
+
+3. 2023_ICASSP_LMCodec_LMCodec：A Low Bitrate Speech Codec with Causal Transformer Models
+
+4. 2024_ICLR_SpeechTokenizer_SpeechTokenizer：Unified Speech Tokenizer for Speech Language Models
+
+5. 2025_ICASSP_LFSC_Low Frame-rate Speech Codec=A Codec Designed for Fast High-quality Speech LLM Training and Inference
+
+6. 2025_ICLR_TAAE_Scaling Transformers for Low-Bitrate High-Quality Speech Coding
+
+
+
+
 
 
 ### 3.3
