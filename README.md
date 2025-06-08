@@ -140,39 +140,39 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.3 Product Quantization (PQ)
 
-1. 2011_TPAMI_PQ_Product Quantization for Nearest Neighbor Search.
+1. 2011_TPAMI_PQ_Product Quantization for Nearest Neighbor Search. [[IEEE TPAMI]](https://ieeexplore.ieee.org/document/5432202)
 
-2. 2013_CVPR_CKM_Cartesian k-means.
+2. 2013_CVPR_CKM_Cartesian k-means. [[CVPR]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/html/Norouzi_Cartesian_K-Means_2013_CVPR_paper.html)
 
-3. 2013_CVPR_OPQ_Optimized product quantization for approximate nearest neighbor search.
+3. 2013_CVPR_OPQ_Optimized product quantization for approximate nearest neighbor search. [[IEEE CVPR]](https://ieeexplore.ieee.org/document/6619223) [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ge_Optimized_Product_Quantization_2013_CVPR_paper.pdf)
 
-4. 2014_CVPR_LOPQ_Locally optimized product quantization for approximate nearest neighbor search.
+4. 2014_CVPR_LOPQ_Locally optimized product quantization for approximate nearest neighbor search. [[IEEE CVPR]](https://ieeexplore.ieee.org/document/6909695) [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kalantidis_Locally_Optimized_Product_2014_CVPR_paper.pdf)
 
-5. 2014_ICML_CQ_Composite Quantization for Approximate Nearest Neighbor Search.
+5. 2014_ICML_CQ_Composite Quantization for Approximate Nearest Neighbor Search. [[ICML]](https://proceedings.mlr.press/v32/zhangd14)
 
-6. 2015_CVPR_SQ1 SQ2_Sparse Composite Quantization.
+6. 2015_CVPR_SQ1 SQ2_Sparse Composite Quantization. [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Sparse_Composite_Quantization_2015_CVPR_paper.pdf)
 
-7. 2015_ICIP_PTQ_Product tree quantization for approximate nearest neighbor search.
+7. 2015_ICIP_PTQ_Product tree quantization for approximate nearest neighbor search. [[IEEE ICIP]](https://ieeexplore.ieee.org/document/7351158)
 
-8. 2015_TKDE_OCKM_Optimized Cartesian K-Means.
+8. 2015_TKDE_OCKM_Optimized Cartesian K-Means. [[IEEE TKDE]](https://ieeexplore.ieee.org/document/6817617) [[arXiv]](https://arxiv.org/abs/1405.4054)
 
-9. 2016_CVPR_SQ_Supervised Quantization for Similarity Search.
+9. 2016_CVPR_SQ_Supervised Quantization for Similarity Search. [[CVPR]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Supervised_Quantization_for_CVPR_2016_paper.pdf) [[arXiv]](https://arxiv.org/abs/1902.00617)
 
-10. 2018_TKDE_Online PQ_Online Product Quantization.
+10. 2018_TKDE_Online PQ_Online Product Quantization. [[IEEE TKDE]](https://ieeexplore.ieee.org/document/8320306)
 
-11. 2019_CVPR_DPQ_End-to-End Supervised Product Quantization for Image Search and Retrieval.
+11. 2019_CVPR_DPQ_End-to-End Supervised Product Quantization for Image Search and Retrieval. [[IEEE CVPR]](https://ieeexplore.ieee.org/document/8953697) [[CVPR]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Klein_End-To-End_Supervised_Product_Quantization_for_Image_Search_and_Retrieval_CVPR_2019_paper.pdf) [[arXiv]](https://arxiv.org/pdf/1711.08589)
 
-12. 2020_ICDM_Online  OPQ_Online Optimized Product Quantization.
+12. 2020_ICDM_Online OPQ_Online Optimized Product Quantization. [[IEEE ICDM]](https://ieeexplore.ieee.org/document/9338380)
 
-13. 2020_ICML_DPQ_Differentiable Product Quantization for End-to-End Embedding Compression.
+13. 2020_ICML_DPQ_Differentiable Product Quantization for End-to-End Embedding Compression. [[ICML]](https://proceedings.mlr.press/v119/chen20l.html) [[arXiv]](https://arxiv.org/abs/1908.09756)
 
-14. 2022_ICDE_VAQ_Fast Adaptive Similarity Search through Variance-Aware Quantization.
+14. 2022_ICDE_VAQ_Fast Adaptive Similarity Search through Variance-Aware Quantization. [[IEEE ICDE]](https://ieeexplore.ieee.org/document/9835314)
 
-15. 2023_ESWA_RVPQ_Residual Vector Product Quantization for Approximate Nearest Neighbor Search.
+15. 2023_ESWA_RVPQ_Residual Vector Product Quantization for Approximate Nearest Neighbor Search. [[Springer]](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_17)
 
-16. 2023_WWW_DOPQ_Diferentiable Optimized Product Qantization and Beyond.
+16. 2023_WWW_DOPQ_Diferentiable Optimized Product Qantization and Beyond. [[WWW]](https://dl.acm.org/doi/10.1145/3543507.3583482)
 
-17. 2024_AAAI_HiHPQ_HiHPQ--Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval.
+17. 2024_AAAI_HiHPQ_HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval. [[ACM AAAI]](https://dl.acm.org/doi/10.1609/aaai.v38i5.28261) [[arXiv]](https://arxiv.org/abs/2401.07212v1)
 
 
 
