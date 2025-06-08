@@ -127,19 +127,90 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 ## 4 LLM-based Single-Modality Applications
 
 
-### 4.1 
+### 4.1 Image
+
+1. 2023_NeurIPS_SPAE_SPAE：Semantic Pyramid AutoEncoder for Multimoda Generation with Frozen LLMs
+
+2. 2023_NeurlPS_LQAE_Language Quantized AutoEncoders：Towards Unsupervised Text-Image Alignment
+
+3. 2024_arXiv_LlamaGen_Autoregressive Model Beats Diffusion：Llama for Scalable Image Generation
+
+4. 2024_CVPR_V2T Tokenizer_Beyond Text：Frozen Large Language Models in Visual Signal Comprehension
+
+5. 2024_ICML_StrokeNUWA_StrokeNUWA=Tokenizing Strokes for Vector Graphic Synthesis
+
+6. 2025_arXiv_V2Flow_V2Flow：Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation
 
 
-### 4.2
 
 
-### 4.3
 
 
-### 4.4
+### 4.2 Audio
+
+1. 2023_NeurlPS_TWIST_Textually Pretrained Speech Language Models
+
+2. 2024_arXiv_JTFS LM_Comparing Discrete and Continuous Space LLMs for Speech Recognition
+
+3. 2024_arXiv_SSVC_Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations
 
 
-### 4.5
+
+
+
+
+### 4.3 Graph
+
+1. 2024_arXiv_NT-LLM_NT-LLM：A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models
+
+2. 2025_AAAI_Dr.E_Multi-View Empowered Structural Graph Wordification for Language Models
+
+
+
+
+
+
+
+
+### 4.4 Action
+
+1. 2024_CVPR_LLM-AR_LLMs are Good Action Recognizers
+
+
+
+
+
+
+
+
+### 4.5 Complex Modalityu in RecSys
+
+1. 2024_arXiv_ETEGRec_Generative Recommender with End-to-End Learnable Item Tokenization
+
+2. 2024_arXiv_META ID_Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens
+
+3. 2024_arXiv_QARM_QARM：Quantitative Alignment Multi-Modal Recommendation at Kuaishou
+
+4. 2024_arXiv_STORE_Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM
+
+5. 2024_arXiv_TokenRec_TokenRec--Learning to Tokenize ID for LLM-bsed Generative Recommendations
+
+6. 2024_CIKM_ColaRec_Content-Based Collaborative Generation for Recommender Systems
+
+7. 2024_CIKM_LETTER_Learnable Item Tokenization for Generative Recommendation
+
+8. 2024_ICDE_LC-Rec_Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation
+
+9. 2025_arXiv_UTGRec_Universal Item Tokenization for Transferable Generative Recommendation
+
+10. 2025_AAAI_Semantic Convergence：Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization
+
+11. 2025_WWW_EAGER-LLM_EAGER-LLM=Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration
+
+12. 2025_WWW_ED2_Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism
+
+
+
 
 
 
