@@ -336,18 +336,61 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 
 
-### 3.8
+### 3.8 Audio + Video
 
-### 3.9
-
-
-### 3.10
+1. 2025_CVIU_VQ-MAE-AV_A vector quantized masked autoencoder for audiovisual speech emotion recognition
 
 
-### 3.11
 
 
-### 3.12
+
+
+### 3.9 Audio + Action
+
+1. 2024_CVPR_ProTalk_Towards Variable and Coordinated Holistic Co-Speech Motion Generation
+
+
+
+
+
+
+
+### 3.10 Audio + Image + Video
+
+1. 2025_AAAI_VQTalker_VQTalker：Towards Multilingual Talking Avatars through Facial Motion Tokenization
+
+
+
+
+
+### 3.11 Text + Image + Video + Action
+
+1. 2024_arXiv_WorldDreamer_Dreamer=Towards General World Models for Video Generation via Predicting Masked Tokens
+
+
+
+
+
+### 3.12 Complex Modality in RecSys
+
+1. 2020_WWW_MGQE_Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems
+
+2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval
+
+3. 2023_TOIS_ReFRS_ReFRS：Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences
+
+4. 2023_WWW_VQ-Rec_Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders
+
+5. 2024_KDD_EAGER_EAGER：Two-Stream Generative Recommender with Behavior-Semantic Collaboration
+
+6. 2024_RecSys_CoST_CoST：Contrastive Quantization based Semantic Tokenization for Generative Recommendation
+
+
+
+
+
+
+
 
 
 
