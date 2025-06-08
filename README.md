@@ -181,7 +181,42 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 
 
-### 3.3
+### 3.3 Graph
+
+1. 2020_AAAI_SNEQ_SNEQ= Semi-Supervised Attributed Network Embedding with Attention-Based Quantisation
+
+2. 2020_ACL_TS-CL_Knowledge Graph Embedding Compression
+
+3. 2021_CIKM_LightKG_A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage
+
+4. 2021_TNNLS_d-SNEQ_SemiSupervised Network Embedding with Differentiable Deep Quantization
+
+5. 2023_ICLR_Mole-BERT_Mole-BERT= Rethinking Pre-Training Graph Neural Networks for Molecules
+
+6. 2023_NeurIPS_IMoLD_Learning Invariant Molecular Representation in Latent Discrete Space
+
+7. 2024_ICLR_MAPE-PPI_MAPE-PPI：Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding
+
+8. 2024_ICLR_VQGraph_VQGraph= Rethinking Graph Representation Space for Bridging GNNs and MLPs
+
+9. 2024_NeurlPS_GFT_GFT：Graph Foundation Model with Transferable Tree Vocabulary
+
+10. 2024_TMLR_DGAE_Discrete Graph Auto-Encoder
+
+11. 2025_arXiv_GT-SVQ_GT-SVQ：A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization
+
+12. 2025_AAAI_GLAD_GLAD= Improving Latent Graph Generative Modeling with Simple Quantization
+
+13. 2025_ICLR_GQT_Learning Graph Quantized Tokenizers
+
+14. 2025_ICLR_NID_Node Identifiers= Compact, Discrete Representations for Efficient Graph Learning
+
+15. 2025_WWW_HQA-GAE_Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection
+
+
+
+
+
 
 
 ### 3.4
