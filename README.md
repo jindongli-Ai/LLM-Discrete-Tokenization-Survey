@@ -61,45 +61,45 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.1 Vinalla Vector Quantization (VQ)
 
-1. 2017_NeurIPS_VQ-VAE_Neural Discrete Representation Learning
+1. 2017_NeurIPS_VQ-VAE_Neural Discrete Representation Learning.
 
-2. 2017_NeurlPS_SHVQ_Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations
+2. 2017_NeurlPS_SHVQ_Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations.
 
-3. 2018_arXiv_Theory and Experiments on Vector Quantized Autoencoders
+3. 2018_arXiv_Theory and Experiments on Vector Quantized Autoencoders.
 
-4. 2019_NeurlPS_VQ-VAE-2_Generating Diverse High-Fidelity Images with VQ-VAE-2
+4. 2019_NeurlPS_VQ-VAE-2_Generating Diverse High-Fidelity Images with VQ-VAE-2.
 
-5. 2020_AAAI_soft VQ-VAE_Vector quantization-based regularization for autoencoders
+5. 2020_AAAI_soft VQ-VAE_Vector quantization-based regularization for autoencoders.
 
-6. 2020_NeurlPS_HQA_Hierarchical Quantized Autoencoders
+6. 2020_NeurlPS_HQA_Hierarchical Quantized Autoencoders.
 
-7. 2021_CVPR_VQGAN_Taming Transformers for High-Resolution Image Synthesis
+7. 2021_CVPR_VQGAN_Taming Transformers for High-Resolution Image Synthesis.
 
-8. 2022_arXiv_HC-VQ_Homology-constrained vector quantization entropy regularizer
+8. 2022_arXiv_HC-VQ_Homology-constrained vector quantization entropy regularizer.
 
-9. 2022_ICML_SQ-VAE_SQ-VAE：Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization
+9. 2022_ICML_SQ-VAE_SQ-VAE：Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization.
 
-10. 2023_CVPR_Reg-VQ_Regularized Vector Quantization for Tokenized Image Synthesis
+10. 2023_CVPR_Reg-VQ_Regularized Vector Quantization for Tokenized Image Synthesis.
 
-11. 2023_ICCV_CVQ-VAE_Online Clustered Codebook
+11. 2023_ICCV_CVQ-VAE_Online Clustered Codebook.
 
-12. 2023_ICML_Straightening Out the Straight-Through Estimator：Overcoming Optimization Challenges in Vector Quantized Networks
+12. 2023_ICML_Straightening Out the Straight-Through Estimator：Overcoming Optimization Challenges in Vector Quantized Networks.
 
-13. 2023_ICML_VQ-WAE_Vector Quantized Wasserstein Auto-Encoder
+13. 2023_ICML_VQ-WAE_Vector Quantized Wasserstein Auto-Encoder.
 
-14. 2024_arXiv_HyperVQ_HyperVQ--MLR-based Vector Quantization in Hyperbolic Space
+14. 2024_arXiv_HyperVQ_HyperVQ--MLR-based Vector Quantization in Hyperbolic Space.
 
-15. 2024_arXiv_IBQ_Scalable Image Tokenization with Index Backpropagation Quantization
+15. 2024_arXiv_IBQ_Scalable Image Tokenization with Index Backpropagation Quantization.
 
-16. 2024_arXiv_SimVQ_Addressing representation collapse in vector quantized models with one linear layer
+16. 2024_arXiv_SimVQ_Addressing representation collapse in vector quantized models with one linear layer.
 
-17. 2024_arXiv_VQGAN-LC_Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%
+17. 2024_arXiv_VQGAN-LC_Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%.
 
-18. 2024_L4DC_SCQ_Soft Convex Quantization=Revisiting Vector Quantization with Convex Optimization
+18. 2024_L4DC_SCQ_Soft Convex Quantization=Revisiting Vector Quantization with Convex Optimization.
 
-19. 2024_TMLR_HQ-VAE_HQ-VAE：Hierarchical Discrete Representation Learning with Variational Bayes
+19. 2024_TMLR_HQ-VAE_HQ-VAE：Hierarchical Discrete Representation Learning with Variational Bayes.
 
-20. 2025_ICLR_rotation trick_Restructuring vector quantization with the rotation trick
+20. 2025_ICLR_rotation trick_Restructuring vector quantization with the rotation trick.
 
 
 
@@ -109,27 +109,27 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.2 Residual Vector Quantization (RVQ)
 
-1. 2010_RVQ_Approximate nearest neighbor search by residual vector quantization
+1. 2010_RVQ_Approximate nearest neighbor search by residual vector quantization.
 
-2. 2014_arXiv_SQ_Stacked Quantizers for Compositional Vector Compression
+2. 2014_arXiv_SQ_Stacked Quantizers for Compositional Vector Compression.
 
-3. 2014_IEEE Multimedia_PRVQ_Projected residual vector quantization for ANN search
+3. 2014_IEEE Multimedia_PRVQ_Projected residual vector quantization for ANN search.
 
-4. 2015_arXiv_IRVQ_Improved Residual Vector Quantization for High-dimensional Approximate Nearest Neighbor Search
+4. 2015_arXiv_IRVQ_Improved Residual Vector Quantization for High-dimensional Approximate Nearest Neighbor Search.
 
-5. 2015_arXiv_TRQ_Transformed Residual Quantization for Approximate Nearest Neighbor Search
+5. 2015_arXiv_TRQ_Transformed Residual Quantization for Approximate Nearest Neighbor Search.
 
-6. 2016_Neurocomputing_RVQ-P RVQ-NP_Parametric and nonparametric residual vector quantization optimizations for ANN search
+6. 2016_Neurocomputing_RVQ-P RVQ-NP_Parametric and nonparametric residual vector quantization optimizations for ANN search.
 
-7. 2016_TKDE_CompQ_Competitive Quantization for Approximate Nearest Neighbor Search
+7. 2016_TKDE_CompQ_Competitive Quantization for Approximate Nearest Neighbor Search.
 
-8. 2017_Multimedia Systems_ERVQ_Optimized residual vector quantization for efficient approximate nearest neighbor search
+8. 2017_Multimedia Systems_ERVQ_Optimized residual vector quantization for efficient approximate nearest neighbor search.
 
-9. 2017_Multimedia_GRVQ_Generalized Residual Vector Quantization and Aggregating Tree for Large Scale Search
+9. 2017_Multimedia_GRVQ_Generalized Residual Vector Quantization and Aggregating Tree for Large Scale Search.
 
-10. 2024_ICML_QINCo_Residual Quantization with Implicit Neural Codebooks
+10. 2024_ICML_QINCo_Residual Quantization with Implicit Neural Codebooks.
 
-11. 2025_arXiv_Qinco2_Qinco2：Vector Compression and Search with Improved Implicit Neural Codebooks
+11. 2025_arXiv_Qinco2_Qinco2：Vector Compression and Search with Improved Implicit Neural Codebooks.
 
 
 
@@ -140,39 +140,39 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.3 Product Quantization (PQ)
 
-1. 2011_TPAMI_PQ_Product Quantization for Nearest Neighbor Search
+1. 2011_TPAMI_PQ_Product Quantization for Nearest Neighbor Search.
 
-2. 2013_CVPR_CKM_Cartesian k-means
+2. 2013_CVPR_CKM_Cartesian k-means.
 
-3. 2013_CVPR_OPQ_Optimized product quantization for approximate nearest neighbor search
+3. 2013_CVPR_OPQ_Optimized product quantization for approximate nearest neighbor search.
 
-4. 2014_CVPR_LOPQ_Locally optimized product quantization for approximate nearest neighbor search
+4. 2014_CVPR_LOPQ_Locally optimized product quantization for approximate nearest neighbor search.
 
-5. 2014_ICML_CQ_Composite Quantization for Approximate Nearest Neighbor Search
+5. 2014_ICML_CQ_Composite Quantization for Approximate Nearest Neighbor Search.
 
-6. 2015_CVPR_SQ1 SQ2_Sparse Composite Quantization
+6. 2015_CVPR_SQ1 SQ2_Sparse Composite Quantization.
 
-7. 2015_ICIP_PTQ_Product tree quantization for approximate nearest neighbor search
+7. 2015_ICIP_PTQ_Product tree quantization for approximate nearest neighbor search.
 
-8. 2015_TKDE_OCKM_Optimized Cartesian K-Means
+8. 2015_TKDE_OCKM_Optimized Cartesian K-Means.
 
-9. 2016_CVPR_SQ_Supervised Quantization for Similarity Search
+9. 2016_CVPR_SQ_Supervised Quantization for Similarity Search.
 
-10. 2018_TKDE_Online PQ_Online Product Quantization
+10. 2018_TKDE_Online PQ_Online Product Quantization.
 
-11. 2019_CVPR_DPQ_End-to-End Supervised Product Quantization for Image Search and Retrieval
+11. 2019_CVPR_DPQ_End-to-End Supervised Product Quantization for Image Search and Retrieval.
 
-12. 2020_ICDM_Online  OPQ_Online Optimized Product Quantization
+12. 2020_ICDM_Online  OPQ_Online Optimized Product Quantization.
 
-13. 2020_ICML_DPQ_Differentiable Product Quantization for End-to-End Embedding Compression
+13. 2020_ICML_DPQ_Differentiable Product Quantization for End-to-End Embedding Compression.
 
-14. 2022_ICDE_VAQ_Fast Adaptive Similarity Search through Variance-Aware Quantization
+14. 2022_ICDE_VAQ_Fast Adaptive Similarity Search through Variance-Aware Quantization.
 
-15. 2023_ESWA_RVPQ_Residual Vector Product Quantization for Approximate Nearest Neighbor Search
+15. 2023_ESWA_RVPQ_Residual Vector Product Quantization for Approximate Nearest Neighbor Search.
 
-16. 2023_WWW_DOPQ_Diferentiable Optimized Product Qantization and Beyond
+16. 2023_WWW_DOPQ_Diferentiable Optimized Product Qantization and Beyond.
 
-17. 2024_AAAI_HiHPQ_HiHPQ--Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval
+17. 2024_AAAI_HiHPQ_HiHPQ--Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval.
 
 
 
@@ -182,13 +182,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.4 Additive Vector Quantzation (AQ)
 
-1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression
+1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression.
 
-2. 2016_ECCV_LSQ_Revisiting Additive Quantization
+2. 2016_ECCV_LSQ_Revisiting Additive Quantization.
 
-3. 2018_ECCV_LSQ++_LSQ++：Lower Running Time and Higher Recall in Multi-codebook Quantization
+3. 2018_ECCV_LSQ++_LSQ++：Lower Running Time and Higher Recall in Multi-codebook Quantization.
 
-4. 2021_KDD_Online AQ_Online Additive Quantization
+4. 2021_KDD_Online AQ_Online Additive Quantization.
 
 
 
@@ -199,7 +199,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.5 Finite Scalar Quantization (FSQ)
 
-1. 2024_ICLR_FSQ_Finite Scalar Quantization= VQ-VAE Made Simple
+1. 2024_ICLR_FSQ_Finite Scalar Quantization= VQ-VAE Made Simple.
 
 
 
@@ -210,7 +210,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.6 Look-up Free Quantization (LFQ)
 
-1. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation
+1. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation.
 
 
 
@@ -220,7 +220,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.7 Binary Spherical Quantization (BSQ)
 
-1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization
+1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization.
 
 
 
@@ -229,11 +229,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.8 Graph Anchor-Relation Compositional Tokenization
 
-1. 2022_ICLR_NodePiece_NodePiece= Compositional and Parameter-Efficient Representations of Large Knowledge Graphs
+1. 2022_ICLR_NodePiece_NodePiece= Compositional and Parameter-Efficient Representations of Large Knowledge Graphs.
 
-2. 2023_AAAI_EARL_Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding
+2. 2023_AAAI_EARL_Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding.
 
-3. 2023_EMNLP_RandomEQ_Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation
+3. 2023_EMNLP_RandomEQ_Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation.
 
 
 
@@ -245,51 +245,51 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.1 Image
 
-1. 2017_CVPR_DVSQ_Deep Visual-Semantic Quantization for Efficient Image Retrieval
+1. 2017_CVPR_DVSQ_Deep Visual-Semantic Quantization for Efficient Image Retrieval.
 
-2. 2019_IJCAI_DPQ_Beyond product quantization：Deep progressive quantization for image retrieval
+2. 2019_IJCAI_DPQ_Beyond product quantization：Deep progressive quantization for image retrieval.
 
-3. 2021_ICCV_SPQ_Self-supervised Product Quantization for Deep Unsupervised Image Retrieval
+3. 2021_ICCV_SPQ_Self-supervised Product Quantization for Deep Unsupervised Image Retrieval.
 
-4. 2022_arXiv_BEiT v2_BEiT v2= Masked Image Modeling with Vector-Quantized Visual Tokenizers
+4. 2022_arXiv_BEiT v2_BEiT v2= Masked Image Modeling with Vector-Quantized Visual Tokenizers.
 
-5. 2022_AAAI_MeCoQ_Contrastive Quantization with Code Memory for Unsupervised Image Retrieval
+5. 2022_AAAI_MeCoQ_Contrastive Quantization with Code Memory for Unsupervised Image Retrieval.
 
-6. 2022_CVPR_MaskGIT_MaskGIT：Masked Generative Image Transformer
+6. 2022_CVPR_MaskGIT_MaskGIT：Masked Generative Image Transformer.
 
-7. 2022_CVPR_RQ-VAE RQ-Transformer_AutoRegressive Image Generation using Residual Quantization
+7. 2022_CVPR_RQ-VAE RQ-Transformer_AutoRegressive Image Generation using Residual Quantization.
 
-8. 2022_ICLR_BEiT_BEiT= BERT Pre-Training of Image Transformers
+8. 2022_ICLR_BEiT_BEiT= BERT Pre-Training of Image Transformers.
 
-9. 2022_ICLR_ViT-VQGAN_Vector-Quantization Image Modeling with Improved VQGAN
+9. 2022_ICLR_ViT-VQGAN_Vector-Quantization Image Modeling with Improved VQGAN.
 
-10. 2022_NeurlPS_MoVQ_MoVQ：Modulating Quantized Vectors for High-Fidelity Image Generation
+10. 2022_NeurlPS_MoVQ_MoVQ：Modulating Quantized Vectors for High-Fidelity Image Generation.
 
-11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding：Improved Autoregressive Image Generation with Dynamic Vector Quantization
+11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding：Improved Autoregressive Image Generation with Dynamic Vector Quantization.
 
-12. 2023_CVPR_MAGE_MAGE：MAsked Generative Encoder to Unify Representation Learning and Image Synthesis
+12. 2023_CVPR_MAGE_MAGE：MAsked Generative Encoder to Unify Representation Learning and Image Synthesis.
 
-13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter：Masked Vector Quantization for Autoregressive Image Generation
+13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter：Masked Vector Quantization for Autoregressive Image Generation.
 
-14. 2023_ICCV_Efficient-VQGAN_Efficient-VQGAN：Towards High-Resolution Image Generation with Efficient Vision Transformers
+14. 2023_ICCV_Efficient-VQGAN_Efficient-VQGAN：Towards High-Resolution Image Generation with Efficient Vision Transformers.
 
-15. 2024_CVPR_SeQ-GAN_Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis
+15. 2024_CVPR_SeQ-GAN_Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis.
 
-16. 2024_ICLR_ClusterMIM_On the Role of Discrete Tokenization in Visual Representation Learning
+16. 2024_ICLR_ClusterMIM_On the Role of Discrete Tokenization in Visual Representation Learning.
 
-17. 2024_NeurlPS_TiTok_An Image is Worth 32 Tokens for Reconstruction and Generation
+17. 2024_NeurlPS_TiTok_An Image is Worth 32 Tokens for Reconstruction and Generation.
 
-18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling：Scalable Image Generation via Next-Scale Prediction
+18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling：Scalable Image Generation via Next-Scale Prediction.
 
-19. 2024_NeurlPS_VQ-KD_Image Understanding Makes for A Good Tokenizer for Image Generation
+19. 2024_NeurlPS_VQ-KD_Image Understanding Makes for A Good Tokenizer for Image Generation.
 
-20. 2024_TMLR_MaskBit_MaskBit：Embedding-free Image Generation via Bit Tokens
+20. 2024_TMLR_MaskBit_MaskBit：Embedding-free Image Generation via Bit Tokens.
 
-21. 2025_arXiv_FlowMo_Flow to the Mode= Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization
+21. 2025_arXiv_FlowMo_Flow to the Mode= Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization.
 
-22. 2025_CVPR_MergeVQ_MergeVQ：A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization
+22. 2025_CVPR_MergeVQ_MergeVQ：A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization.
 
-23. 2025_ICLR_DnD-Transformer_A spark of vision-language intelligence=2-dimensional autoregressive transformer for efficient finegrained image generation
+23. 2025_ICLR_DnD-Transformer_A spark of vision-language intelligence=2-dimensional autoregressive transformer for efficient finegrained image generation.
 
 
 
@@ -300,37 +300,37 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.2 Sound
 
-1. 2022_TASLP_SoundStream_SoundStream：An End-to-End Neural Audio Codec
+1. 2022_TASLP_SoundStream_SoundStream：An End-to-End Neural Audio Codec.
 
-2. 2023_arXiv_HiFi-Codec_HiFi-Codec：Group-residual Vector quantization for High Fidelity Audio Codec
+2. 2023_arXiv_HiFi-Codec_HiFi-Codec：Group-residual Vector quantization for High Fidelity Audio Codec.
 
-3. 2023_NeurlPS_DAC_High fidelity neural audio compression with Improved RVQGAN
+3. 2023_NeurlPS_DAC_High fidelity neural audio compression with Improved RVQGAN.
 
-4. 2023_TMLR_EnCodec_High Fidelity Neural Audio Compression
+4. 2023_TMLR_EnCodec_High Fidelity Neural Audio Compression.
 
-5. 2024_J-STSP_SemantiCodec_SemantiCodec：An Ultra Low Bitrate Semantic Audio Codec for General Sound
+5. 2024_J-STSP_SemantiCodec_SemantiCodec：An Ultra Low Bitrate Semantic Audio Codec for General Sound.
 
-6. 2025_arXiv_QINCODEC_QINCODEC：Neural Audio Compression with Implicit Neural Codebooks
+6. 2025_arXiv_QINCODEC_QINCODEC：Neural Audio Compression with Implicit Neural Codebooks.
 
-7. 2025_arXiv_SQCodec_One Quantizer is Enough：Toward a Lightweight Audio Codec
+7. 2025_arXiv_SQCodec_One Quantizer is Enough：Toward a Lightweight Audio Codec.
 
-8. 2025_arXiv_UniCodec_UniCodec：Unified Audio Codec with Single Domain-Adaptive Codebook
+8. 2025_arXiv_UniCodec_UniCodec：Unified Audio Codec with Single Domain-Adaptive Codebook.
 
-9. 2025_IEEE Signal Processing Letter_StreamCodec_A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication
+9. 2025_IEEE Signal Processing Letter_StreamCodec_A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication.
 
 
 
-1. 2020_ICLR_vq-wav2vec_vq-wav2vec：Self-Supervised Learning of Discrete Speech Representations
+1. 2020_ICLR_vq-wav2vec_vq-wav2vec：Self-Supervised Learning of Discrete Speech Representations.
 
-2. 2020_NeurlPS_wav2vec 2.0_wav2vec 2.0：A Framework for Self-Supervised Learning of Speech Representations
+2. 2020_NeurlPS_wav2vec 2.0_wav2vec 2.0：A Framework for Self-Supervised Learning of Speech Representations.
 
-3. 2023_ICASSP_LMCodec_LMCodec：A Low Bitrate Speech Codec with Causal Transformer Models
+3. 2023_ICASSP_LMCodec_LMCodec：A Low Bitrate Speech Codec with Causal Transformer Models.
 
-4. 2024_ICLR_SpeechTokenizer_SpeechTokenizer：Unified Speech Tokenizer for Speech Language Models
+4. 2024_ICLR_SpeechTokenizer_SpeechTokenizer：Unified Speech Tokenizer for Speech Language Models.
 
-5. 2025_ICASSP_LFSC_Low Frame-rate Speech Codec=A Codec Designed for Fast High-quality Speech LLM Training and Inference
+5. 2025_ICASSP_LFSC_Low Frame-rate Speech Codec=A Codec Designed for Fast High-quality Speech LLM Training and Inference.
 
-6. 2025_ICLR_TAAE_Scaling Transformers for Low-Bitrate High-Quality Speech Coding
+6. 2025_ICLR_TAAE_Scaling Transformers for Low-Bitrate High-Quality Speech Coding.
 
 
 
@@ -339,35 +339,35 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.3 Graph
 
-1. 2020_AAAI_SNEQ_SNEQ= Semi-Supervised Attributed Network Embedding with Attention-Based Quantisation
+1. 2020_AAAI_SNEQ_SNEQ= Semi-Supervised Attributed Network Embedding with Attention-Based Quantisation.
 
-2. 2020_ACL_TS-CL_Knowledge Graph Embedding Compression
+2. 2020_ACL_TS-CL_Knowledge Graph Embedding Compression.
 
-3. 2021_CIKM_LightKG_A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage
+3. 2021_CIKM_LightKG_A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage.
 
-4. 2021_TNNLS_d-SNEQ_SemiSupervised Network Embedding with Differentiable Deep Quantization
+4. 2021_TNNLS_d-SNEQ_SemiSupervised Network Embedding with Differentiable Deep Quantization.
 
-5. 2023_ICLR_Mole-BERT_Mole-BERT= Rethinking Pre-Training Graph Neural Networks for Molecules
+5. 2023_ICLR_Mole-BERT_Mole-BERT= Rethinking Pre-Training Graph Neural Networks for Molecules.
 
-6. 2023_NeurIPS_IMoLD_Learning Invariant Molecular Representation in Latent Discrete Space
+6. 2023_NeurIPS_IMoLD_Learning Invariant Molecular Representation in Latent Discrete Space.
 
-7. 2024_ICLR_MAPE-PPI_MAPE-PPI：Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding
+7. 2024_ICLR_MAPE-PPI_MAPE-PPI：Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding.
 
-8. 2024_ICLR_VQGraph_VQGraph= Rethinking Graph Representation Space for Bridging GNNs and MLPs
+8. 2024_ICLR_VQGraph_VQGraph= Rethinking Graph Representation Space for Bridging GNNs and MLPs.
 
-9. 2024_NeurlPS_GFT_GFT：Graph Foundation Model with Transferable Tree Vocabulary
+9. 2024_NeurlPS_GFT_GFT：Graph Foundation Model with Transferable Tree Vocabulary.
 
-10. 2024_TMLR_DGAE_Discrete Graph Auto-Encoder
+10. 2024_TMLR_DGAE_Discrete Graph Auto-Encoder.
 
-11. 2025_arXiv_GT-SVQ_GT-SVQ：A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization
+11. 2025_arXiv_GT-SVQ_GT-SVQ：A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization.
 
-12. 2025_AAAI_GLAD_GLAD= Improving Latent Graph Generative Modeling with Simple Quantization
+12. 2025_AAAI_GLAD_GLAD= Improving Latent Graph Generative Modeling with Simple Quantization.
 
-13. 2025_ICLR_GQT_Learning Graph Quantized Tokenizers
+13. 2025_ICLR_GQT_Learning Graph Quantized Tokenizers.
 
-14. 2025_ICLR_NID_Node Identifiers= Compact, Discrete Representations for Efficient Graph Learning
+14. 2025_ICLR_NID_Node Identifiers= Compact, Discrete Representations for Efficient Graph Learning.
 
-15. 2025_WWW_HQA-GAE_Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection
+15. 2025_WWW_HQA-GAE_Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection.
 
 
 
@@ -377,29 +377,29 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.4 Video
 
-1. 2021_arXiv_VideoGPT_VideoGPT：Video Generation using VQ-VAE and Transformers
+1. 2021_arXiv_VideoGPT_VideoGPT：Video Generation using VQ-VAE and Transformers.
 
-2. 2022_ECCV_TATS_Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer
+2. 2022_ECCV_TATS_Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer.
 
-3. 2023_CVPR_MAGVIT_MAGVIT= Masked Generative Video Transformer
+3. 2023_CVPR_MAGVIT_MAGVIT= Masked Generative Video Transformer.
 
-4. 2023_ICLR_Phenaki_Phenaki= Variable Length Video Generation From Open Domain Textual Descriptions
+4. 2023_ICLR_Phenaki_Phenaki= Variable Length Video Generation From Open Domain Textual Descriptions.
 
-5. 2024_arXiv_LARP_LARP：Tokenizing Videos with a Learned Autoregressive Generative Prior
+5. 2024_arXiv_LARP_LARP：Tokenizing Videos with a Learned Autoregressive Generative Prior.
 
-6. 2024_arXiv_VidTok_VidTok：A Versatile and Open-Source Video Tokenizer
+6. 2024_arXiv_VidTok_VidTok：A Versatile and Open-Source Video Tokenizer.
 
-7. 2024_arXiv_VQ-NeRV_VQ-NeRV：A Vector Quantized Neural Representation for Videos
+7. 2024_arXiv_VQ-NeRV_VQ-NeRV：A Vector Quantized Neural Representation for Videos.
 
-8. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation
+8. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation.
 
-9. 2024_NeurlPS_OmniTokenizer_OmniTokenizer：A Joint Image-Video Tokenizer for Visual Generation
+9. 2024_NeurlPS_OmniTokenizer_OmniTokenizer：A Joint Image-Video Tokenizer for Visual Generation.
 
-10. 2025_arXiv_SweetTok_SweetTok：Semantic-Aware Spatial-Temporal Tokenizer for Compact Visual Discretization
+10. 2025_arXiv_SweetTok_SweetTok：Semantic-Aware Spatial-Temporal Tokenizer for Compact Visual Discretization.
 
-11. 2025_arXiv_TVC_TVC：Tokenized Video Compression with Ultra-Low Bitrate
+11. 2025_arXiv_TVC_TVC：Tokenized Video Compression with Ultra-Low Bitrate.
 
-12. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization
+12. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization.
 
 
 
@@ -408,9 +408,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.5 Action
 
-1. 2023_CoLR_SAQ_Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning
+1. 2023_CoLR_SAQ_Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning.
 
-2. 2024_ICML_PRISE_PRISE=LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control
+2. 2024_ICML_PRISE_PRISE=LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control.
 
 
 
@@ -421,31 +421,31 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.6 Text + Image
 
-1. 2021_ICML_DALL-E_Zero-Shot Text-to-Image Generation
+1. 2021_ICML_DALL-E_Zero-Shot Text-to-Image Generation.
 
-2. 2021_NeurIPS_CogView_CogView：Mastering Text-to-Image Generation via Transformers
+2. 2021_NeurIPS_CogView_CogView：Mastering Text-to-Image Generation via Transformers.
 
-3. 2022_CVPR_VQ-Diffusion_Vector Quantized Diffusion Model for Text-to-Image Synthesis
+3. 2022_CVPR_VQ-Diffusion_Vector Quantized Diffusion Model for Text-to-Image Synthesis.
 
-4. 2022_ECCV_Make-A-Scene_Make-A-Scene：Scene-Based Text-to-Image Generation with Human Priors
+4. 2022_ECCV_Make-A-Scene_Make-A-Scene：Scene-Based Text-to-Image Generation with Human Priors.
 
-5. 2023_CVPR_NUWA-LIP_NUWA-LIP：Language-guided Image Inpainting with Defect-free VQGAN
+5. 2023_CVPR_NUWA-LIP_NUWA-LIP：Language-guided Image Inpainting with Defect-free VQGAN.
 
-6. 2023_ICLR_Unified-IO_A unified model for vision, language, and multi-modal tasks
+6. 2023_ICLR_Unified-IO_A unified model for vision, language, and multi-modal tasks.
 
-7. 2023_ICML_Muse_Muse=Text-to-Image Generation via Masked Generative Transformer
+7. 2023_ICML_Muse_Muse=Text-to-Image Generation via Masked Generative Transformer.
 
-8. 2024_arXiv_TexTok_Language-Guided Image Tokenization for Generation
+8. 2024_arXiv_TexTok_Language-Guided Image Tokenization for Generation.
 
-9. 2024_NeurlPS_LG-VQ_LG-VQ：Language-Guided Codebook Learning
+9. 2024_NeurlPS_LG-VQ_LG-VQ：Language-Guided Codebook Learning.
 
-10. 2025_arXiv_TokLIP_TokLIP= Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation
+10. 2025_arXiv_TokLIP_TokLIP= Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.
 
-11. 2025_arXiv_UniTok_UniTok：A Unified Tokenizer for Visual Generation and Understanding
+11. 2025_arXiv_UniTok_UniTok：A Unified Tokenizer for Visual Generation and Understanding.
 
-12. 2025_AAAI_MyGO_MyGO= Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion
+12. 2025_AAAI_MyGO_MyGO= Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion.
 
-13. 2025_ICLR_HART_HART= Efficient Visual Generation with Hybrid Autoregressive Transformer
+13. 2025_ICLR_HART_HART= Efficient Visual Generation with Hybrid Autoregressive Transformer.
 
 
 
@@ -456,29 +456,29 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.7 Text + Sound
 
-1. 2023_ICLR_AudioGen_AudioGen：Textually Guided Audio Generation
+1. 2023_ICLR_AudioGen_AudioGen：Textually Guided Audio Generation.
 
-2. 2024_arXiv_Spectral Codecs：Spectrogram-Based Audio Codecs for High Quality Speech Synthesis
-
-
+2. 2024_arXiv_Spectral Codecs：Spectrogram-Based Audio Codecs for High Quality Speech Synthesis.
 
 
 
-1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice：Cross-Lingual Neural Codec Language Modeling
 
-2. 2023_arXiv_VALL-E_Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers
 
-3. 2024_arXiv_RALL-E_RALL-E=Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis
+1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice：Cross-Lingual Neural Codec Language Modeling.
 
-4. 2024_arXiv_SimpleSpeech 2_SimpleSpeech 2：Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models
+2. 2023_arXiv_VALL-E_Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
 
-5. 2024_ICML_NaturalSpeech 3_NaturalSpeech 3：Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models
+3. 2024_arXiv_RALL-E_RALL-E=Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis.
 
-6. 2024_Interspeech_SimpleSpeech_SimpleSpeech：Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models
+4. 2024_arXiv_SimpleSpeech 2_SimpleSpeech 2：Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models.
 
-7. 2024_Interspeech_Single-Codec_Single-Codec=Single-Codebook Speech Codec towards High-Performance
+5. 2024_ICML_NaturalSpeech 3_NaturalSpeech 3：Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models.
 
-8. 2025_ICLR_HALL-E_HALL-E=Hierarchical Neural Codec Language Mdoel for Minute-Long Zero-Shot Text-to-Speech Synthesis
+6. 2024_Interspeech_SimpleSpeech_SimpleSpeech：Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models.
+
+7. 2024_Interspeech_Single-Codec_Single-Codec=Single-Codebook Speech Codec towards High-Performance.
+
+8. 2025_ICLR_HALL-E_HALL-E=Hierarchical Neural Codec Language Mdoel for Minute-Long Zero-Shot Text-to-Speech Synthesis.
 
 
 
@@ -494,7 +494,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.8 Audio + Video
 
-1. 2025_CVIU_VQ-MAE-AV_A vector quantized masked autoencoder for audiovisual speech emotion recognition
+1. 2025_CVIU_VQ-MAE-AV_A vector quantized masked autoencoder for audiovisual speech emotion recognition.
 
 
 
@@ -503,7 +503,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.9 Audio + Action
 
-1. 2024_CVPR_ProTalk_Towards Variable and Coordinated Holistic Co-Speech Motion Generation
+1. 2024_CVPR_ProTalk_Towards Variable and Coordinated Holistic Co-Speech Motion Generation.
 
 
 
@@ -513,7 +513,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.10 Audio + Image + Video
 
-1. 2025_AAAI_VQTalker_VQTalker：Towards Multilingual Talking Avatars through Facial Motion Tokenization
+1. 2025_AAAI_VQTalker_VQTalker：Towards Multilingual Talking Avatars through Facial Motion Tokenization.
 
 
 
@@ -521,7 +521,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.11 Text + Image + Video + Action
 
-1. 2024_arXiv_WorldDreamer_Dreamer=Towards General World Models for Video Generation via Predicting Masked Tokens
+1. 2024_arXiv_WorldDreamer_Dreamer=Towards General World Models for Video Generation via Predicting Masked Tokens.
 
 
 
@@ -529,17 +529,17 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.12 Complex Modality in RecSys
 
-1. 2020_WWW_MGQE_Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems
+1. 2020_WWW_MGQE_Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems.
 
-2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval
+2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval.
 
-3. 2023_TOIS_ReFRS_ReFRS：Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences
+3. 2023_TOIS_ReFRS_ReFRS：Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences.
 
-4. 2023_WWW_VQ-Rec_Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders
+4. 2023_WWW_VQ-Rec_Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders.
 
-5. 2024_KDD_EAGER_EAGER：Two-Stream Generative Recommender with Behavior-Semantic Collaboration
+5. 2024_KDD_EAGER_EAGER：Two-Stream Generative Recommender with Behavior-Semantic Collaboration.
 
-6. 2024_RecSys_CoST_CoST：Contrastive Quantization based Semantic Tokenization for Generative Recommendation
+6. 2024_RecSys_CoST_CoST：Contrastive Quantization based Semantic Tokenization for Generative Recommendation.
 
 
 
@@ -839,43 +839,43 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ## Related Survey
 
-1. 1988_IEEE Transactions on Communications_Survey_Image Coding Using Vector Quantization：A Review
+1. 1988_IEEE Transactions on Communications_Survey_Image Coding Using Vector Quantization：A Review.
 
-2. 1989_IEEE Transactions on Information Theory_Survey_High-Resolution Quantization Theory and the Vector Quantizer Advantage
+2. 1989_IEEE Transactions on Information Theory_Survey_High-Resolution Quantization Theory and the Vector Quantizer Advantage.
 
-3. 1990_IEEE Transactions on Information Theory_Survey_A Study of Vector Quantization for Noisy Channels
+3. 1990_IEEE Transactions on Information Theory_Survey_A Study of Vector Quantization for Noisy Channels.
 
-4. 1996_TIP_Survey_Advances in Residual Vector Quantization：A  Review
+4. 1996_TIP_Survey_Advances in Residual Vector Quantization：A  Review.
 
-5. 1998_IEEE transactions on information theory_Survey_Quantization
+5. 1998_IEEE transactions on information theory_Survey_Quantization.
 
-6. 2006_IEEE Potentials_Survey_A review of vector quantization techniques
+6. 2006_IEEE Potentials_Survey_A review of vector quantization techniques.
 
-7. 2010_IHMSP_Survey_A Survey of VQ Codebook Generation
+7. 2010_IHMSP_Survey_A Survey of VQ Codebook Generation.
 
-8. 2018_MTA_Survey_A Survey of Product Quantization
+8. 2018_MTA_Survey_A Survey of Product Quantization.
 
-9. 2019_Frontiers of Information Technology & Electronic Engineering_Survey_Vector quantization：a review
+9. 2019_Frontiers of Information Technology & Electronic Engineering_Survey_Vector quantization：a review.
 
-10. 2023_ACM Computing Surveys_Survey_Embedding in Recommender Systems：A Survey
+10. 2023_ACM Computing Surveys_Survey_Embedding in Recommender Systems：A Survey.
 
-11. 2024_arXiv_Survey_Vector quantization for recommender systems：a review and outlook
+11. 2024_arXiv_Survey_Vector quantization for recommender systems：a review and outlook.
 
-12. 2024_ACM Computing Surveys_Survey_Embedding Compression in Recommender Systems：A Survey
+12. 2024_ACM Computing Surveys_Survey_Embedding Compression in Recommender Systems：A Survey.
 
-13. 2024_Data Engineering_Survey_High-Dimensional Vector Quantization：General Framework, Recent Advances, and Future Directions
+13. 2024_Data Engineering_Survey_High-Dimensional Vector Quantization：General Framework, Recent Advances, and Future Directions.
 
-14. 2024_arXIv_Survey_Next Token Prediction Towards Multimodal Intelligence：A Comprehensive Survey
+14. 2024_arXIv_Survey_Next Token Prediction Towards Multimodal Intelligence：A Comprehensive Survey.
 
-15. 2024_PrePrints_Survey_Continuous or Discrete, That is the Question=A Survey on Large Multi-Modal Models from the Perspective of Input-Output Space Extension
+15. 2024_PrePrints_Survey_Continuous or Discrete, That is the Question=A Survey on Large Multi-Modal Models from the Perspective of Input-Output Space Extension.
 
-16. 2025_arXiv_Survey_A Survey of Quantized Graph Representation Learning= Connecting Graph Structures with Large Language Models
+16. 2025_arXiv_Survey_A Survey of Quantized Graph Representation Learning= Connecting Graph Structures with Large Language Models.
 
-17. 2025_arXiv_Survey_From Principles to Applications= A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval
+17. 2025_arXiv_Survey_From Principles to Applications= A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval.
 
-18. 2025_arXiv_Survey_Recent Advances in Discrete Speech Tokens：A Review
+18. 2025_arXiv_Survey_Recent Advances in Discrete Speech Tokens：A Review.
 
-19. 2025_TMLR_Survey_Autoregressive Models in Vision：A Survey
+19. 2025_TMLR_Survey_Autoregressive Models in Vision：A Survey.
 
 
 
