@@ -182,13 +182,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.4 Additive Vector Quantzation (AQ)
 
-1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression.
+1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression. [[IEEE CVPR]](https://ieeexplore.ieee.org/document/6909519) [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2014/html/Babenko_Additive_Quantization_for_2014_CVPR_paper.html)
 
-2. 2016_ECCV_LSQ_Revisiting Additive Quantization.
+2. 2016_ECCV_LSQ_Revisiting Additive Quantization. [[Springer]](https://link.springer.com/chapter/10.1007/978-3-319-46475-6_9) [[ECCV]](https://una-dinosauria.github.io/papers/eccv16.pdf)
 
-3. 2018_ECCV_LSQ++_LSQ++：Lower Running Time and Higher Recall in Multi-codebook Quantization.
+3. 2018_ECCV_LSQ++_LSQ++: Lower Running Time and Higher Recall in Multi-codebook Quantization. [[ECCV]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Julieta_Martinez_LSQ_lower_runtime_ECCV_2018_paper.pdf)
 
-4. 2021_KDD_Online AQ_Online Additive Quantization.
+4. 2021_KDD_Online AQ_Online Additive Quantization. [[ACM KDD]](https://dl.acm.org/doi/10.1145/3447548.3467441) [[KDD]](http://dm.ustc.edu.cn/paper_pdf/2021/Qi-Liu-KDD.pdf#:~:text=To%20this%20end%2C%20we%20propose%20an%20online%20learning,%28optimized%29%20prod-uct%20quantization%20and%20comparably%20to%20composite%20quantization.)
 
 
 
@@ -199,7 +199,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.5 Finite Scalar Quantization (FSQ)
 
-1. 2024_ICLR_FSQ_Finite Scalar Quantization= VQ-VAE Made Simple.
+1. 2024_ICLR_FSQ_Finite Scalar Quantization: VQ-VAE Made Simple. [[ICLR]](https://iclr.cc/virtual/2024/poster/19317) [[arXiv]](https://arxiv.org/abs/2309.15505)
 
 
 
@@ -210,7 +210,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.6 Look-up Free Quantization (LFQ)
 
-1. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation.
+1. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation. [[ICLR]](https://iclr.cc/virtual/2024/poster/18119) [[arXiv]](https://arxiv.org/abs/2310.05737)
 
 
 
@@ -220,7 +220,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.7 Binary Spherical Quantization (BSQ)
 
-1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization.
+1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization. [[arXiv]](https://arxiv.org/abs/2406.07548)
 
 
 
@@ -229,11 +229,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 2.8 Graph Anchor-Relation Compositional Tokenization
 
-1. 2022_ICLR_NodePiece_NodePiece= Compositional and Parameter-Efficient Representations of Large Knowledge Graphs.
+1. 2022_ICLR_NodePiece_NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs. [[ICLR]](https://iclr.cc/virtual/2022/poster/6306) [[arXiv]](https://arxiv.org/abs/2106.12144)
 
-2. 2023_AAAI_EARL_Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding.
+2. 2023_AAAI_EARL_Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding. [[ACM AAAI]](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25535) [[arXiv]](https://arxiv.org/abs/2302.01849)
 
-3. 2023_EMNLP_RandomEQ_Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation.
+3. 2023_EMNLP_RandomEQ_Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation. [[EMNLP]](https://aclanthology.org/2023.emnlp-main.177/) [[arXiv]](https://arxiv.org/abs/2310.15797)
 
 
 
