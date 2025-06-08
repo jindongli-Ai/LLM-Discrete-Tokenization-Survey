@@ -58,29 +58,185 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ## 2 Fundamental Techniques
 
-### 2.1
+
+### 2.1 Vinalla Vector Quantization (VQ)
+
+1. 2017_NeurIPS_VQ-VAE_Neural Discrete Representation Learning
+
+2. 2017_NeurlPS_SHVQ_Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations
+
+3. 2018_arXiv_Theory and Experiments on Vector Quantized Autoencoders
+
+4. 2019_NeurlPS_VQ-VAE-2_Generating Diverse High-Fidelity Images with VQ-VAE-2
+
+5. 2020_AAAI_soft VQ-VAE_Vector quantization-based regularization for autoencoders
+
+6. 2020_NeurlPS_HQA_Hierarchical Quantized Autoencoders
+
+7. 2021_CVPR_VQGAN_Taming Transformers for High-Resolution Image Synthesis
+
+8. 2022_arXiv_HC-VQ_Homology-constrained vector quantization entropy regularizer
+
+9. 2022_ICML_SQ-VAE_SQ-VAE：Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization
+
+10. 2023_CVPR_Reg-VQ_Regularized Vector Quantization for Tokenized Image Synthesis
+
+11. 2023_ICCV_CVQ-VAE_Online Clustered Codebook
+
+12. 2023_ICML_Straightening Out the Straight-Through Estimator：Overcoming Optimization Challenges in Vector Quantized Networks
+
+13. 2023_ICML_VQ-WAE_Vector Quantized Wasserstein Auto-Encoder
+
+14. 2024_arXiv_HyperVQ_HyperVQ--MLR-based Vector Quantization in Hyperbolic Space
+
+15. 2024_arXiv_IBQ_Scalable Image Tokenization with Index Backpropagation Quantization
+
+16. 2024_arXiv_SimVQ_Addressing representation collapse in vector quantized models with one linear layer
+
+17. 2024_arXiv_VQGAN-LC_Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%
+
+18. 2024_L4DC_SCQ_Soft Convex Quantization=Revisiting Vector Quantization with Convex Optimization
+
+19. 2024_TMLR_HQ-VAE_HQ-VAE：Hierarchical Discrete Representation Learning with Variational Bayes
+
+20. 2025_ICLR_rotation trick_Restructuring vector quantization with the rotation trick
 
 
 
-### 2.2
 
 
-### 2.3
 
 
-### 2.4
+### 2.2 Residual Vector Quantization (RVQ)
+
+1. 2010_RVQ_Approximate nearest neighbor search by residual vector quantization
+
+2. 2014_arXiv_SQ_Stacked Quantizers for Compositional Vector Compression
+
+3. 2014_IEEE Multimedia_PRVQ_Projected residual vector quantization for ANN search
+
+4. 2015_arXiv_IRVQ_Improved Residual Vector Quantization for High-dimensional Approximate Nearest Neighbor Search
+
+5. 2015_arXiv_TRQ_Transformed Residual Quantization for Approximate Nearest Neighbor Search
+
+6. 2016_Neurocomputing_RVQ-P RVQ-NP_Parametric and nonparametric residual vector quantization optimizations for ANN search
+
+7. 2016_TKDE_CompQ_Competitive Quantization for Approximate Nearest Neighbor Search
+
+8. 2017_Multimedia Systems_ERVQ_Optimized residual vector quantization for efficient approximate nearest neighbor search
+
+9. 2017_Multimedia_GRVQ_Generalized Residual Vector Quantization and Aggregating Tree for Large Scale Search
+
+10. 2024_ICML_QINCo_Residual Quantization with Implicit Neural Codebooks
+
+11. 2025_arXiv_Qinco2_Qinco2：Vector Compression and Search with Improved Implicit Neural Codebooks
 
 
-### 2.5
 
 
-### 2.6
 
 
-### 2.7
 
 
-### 2.8
+### 2.3 Product Quantization (PQ)
+
+1. 2011_TPAMI_PQ_Product Quantization for Nearest Neighbor Search
+
+2. 2013_CVPR_CKM_Cartesian k-means
+
+3. 2013_CVPR_OPQ_Optimized product quantization for approximate nearest neighbor search
+
+4. 2014_CVPR_LOPQ_Locally optimized product quantization for approximate nearest neighbor search
+
+5. 2014_ICML_CQ_Composite Quantization for Approximate Nearest Neighbor Search
+
+6. 2015_CVPR_SQ1 SQ2_Sparse Composite Quantization
+
+7. 2015_ICIP_PTQ_Product tree quantization for approximate nearest neighbor search
+
+8. 2015_TKDE_OCKM_Optimized Cartesian K-Means
+
+9. 2016_CVPR_SQ_Supervised Quantization for Similarity Search
+
+10. 2018_TKDE_Online PQ_Online Product Quantization
+
+11. 2019_CVPR_DPQ_End-to-End Supervised Product Quantization for Image Search and Retrieval
+
+12. 2020_ICDM_Online  OPQ_Online Optimized Product Quantization
+
+13. 2020_ICML_DPQ_Differentiable Product Quantization for End-to-End Embedding Compression
+
+14. 2022_ICDE_VAQ_Fast Adaptive Similarity Search through Variance-Aware Quantization
+
+15. 2023_ESWA_RVPQ_Residual Vector Product Quantization for Approximate Nearest Neighbor Search
+
+16. 2023_WWW_DOPQ_Diferentiable Optimized Product Qantization and Beyond
+
+17. 2024_AAAI_HiHPQ_HiHPQ--Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval
+
+
+
+
+
+
+
+### 2.4 Additive Vector Quantzation (AQ)
+
+1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression
+
+2. 2016_ECCV_LSQ_Revisiting Additive Quantization
+
+3. 2018_ECCV_LSQ++_LSQ++：Lower Running Time and Higher Recall in Multi-codebook Quantization
+
+4. 2021_KDD_Online AQ_Online Additive Quantization
+
+
+
+
+
+
+
+
+### 2.5 Finite Scalar Quantization (FSQ)
+
+1. 2024_ICLR_FSQ_Finite Scalar Quantization= VQ-VAE Made Simple
+
+
+
+
+
+
+
+
+### 2.6 Look-up Free Quantization (LFQ)
+
+1. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation
+
+
+
+
+
+
+
+### 2.7 Binary Spherical Quantization (BSQ)
+
+1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization
+
+
+
+
+
+
+### 2.8 Graph Anchor-Relation Compositional Tokenization
+
+1. 2022_ICLR_NodePiece_NodePiece= Compositional and Parameter-Efficient Representations of Large Knowledge Graphs
+
+2. 2023_AAAI_EARL_Entity-Agnostic Representation Learning for Parameter-Efficient Knowledge Graph Embedding
+
+3. 2023_EMNLP_RandomEQ_Random Entity Quantization for Parameter-Efficient Compositional Knowledge Graph Representation
+
+
+
 
 
 
