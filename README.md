@@ -71,35 +71,35 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 5. 2020_AAAI_soft VQ-VAE_Vector quantization-based regularization for autoencoders. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/6108) [[arXiv]](https://arxiv.org/abs/1905.11062)
 
-6. 2020_NeurlPS_HQA_Hierarchical Quantized Autoencoders.
+6. 2020_NeurlPS_HQA_Hierarchical Quantized Autoencoders. [[NeurIPS]](https://proceedings.neurips.cc/paper/2020/hash/309fee4e541e51de2e41f21bebb342aa-Abstract.html) [[arXiv]](https://arxiv.org/abs/2002.08111)
 
-7. 2021_CVPR_VQGAN_Taming Transformers for High-Resolution Image Synthesis.
+7. 2021_CVPR_VQGAN_Taming Transformers for High-Resolution Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)  [[arXiv]](https://arxiv.org/abs/2012.09841) [[Homepage]](https://compvis.github.io/taming-transformers/)
 
-8. 2022_arXiv_HC-VQ_Homology-constrained vector quantization entropy regularizer.
+8. 2022_arXiv_HC-VQ_Homology-constrained vector quantization entropy regularizer. [[arXiv]](https://arxiv.org/abs/2211.14363)
 
-9. 2022_ICML_SQ-VAE_SQ-VAE：Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization.
+9. 2022_ICML_SQ-VAE_SQ-VAE：Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization. [[ICML--Slides]](https://icml.cc/media/icml-2022/Slides/17788.pdf)  [[arXiv]](https://arxiv.org/abs/2205.07547)
 
-10. 2023_CVPR_Reg-VQ_Regularized Vector Quantization for Tokenized Image Synthesis.
+10. 2023_CVPR_Reg-VQ_Regularized Vector Quantization for Tokenized Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Regularized_Vector_Quantization_for_Tokenized_Image_Synthesis_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2303.06424)
 
-11. 2023_ICCV_CVQ-VAE_Online Clustered Codebook.
+11. 2023_ICCV_CVQ-VAE_Online Clustered Codebook. [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Online_Clustered_Codebook_ICCV_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2307.15139)
 
-12. 2023_ICML_Straightening Out the Straight-Through Estimator：Overcoming Optimization Challenges in Vector Quantized Networks.
+12. 2023_ICML_Straightening Out the Straight-Through Estimator：Overcoming Optimization Challenges in Vector Quantized Networks. [[ICML]](https://proceedings.mlr.press/v202/huh23a.html) [[arXiv]](https://arxiv.org/abs/2305.08842)
 
-13. 2023_ICML_VQ-WAE_Vector Quantized Wasserstein Auto-Encoder.
+13. 2023_ICML_VQ-WAE_Vector Quantized Wasserstein Auto-Encoder. [[ICML]](https://proceedings.mlr.press/v202/vuong23a) [[arXiv]](https://arxiv.org/abs/2302.05917)
 
-14. 2024_arXiv_HyperVQ_HyperVQ--MLR-based Vector Quantization in Hyperbolic Space.
+14. 2024_arXiv_HyperVQ_HyperVQ: MLR-based Vector Quantization in Hyperbolic Space. [[arXiv]](https://arxiv.org/abs/2403.13015)
 
-15. 2024_arXiv_IBQ_Scalable Image Tokenization with Index Backpropagation Quantization.
+15. 2024_arXiv_IBQ_Scalable Image Tokenization with Index Backpropagation Quantization. [[arXiv]](https://arxiv.org/abs/2412.02692)
 
-16. 2024_arXiv_SimVQ_Addressing representation collapse in vector quantized models with one linear layer.
+16. 2024_arXiv_SimVQ_Addressing representation collapse in vector quantized models with one linear layer. [[arXiv]](https://arxiv.org/abs/2411.02038v1)
 
-17. 2024_arXiv_VQGAN-LC_Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%.
+17. 2024_NeurIPS_VQGAN-LC_Scaling the Codebook Size of VQGAN to 100,000 with a Utilization Rate of 99%. [[arXiv]](https://arxiv.org/abs/2406.11837v1)
 
-18. 2024_L4DC_SCQ_Soft Convex Quantization=Revisiting Vector Quantization with Convex Optimization.
+18. 2024_L4DC_SCQ_Soft Convex Quantization=Revisiting Vector Quantization with Convex Optimization. [[PMLR]](https://proceedings.mlr.press/v242/gautam24a/gautam24a.pdf) [[arXiv]](https://arxiv.org/abs/2310.03004)
 
-19. 2024_TMLR_HQ-VAE_HQ-VAE：Hierarchical Discrete Representation Learning with Variational Bayes.
+19. 2024_TMLR_HQ-VAE_HQ-VAE：Hierarchical Discrete Representation Learning with Variational Bayes.  [[arXiv]](https://arxiv.org/abs/2401.00365)
 
-20. 2025_ICLR_rotation trick_Restructuring vector quantization with the rotation trick.
+20. 2025_ICLR_rotation trick_Restructuring vector quantization with the rotation trick. [[ICLR--Slides]](https://iclr.cc/media/iclr-2025/Slides/30284_p9wWGoU.pdf) [[arXiv]](https://arxiv.org/abs/2410.06424)
 
 
 
