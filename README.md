@@ -408,10 +408,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.5 Action
 
-1. 2023_CoLR_SAQ_Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning.
+1. 2023_CoLR_SAQ_Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning. [[arXiv]](https://arxiv.org/abs/2310.11731) [[Github]](https://saqrl.github.io/)
 
-2. 2024_ICML_PRISE_PRISE=LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control.
-
+2. 2024_ICML_PRISE_PRISE: LLM-Style Sequence Compression for Learning Temporal Action Abstractions in Control.  [[ICML]](https://proceedings.mlr.press/v235/zheng24b.html) [[arXiv]](https://arxiv.org/abs/2402.10450) [[Github]](https://github.com/FrankZheng2022/PRISE)
 
 
 
@@ -421,31 +420,31 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.6 Text + Image
 
-1. 2021_ICML_DALL-E_Zero-Shot Text-to-Image Generation.
+1. 2021_ICML_DALL-E_Zero-Shot Text-to-Image Generation. [[ICML]](https://proceedings.mlr.press/v139/ramesh21a.html) [[arXiv]](https://arxiv.org/abs/2102.12092)
 
-2. 2021_NeurIPS_CogView_CogView：Mastering Text-to-Image Generation via Transformers.
+2. 2021_NeurIPS_CogView_CogView：Mastering Text-to-Image Generation via Transformers. [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/a4d92e2cd541fca87e4620aba658316d-Abstract.html) [[arXiv]](https://arxiv.org/abs/2105.13290) [[Github]](https://github.com/THUDM/CogView)
 
-3. 2022_CVPR_VQ-Diffusion_Vector Quantized Diffusion Model for Text-to-Image Synthesis.
+3. 2022_CVPR_VQ-Diffusion_Vector Quantized Diffusion Model for Text-to-Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/9879180) [[arXiv]](https://arxiv.org/abs/2111.14822) [[Github]](https://github.com/microsoft/VQ-Diffusion)
 
-4. 2022_ECCV_Make-A-Scene_Make-A-Scene：Scene-Based Text-to-Image Generation with Human Priors.
+4. 2022_ECCV_Make-A-Scene_Make-A-Scene：Scene-Based Text-to-Image Generation with Human Priors. [[ECCV]](https://dlnext.acm.org/doi/10.1007/978-3-031-19784-0_6) [[arXiv]](https://arxiv.org/abs/2203.13131) [[Github]](https://arxiv.org/abs/2203.13131)
 
-5. 2023_CVPR_NUWA-LIP_NUWA-LIP：Language-guided Image Inpainting with Defect-free VQGAN.
+5. 2023_CVPR_NUWA-LIP_NUWA-LIP：Language-guided Image Inpainting with Defect-free VQGAN. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2202.05009) [[Github]](https://github.com/kodenii/NUWA-LIP)
 
-6. 2023_ICLR_Unified-IO_A unified model for vision, language, and multi-modal tasks.
+6. 2023_ICLR_Unified-IO_Unified-IO: A unified model for vision, language, and multi-modal tasks. [[ICLR]](https://iclr.cc/virtual/2023/oral/12725) [[arXiv]](https://arxiv.org/abs/2206.08916)
 
-7. 2023_ICML_Muse_Muse=Text-to-Image Generation via Masked Generative Transformer.
+7. 2023_ICML_Muse_Muse: Text-to-Image Generation via Masked Generative Transformer. [[ICML]](https://proceedings.mlr.press/v202/chang23b.html) [[arXiv]](https://arxiv.org/abs/2301.00704)
 
-8. 2024_arXiv_TexTok_Language-Guided Image Tokenization for Generation.
+8. 2024_arXiv_TexTok_Language-Guided Image Tokenization for Generation. [[arXiv]](https://arxiv.org/abs/2412.05796)
 
-9. 2024_NeurlPS_LG-VQ_LG-VQ：Language-Guided Codebook Learning.
+9. 2024_NeurlPS_LG-VQ_LG-VQ: Language-Guided Codebook Learning. [[NeurIPS]](https://papers.nips.cc/paper_files/paper/2024/hash/fc8781fb328fb1fd069584a4519a2709-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2405.14206) [[Github]](https://github.com/GuotaoLiang/LG-VQ-language-guided-codebook-learning)
 
-10. 2025_arXiv_TokLIP_TokLIP= Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation.
+10. 2025_arXiv_TokLIP_TokLIP: Marry Visual Tokens to CLIP for Multimodal Comprehension and Generation. [[arXiv]](https://arxiv.org/abs/2505.05422) [[Github]](https://github.com/TencentARC/TokLIP/tree/main)
 
-11. 2025_arXiv_UniTok_UniTok：A Unified Tokenizer for Visual Generation and Understanding.
+11. 2025_arXiv_UniTok_UniTok: A Unified Tokenizer for Visual Generation and Understanding. [[arXiv]](https://arxiv.org/abs/2502.20321v1) [[Github]](https://github.com/FoundationVision/UniTok)
 
-12. 2025_AAAI_MyGO_MyGO= Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion.
+12. 2025_AAAI_MyGO_MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion. [[arXiv]](https://arxiv.org/abs/2404.09468v1) [[Github]](https://github.com/zjukg/MyGO)
 
-13. 2025_ICLR_HART_HART= Efficient Visual Generation with Hybrid Autoregressive Transformer.
+13. 2025_ICLR_HART_HART: Efficient Visual Generation with Hybrid Autoregressive Transformer.
 
 
 
