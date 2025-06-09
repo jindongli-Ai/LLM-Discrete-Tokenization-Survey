@@ -683,7 +683,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 20. 2025_arXiv_UniToken_UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding. [[arXiv]](https://arxiv.org/abs/2504.04423) [[Github]](https://github.com/SxJyJay/UniToken)
 
-21. 2025_arXv_Token-Shuffle_Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models. [[arXiv]](https://arxiv.org/abs/2504.17789) [[Github]](https://github.com/ma-xu/token-shuffle) [[Huggingface]](https://huggingface.co/papers/2504.17789#:~:text=A%20Token-Shuffle%20method%20enhances%20high-resolution%20AR%20image%20generation,Transformers%2C%20enabling%20efficient%20generation%20and%20outperforming%20diffusion%20models.)
+21. 2025_arXv_Token-Shuffle_Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models. [[arXiv]](https://arxiv.org/abs/2504.17789) [[Github]](https://github.com/ma-xu/token-shuffle) [[Huggingface]](https://huggingface.co/papers/2504.17789)
 
 22. 2025_AAAI_MARS_MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/33882) [[arXiv]](https://arxiv.org/abs/2407.07614) [[Github]](https://github.com/fusiming3/MARS)
 
@@ -735,9 +735,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 1. 2024_arXiv_Loong_Loong: Generating Minute-level Long Videos with Autoregressive Language Models. [[arXiv]](https://arxiv.org/abs/2410.02757) [[Github]](https://yuqingwang1029.github.io/Loong-video/) [[Huggingface]](https://huggingface.co/papers/2410.02757)
 
-2. 2024_ICML_Video-LaVIT_Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization. [[ICML]](https://proceedings.mlr.press/v235/jin24f.html) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3692962) [[arXiv]](https://arxiv.org/abs/2402.03161) [[Github]]()
+2. 2024_ICML_Video-LaVIT_Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization. [[ICML]](https://proceedings.mlr.press/v235/jin24f.html) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3692962) [[arXiv]](https://arxiv.org/abs/2402.03161) [[Github]](https://video-lavit.github.io/)
 
-3. 2025_arXiv_HiTVideo_HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models.
+3. 2025_arXiv_HiTVideo_HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models. [[arXiv]](https://arxiv.org/abs/2503.11513) [[Github]](https://ziqinzhou66.github.io/project/HiTVideo/)
 
 
 
@@ -747,13 +747,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.4 Text + Graph
 
-1. 2024_arXiv_UniMoT_UniMoT_Unified Molecule-Text Language Model with Discrete Token Representation.
+1. 2024_arXiv_UniMoT_UniMoT: Unified Molecule-Text Language Model with Discrete Token Representation. [[arXiv]](https://arxiv.org/abs/2408.00863) [[Github]](https://uni-mot.github.io/)
 
-2. 2024_ICML Workshop_HIGHT_Improving Graph-Language Alignment with Hierarchical Graph Tokenization.
+2. 2024_ICML Workshop_HIGHT_Improving Graph-Language Alignment with Hierarchical Graph Tokenization. [[OpenReview ICML Workshop]](https://openreview.net/forum?id=Vy1VgUGnuJ)
 
-3. 2025_arXiv_MedTok_Multimodal Medical Code Tokenizer.
+3. 2025_arXiv_MedTok_Multimodal Medical Code Tokenizer. [[arXiv]](https://arxiv.org/abs/2502.04397)
 
-4. 2025_arXiv_SSQR_Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models.
+4. 2025_arXiv_SSQR_Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models. [[arXiv]](https://arxiv.org/abs/2501.18119) [[Huggingface]](https://huggingface.co/papers/2501.18119)
 
 
 
@@ -762,13 +762,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.5 Text + Motion
 
-1. 2024_arXiv_MotionGlot_MotionGlot: A Multi-Embodied Motion Generation Model.
+1. 2024_arXiv_MotionGlot_MotionGlot: A Multi-Embodied Motion Generation Model. [[arXiv]](https://arxiv.org/abs/2410.16623) [[Demo]](https://ivl.cs.brown.edu/research/motionglot.html) [[Github]](https://github.com/sudarshan-s-harithas/MotionGlot-A-Multi-Embodied-Motion-Generation-Model)
 
-2. 2024_CVPR_AvatarGPT_AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond.
+2. 2024_CVPR_AvatarGPT_AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhou_AvatarGPT_All-in-One_Framework_for_Motion_Understanding_Planning_Generation_and_Beyond_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10655442) [[arXiv]](https://arxiv.org/abs/2311.16468) [[Github]](https://zixiangzhou916.github.io/AvatarGPT/)
 
-3. 2024_ECCV_Semgrasp_Semantic grasp generation via language aligned discretization.
+3. 2024_ECCV_Semgrasp_Semgrasp_Semantic grasp generation via language aligned discretization. [[ACM ECCV]](https://dl.acm.org/doi/abs/10.1007/978-3-031-72627-9_7) [[arXiv]](https://arxiv.org/abs/2404.03590)
 
-4. 2024_IV_Walk-the-Talk_Walk-the-Talk: LLM driven Pedestrian Motion Generation.
+4. 2024_IV_Walk-the-Talk_Walk-the-Talk: LLM driven Pedestrian Motion Generation. [[IEEE IV]](https://ieeexplore.ieee.org/document/10588860)
 
 
 
@@ -777,11 +777,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.6 Text + Image + Audio
 
-1. 2023_arXiv_TEAL_TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models.
+1. 2023_arXiv_TEAL_TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models. [[arXiv]](https://arxiv.org/abs/2311.04589)
 
-2. 2024_arXiv_DMLM_Discrete Multimodal Transformers with A Pretrained Large Language Model for Mixed-Supervision Speech Processing.
+2. 2024_arXiv_DMLM_Discrete Multimodal Transformers with A Pretrained Large Language Model for Mixed-Supervision Speech Processing. [[arXiv]](https://arxiv.org/abs/2406.06582)
 
-3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling.
+3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling. [[ACL]](https://aclanthology.org/2024.acl-long.521/) [[arXiv]](https://arxiv.org/abs/2402.12226) [[Github]](https://github.com/OpenMOSS/AnyGPT) [[Huggingface]](https://huggingface.co/fnlp/AnyGPT-base) [[Video]](https://huggingface.co/fnlp/AnyGPT-base)
 
 
 
@@ -790,11 +790,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.7 Text + Image + Video
 
-1. 2024_arXiv_Emu3: Next-Token Prediction is All You Need.
+1. 2024_arXiv_Emu3: Next-Token Prediction is All You Need. [[arXiv]](https://arxiv.org/abs/2409.18869) [[Github]](https://github.com/baaivision/Emu3) [[Youtube]](https://www.youtube.com/watch?v=vO3sEdNGibw)
 
-2. 2025_ICLR_LWM_World model on million-length video and language with blockwise ringattention.
+2. 2025_ICLR_LWM_World model on million-length video and language with blockwise ringattention. [[ICLR]](https://iclr.cc/virtual/2025/poster/30229) [[arXiv]](https://arxiv.org/abs/2402.08268) [[Github]](https://github.com/LargeWorldModel/lwm) [[Huggingface]](https://huggingface.co/papers/2402.08268) [[Youtube]](https://www.youtube.com/watch?v=ZCa_BqDCWgo)
 
-3. 2025_ICLR_VILA-U_VILA-U: A Unified Foundation Model Integrating Visual Understanding and Generation.
+3. 2025_ICLR_VILA-U_VILA-U: A Unified Foundation Model Integrating Visual Understanding and Generation. [[ICLR]](https://iclr.cc/virtual/2025/poster/31274) [[arXiv]](https://arxiv.org/abs/2409.04429) [[Huggingface]](https://huggingface.co/mit-han-lab/vila-u-7b-256)
 
 
 
@@ -804,7 +804,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.8 Text + Audio + Motion
 
-1. 2025_ICCGV_LLM Gesticulator_LLM Gesticulator=Levaraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis.
+1. 2025_ICCGV_LLM Gesticulator_LLM Gesticulator: Levaraging Large Language Models for Scalable and Controllable Co-Speech Gesture Synthesis. [[arXiv]](https://arxiv.org/abs/2410.10851) [[Github]](https://github.com/LLMGesticulator/LLMGesticulator.github.io)
 
 
 
@@ -814,7 +814,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.9 Text + Image + Audio + Action
 
-1. 2024_CVPR_Unified-IO 2_Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.
+1. 2024_CVPR_Unified-IO 2_Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10657364) [[arXiv]](https://arxiv.org/abs/2312.17172) [[Huggingface]](https://huggingface.co/papers/2312.17172)
 
 
 
@@ -822,9 +822,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.10 Text + Image + Video + Audio
 
-1. 2024_arXiv_MIO_MIO: A foundation model on multimodal tokens.
+1. 2024_arXiv_MIO_MIO: A foundation model on multimodal tokens. [[arXiv]](https://arxiv.org/abs/2409.17692) [[Huggingface]](https://huggingface.co/papers/2409.17692) [[Youtube]](https://www.youtube.com/watch?v=SAUQvgSuOW0)
 
-2. 2024_ICML_VideoPoet_VideoPoet: A Large Language Model for Zero-Shot Video Generation.
+2. 2024_ICML_VideoPoet_VideoPoet: A Large Language Model for Zero-Shot Video Generation. [[ICML]](https://proceedings.mlr.press/v235/kondratyuk24a.html) [[arXiv]](https://arxiv.org/abs/2312.14125) [[Huggingface]](https://huggingface.co/papers/2312.14125) [[Youtube]](https://www.youtube.com/watch?v=eMQ1mCVBQPs)
 
 
 
