@@ -365,9 +365,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 13. 2025_ICLR_GQT_Learning Graph Quantized Tokenizers. [[ICLR]](https://iclr.cc/virtual/2025/poster/28351) [[arXiv]](https://arxiv.org/abs/2410.13798)
 
-14. 2025_ICLR_NID_Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning.
+14. 2025_ICLR_NID_Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning. [[ICLR]](https://iclr.cc/virtual/2025/poster/28071) [[arXiv]](http://export.arxiv.org/abs/2405.16435v2)
 
-15. 2025_WWW_HQA-GAE_Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection.
+15. 2025_WWW_HQA-GAE_Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection. [[WWW]](https://dl.acm.org/doi/10.1145/3696410.3714656) [[arXiv]](https://arxiv.org/abs/2504.12715)
 
 
 
@@ -377,29 +377,29 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.4 Video
 
-1. 2021_arXiv_VideoGPT_VideoGPT：Video Generation using VQ-VAE and Transformers.
+1. 2021_arXiv_VideoGPT_VideoGPT: Video Generation using VQ-VAE :and Transformers. [[arXiv]](https://arxiv.org/abs/2104.10157) [[Github]](https://arxiv.org/abs/2104.10157)
 
-2. 2022_ECCV_TATS_Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer.
+2. 2022_ECCV_TATS_Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer. [[ECCV]](https://dl.acm.org/doi/abs/10.1007/978-3-031-19790-1_7) [[arXiv]](https://arxiv.org/abs/2204.03638)
 
-3. 2023_CVPR_MAGVIT_MAGVIT= Masked Generative Video Transformer.
+3. 2023_CVPR_MAGVIT_MAGVIT: Masked Generative Video Transformer. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2212.05199)
 
-4. 2023_ICLR_Phenaki_Phenaki= Variable Length Video Generation From Open Domain Textual Descriptions.
+4. 2023_ICLR_Phenaki_Phenaki: Variable Length Video Generation From Open Domain Textual Descriptions.  [[ICLR]](https://iclr.cc/virtual/2023/poster/12256) [[arXiv]](https://arxiv.org/abs/2210.02399v1)
 
-5. 2024_arXiv_LARP_LARP：Tokenizing Videos with a Learned Autoregressive Generative Prior.
+5. 2024_arXiv_LARP_LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior. [[arXiv]](https://arxiv.org/abs/2410.21264) [[Github]](https://github.com/hywang66/LARP/)
 
-6. 2024_arXiv_VidTok_VidTok：A Versatile and Open-Source Video Tokenizer.
+6. 2024_arXiv_VidTok_VidTok: A Versatile and Open-Source Video Tokenizer. [[arXiv]](https://arxhiv.org/abs/2412.13061)
 
-7. 2024_arXiv_VQ-NeRV_VQ-NeRV：A Vector Quantized Neural Representation for Videos.
+7. 2024_arXiv_VQ-NeRV_VQ-NeRV: A Vector Quantized Neural Representation for Videos. [[arXiv]](https://arxiv.org/abs/2403.12401) [[Github]](https://github.com/magicffourier/VQ-NeRV)
 
-8. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation.
+8. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion: Tokenizer is Key to Visual Generation. [[arXiv]](https://arxiv.org/abs/2310.05737) [[Github]](https://github.com/lucidrains/magvit2-pytorch)
 
-9. 2024_NeurlPS_OmniTokenizer_OmniTokenizer：A Joint Image-Video Tokenizer for Visual Generation.
+9. 2024_NeurlPS_OmniTokenizer_OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/31994923f58ae5b2d661b300bd439107-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2406.09399)
 
-10. 2025_arXiv_SweetTok_SweetTok：Semantic-Aware Spatial-Temporal Tokenizer for Compact Visual Discretization.
+10. 2025_arXiv_SweetTok_SweetTok: Semantic-Aware Spatial-Temporal Tokenizer for Compact Visual Discretization. [[arXiv]](https://arxiv.org/abs/2412.10443v2)
 
-11. 2025_arXiv_TVC_TVC：Tokenized Video Compression with Ultra-Low Bitrate.
+11. 2025_arXiv_TVC_TVC: Tokenized Video Compression with Ultra-Low Bitrate. [[arXiv]](https://arxiv.org/abs/2504.16953)
 
-12. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization.
+12. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization. [[arXiv]](https://arxiv.org/abs/2406.07548) [[Github]](https://github.com/zhaoyue-zephyrus/bsq-vit)
 
 
 
