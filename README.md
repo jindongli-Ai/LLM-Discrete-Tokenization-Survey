@@ -573,11 +573,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 4.2 Audio
 
-1. 2023_NeurlPS_TWIST_Textually Pretrained Speech Language Models.
+1. 2023_NeurlPS_TWIST_Textually Pretrained Speech Language Models. [[NeruIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c859b99b5d717c9035e79d43dfd69435-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2305.13009)
 
-2. 2024_arXiv_JTFS LM_Comparing Discrete and Continuous Space LLMs for Speech Recognition.
+2. 2024_arXiv_JTFS LM_Comparing Discrete and Continuous Space LLMs for Speech Recognition. [[arXiv]](https://arxiv.org/abs/2409.00800) [[Github]](https://github.com/xuyaoxun/ASRCompare)
 
-3. 2024_arXiv_SSVC_Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations.
+3. 2024_arXiv_SSVC_Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations. [[arXiv]](https://arxiv.org/abs/2402.03407)
 
 
 
@@ -586,9 +586,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 4.3 Graph
 
-1. 2024_arXiv_NT-LLM_NT-LLM:A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models.
+1. 2024_arXiv_NT-LLM_NT-LLM: A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models. [[arXiv]](https://arxiv.org/abs/2410.10743)
 
-2. 2025_AAAI_Dr.E_Multi-View Empowered Structural Graph Wordification for Language Models.
+2. 2025_AAAI_Dr.E_Multi-View Empowered Structural Graph Wordification for Language Models. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34652) [[arXiv]](https://arxiv.org/abs/2406.15504)
 
 
 
@@ -599,8 +599,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 4.4 Action
 
-1. 2024_CVPR_LLM-AR_LLMs are Good Action Recognizers.
-
+1. 2024_CVPR_LLM-AR_LLMs are Good Action Recognizers. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_LLMs_are_Good_Action_Recognizers_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10657164) [[arXiv]](https://arxiv.org/abs/2404.00532)
 
 
 
@@ -610,29 +609,29 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 4.5 Complex Modalityu in RecSys
 
-1. 2024_arXiv_ETEGRec_Generative Recommender with End-to-End Learnable Item Tokenization.
+1. 2024_arXiv_ETEGRec_Generative Recommender with End-to-End Learnable Item Tokenization. [[arXiv]](https://arxiv.org/abs/2409.05546)
 
-2. 2024_arXiv_META ID_Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens.
+2. 2024_arXiv_META ID_Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens. [[ICML]](https://icml.cc/virtual/2025/poster/44677) [[arXiv]](https://arxiv.org/abs/2406.08477)
 
-3. 2024_arXiv_QARM_QARM:Quantitative Alignment Multi-Modal Recommendation at Kuaishou.
+3. 2024_arXiv_QARM_QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou. [[arXiv]](https://arxiv.org/abs/2411.11739)
 
-4. 2024_arXiv_STORE_Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM.
+4. 2024_arXiv_STORE_Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM. [[arXiv]](https://arxiv.org/abs/2409.07276)
 
-5. 2024_arXiv_TokenRec_TokenRec: Learning to Tokenize ID for LLM-bsed Generative Recommendations.
+5. 2024_arXiv_TokenRec_TokenRec: Learning to Tokenize ID for LLM-bsed Generative Recommendations. [[arXiv]](https://arxiv.org/abs/2406.10450) [[Github]](https://github.com/Quhaoh233/TokenRec)
 
-6. 2024_CIKM_ColaRec_Content-Based Collaborative Generation for Recommender Systems.
+6. 2024_CIKM_ColaRec_Content-Based Collaborative Generation for Recommender Systems. [[ACM CIKM]](https://dl.acm.org/doi/abs/10.1145/3627673.3679692) [[arXiv]](https://arxiv.org/abs/2403.18480) [[Github]](https://github.com/Junewang0614/ColaRec)
 
-7. 2024_CIKM_LETTER_Learnable Item Tokenization for Generative Recommendation.
+7. 2024_CIKM_LETTER_Learnable Item Tokenization for Generative Recommendation. [[ACM CIKM]](https://dl.acm.org/doi/10.1145/3627673.3679569) [[arXiv]](https://arxiv.org/abs/2405.07314) [[Github]](https://github.com/HonghuiBao2000/LETTER)
 
-8. 2024_ICDE_LC-Rec_Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation.
+8. 2024_ICDE_LC-Rec_Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation. [[arXiv]](https://arxiv.org/abs/2311.09049) [[Github]](https://github.com/RUCAIBox/LC-Rec) [[Huggingface]](https://huggingface.co/papers/2311.09049)
 
-9. 2025_arXiv_UTGRec_Universal Item Tokenization for Transferable Generative Recommendation.
+9. 2025_arXiv_UTGRec_Universal Item Tokenization for Transferable Generative Recommendation. [[arXiv]](https://arxiv.org/abs/2504.04405) [[Github]](https://github.com/zhengbw0324/UTGRec)
 
-10. 2025_AAAI_Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization.
+10. 2025_AAAI_Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/33311) [[arXiv]](https://arxiv.org/abs/2412.13771)
 
-11. 2025_WWW_EAGER-LLM_EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration.
+11. 2025_WWW_EAGER-LLM_EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration. [[WWW]](https://dl.acm.org/doi/abs/10.1145/3696410.3714933) [[arXiv]](https://arxiv.org/abs/2502.14735) [[Github]](https://github.com/Indolent-Kawhi/EAGER-LLM)
 
-12. 2025_WWW_ED2_Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism.
+12. 2025_WWW_ED2_Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism. [[WWw]](https://dl.acm.org/doi/10.1145/3696410.3714866) [[arXiv]](https://arxiv.org/abs/2409.09253)
 
 
 
