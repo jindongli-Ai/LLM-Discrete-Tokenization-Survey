@@ -455,7 +455,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.7 Text + Sound
 
-1. 2023_ICLR_AudioGen_AudioGen:Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[HUggingface]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
+1. 2023_ICLR_AudioGen_AudioGen:Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[Huggingface]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
 
 2. 2024_arXiv_Spectral Codecs:Spectrogram-Based Audio Codecs for High Quality Speech Synthesis. [[arXiv]](https://arxiv.org/abs/2406.05298)
 
