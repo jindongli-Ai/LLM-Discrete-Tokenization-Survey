@@ -339,33 +339,33 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.3 Graph
 
-1. 2020_AAAI_SNEQ_SNEQ= Semi-Supervised Attributed Network Embedding with Attention-Based Quantisation.
+1. 2020_AAAI_SNEQ_SNEQ: Semi-Supervised Attributed Network Embedding with Attention-Based Quantisation. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/5832)
 
-2. 2020_ACL_TS-CL_Knowledge Graph Embedding Compression.
+2. 2020_ACL_TS-CL_Knowledge Graph Embedding Compression. [[ACL]](https://aclanthology.org/2020.acl-main.238/#:~:text=Thus%2C%20we%20propose%20an%20approach%20that%20compresses%20the,simple%20modifications%20to%20any%20existing%20KG%20embedding%20technique.)
 
-3. 2021_CIKM_LightKG_A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage.
+3. 2021_CIKM_LightKG_A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage. [[ACM CIKM]](https://dl.acm.org/doi/abs/10.1145/3459637.3482224)
 
-4. 2021_TNNLS_d-SNEQ_SemiSupervised Network Embedding with Differentiable Deep Quantization.
+4. 2021_TNNLS_d-SNEQ_SemiSupervised Network Embedding with Differentiable Deep Quantization. [[IEEE TNNLS]](https://ieeexplore.ieee.org/document/9642434)
 
-5. 2023_ICLR_Mole-BERT_Mole-BERT= Rethinking Pre-Training Graph Neural Networks for Molecules.
+5. 2023_ICLR_Mole-BERT_Mole-BERT: Rethinking Pre-Training Graph Neural Networks for Molecules. [[ICLR]](https://iclr.cc/virtual/2023/poster/10717)
 
-6. 2023_NeurIPS_IMoLD_Learning Invariant Molecular Representation in Latent Discrete Space.
+6. 2023_NeurIPS_IMoLD_Learning Invariant Molecular Representation in Latent Discrete Space. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f780a86b7145988ac219d49d8e37a58f-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2310.14170)
 
-7. 2024_ICLR_MAPE-PPI_MAPE-PPI：Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding.
+7. 2024_ICLR_MAPE-PPI_MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding. [[ICLR]](https://iclr.cc/virtual/2024/poster/18046) [[arXiv]](https://arxiv.org/abs/2402.14391)
 
-8. 2024_ICLR_VQGraph_VQGraph= Rethinking Graph Representation Space for Bridging GNNs and MLPs.
+8. 2024_ICLR_VQGraph_VQGraph: Rethinking Graph Representation Space for Bridging GNNs and MLPs. [[ICLR]](https://iclr.cc/virtual/2024/poster/18114) [[arXiv]](https://arxiv.org/abs/2308.02117)
 
-9. 2024_NeurlPS_GFT_GFT：Graph Foundation Model with Transferable Tree Vocabulary.
+9. 2024_NeurlPS_GFT_GFT: Graph Foundation Model with Transferable Tree Vocabulary. [[NeurIPS]](https://papers.nips.cc/paper_files/paper/2024/hash/c23ccf9eedf87e4380e92b75b24955bb-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2411.06070)
 
-10. 2024_TMLR_DGAE_Discrete Graph Auto-Encoder.
+10. 2024_TMLR_DGAE_Discrete Graph Auto-Encoder. [[OpenReview TMLR]](https://openreview.net/forum?id=bZ80b0wb9d) [[arXiv]](https://arxiv.org/abs/2306.07735)
 
-11. 2025_arXiv_GT-SVQ_GT-SVQ：A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization.
+11. 2025_arXiv_GT-SVQ_GT-SVQ: A Linear-Time Graph Transformer for Node Classification Using Spiking Vector Quantization. [[arXiv]](https://arxiv.org/abs/2504.11840)
 
-12. 2025_AAAI_GLAD_GLAD= Improving Latent Graph Generative Modeling with Simple Quantization.
+12. 2025_AAAI_GLAD_GLAD: Improving Latent Graph Generative Modeling with Simple Quantization. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34169) [[ICML Workshop]](https://icml.cc/virtual/2024/37012) [[arXiv]](https://arxiv.org/abs/2403.16883)
 
-13. 2025_ICLR_GQT_Learning Graph Quantized Tokenizers.
+13. 2025_ICLR_GQT_Learning Graph Quantized Tokenizers. [[ICLR]](https://iclr.cc/virtual/2025/poster/28351) [[arXiv]](https://arxiv.org/abs/2410.13798)
 
-14. 2025_ICLR_NID_Node Identifiers= Compact, Discrete Representations for Efficient Graph Learning.
+14. 2025_ICLR_NID_Node Identifiers: Compact, Discrete Representations for Efficient Graph Learning.
 
 15. 2025_WWW_HQA-GAE_Hierarchical Vector Quantized Graph Autoencoder with Annealing-Based Code Selection.
 
