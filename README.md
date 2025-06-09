@@ -697,35 +697,35 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.2 Text + Audio
 
-1. 2023_arXiv_AudioPaLM_AudioPaLM=A Large Language Model That Can Speak and Listen.
+1. 2023_arXiv_AudioPaLM_AudioPaLM: A Large Language Model That Can Speak and Listen. [[arXiv]](https://arxiv.org/abs/2306.12925) [[Huggingface]](https://huggingface.co/papers/2306.12925) [[Youtube]](https://www.youtube.com/watch?v=inUO_3DMjrI)
 
-2. 2023_arXiv_LauraGPT_LauraGPT=Listen, Attend, Understand, and Regenerate Audio with GPT.
+2. 2023_arXiv_LauraGPT_LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT. [[arXiv]](https://arxiv.org/abs/2310.04673) [[Github]](https://lauragpt.github.io/)
 
-3. 2023_EMNLP_SpeechGPT_SpeechGPT=Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities.
+3. 2023_EMNLP_SpeechGPT_SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities. [[ENMLP]](https://aclanthology.org/2023.findings-emnlp.1055/) [[arXiv]](https://arxiv.org/abs/2305.11000) [[Github]](https://github.com/0nutation/SpeechGPT) [[Huggingface]](https://huggingface.co/fnlp/SpeechGPT-7B-cm)
 
-4. 2024_arXiv_CosyVoice 2_CosyVoice 2=Scalable Streaming Speech Synthesis with Large Language Models.
+4. 2024_arXiv_CosyVoice 2_CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models. [[arXiv]](https://arxiv.org/abs/2412.10117) [[Github]](https://github.com/Render-AI/CosyVoice2)
 
-5. 2024_arXiv_CosyVoice_CosyVoice_A Scalable Multilingual Zero-shot Text-to-Speech Synthesizer based on Supervised Semantic Tokens.
+5. 2024_arXiv_CosyVoice_CosyVoice_A Scalable Multilingual Zero-shot Text-to-Speech Synthesizer based on Supervised Semantic Tokens. [[arXiv]](https://arxiv.org/abs/2407.05407) [[Github]](https://github.com/FunAudioLLM/CosyVoice)
 
-6. 2024_arXiv_IntrinsicVoice_IntrinsicVoice=Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities.
+6. 2024_arXiv_IntrinsicVoice_IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities. [[arXiv]](https://arxiv.org/abs/2410.08035)
 
-7. 2024_arXiv_Moshi_Moshi:a speech-text foundation model for real-time dialogue.
+7. 2024_arXiv_Moshi_Moshi: a speech-text foundation model for real-time dialogue. [[arXiv]](https://arxiv.org/abs/2410.00037) [[Github]](https://github.com/kyutai-labs/moshi)
 
-8. 2024_arXiv_OmniFlatten_OmniFlatten=An End-to-end GPT Model for Seamless Voice Conversation.
+8. 2024_arXiv_OmniFlatten_OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation. [[arXiv]](https://arxiv.org/abs/2410.17799)
 
-9. 2024_arXiv_T5-TTS_Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment.
+9. 2024_arXiv_T5-TTS_Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment. [[arXiv]](https://arxiv.org/abs/2406.17957) [[Github]](https://t5tts.github.io/)
 
-10. 2024_ICASSP_VoxtLM_VoxtLM=Unified Decoder-Only Models for Consolidating Speech Recognition, Synthesis and Speech, Text Continuation Tasks.
+10. 2024_ICASSP_VoxtLM_VoxtLM: Unified Decoder-Only Models for Consolidating Speech Recognition, Synthesis and Speech, Text Continuation Tasks. [[IEEE ICASSP]](https://ieeexplore.ieee.org/abstract/document/10447112) [[arXiv]](https://arxiv.org/abs/2309.07937) [[Github]](https://soumimaiti.github.io/icassp24_voxtlm/)
 
-11. 2024_IEEE Signal Processing Letters_MSRT_Tuning Large Language Model for Speech Recognition With Mixed-Scale Re-Tokenization.
+11. 2024_IEEE Signal Processing Letters_MSRT_Tuning Large Language Model for Speech Recognition With Mixed-Scale Re-Tokenization. [[IEEE Signal Processing Letters]](https://ieeexplore.ieee.org/document/10574347)
 
-12. 2024_Interspeech_DiscreteSLU_DiscreteSLU= A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding.
+12. 2024_Interspeech_DiscreteSLU_DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding. [[arXiv]](https://arxiv.org/abs/2406.09345) [[Huggingface]](https://huggingface.co/papers/2406.09345)
 
-13. 2024_MM_GPT-Talker_Generative Expressive Conversational Speech Synthesis.
+13. 2024_MM_GPT-Talker_Generative Expressive Conversational Speech Synthesis. [[ACM MM]](https://dl.acm.org/doi/10.1145/3664647.3681697) [[arXiv]](https://arxiv.org/abs/2407.21491) [[Github]](https://gpt-talker.github.io/GPT-Talker/)
 
-14. 2025_arXiv_Spark-TTS_Spark-TTS:An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens.
+14. 2025_arXiv_Spark-TTS_Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens. [[arXiv]](https://arxiv.org/abs/2503.01710) [[Github]](https://github.com/sparkaudio/spark-tts)
 
-15. 2025_Kimi-Audio_Kimi-Audio Technical Report.
+15. 2025_Kimi-Audio_Kimi-Audio Technical Report. [[arXiv]](http://export.arxiv.org/abs/2504.18425) [[Github]](https://github.com/MoonshotAI/Kimi-Audio) [[Huggingface]](https://huggingface.co/moonshotai/Kimi-Audio-7B)
 
 
 
@@ -733,11 +733,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.3 Text + Video
 
-1. 2024_arXiv_Loong_Loong=Generating Minute-level Long Videos with Autoregressive Language Models.
+1. 2024_arXiv_Loong_Loong: Generating Minute-level Long Videos with Autoregressive Language Models. [[arXiv]](https://arxiv.org/abs/2410.02757) [[Github]](https://yuqingwang1029.github.io/Loong-video/) [[Huggingface]](https://huggingface.co/papers/2410.02757)
 
-2. 2024_ICML_Video-LaVIT_Video-LaVIT=Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization.
+2. 2024_ICML_Video-LaVIT_Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization. [[ICML]](https://proceedings.mlr.press/v235/jin24f.html) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3692962) [[arXiv]](https://arxiv.org/abs/2402.03161) [[Github]]()
 
-3. 2025_arXiv_HiTVideo_HiTVideo=Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models.
+3. 2025_arXiv_HiTVideo_HiTVideo: Hierarchical Tokenizers for Enhancing Text-to-Video Generation with Autoregressive Large Language Models.
 
 
 
@@ -762,13 +762,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.5 Text + Motion
 
-1. 2024_arXiv_MotionGlot_MotionGlot=A Multi-Embodied Motion Generation Model.
+1. 2024_arXiv_MotionGlot_MotionGlot: A Multi-Embodied Motion Generation Model.
 
-2. 2024_CVPR_AvatarGPT_AvatarGPT=All-in-One Framework for Motion Understanding, Planning, Generation and Beyond.
+2. 2024_CVPR_AvatarGPT_AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond.
 
 3. 2024_ECCV_Semgrasp_Semantic grasp generation via language aligned discretization.
 
-4. 2024_IV_Walk-the-Talk_Walk-the-Talk=LLM driven Pedestrian Motion Generation.
+4. 2024_IV_Walk-the-Talk_Walk-the-Talk: LLM driven Pedestrian Motion Generation.
 
 
 
@@ -777,11 +777,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.6 Text + Image + Audio
 
-1. 2023_arXiv_TEAL_TEAL=Tokenize and Embed ALL for Multi-modal Large Language Models.
+1. 2023_arXiv_TEAL_TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models.
 
 2. 2024_arXiv_DMLM_Discrete Multimodal Transformers with A Pretrained Large Language Model for Mixed-Supervision Speech Processing.
 
-3. 2024_ACL_AnyGPT_AnyGPT= Unified Multimodal LLM with Discrete Sequence Modeling.
+3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling.
 
 
 
@@ -790,11 +790,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.7 Text + Image + Video
 
-1. 2024_arXiv_Emu3:Next-Token Prediction is All You Need.
+1. 2024_arXiv_Emu3: Next-Token Prediction is All You Need.
 
 2. 2025_ICLR_LWM_World model on million-length video and language with blockwise ringattention.
 
-3. 2025_ICLR_VILA-U_VILA-U= A Unified Foundation Model Integrating Visual Understanding and Generation.
+3. 2025_ICLR_VILA-U_VILA-U: A Unified Foundation Model Integrating Visual Understanding and Generation.
 
 
 
@@ -814,7 +814,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.9 Text + Image + Audio + Action
 
-1. 2024_CVPR_Unified-IO 2_Unified-IO 2:Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.
+1. 2024_CVPR_Unified-IO 2_Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.
 
 
 
@@ -822,9 +822,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.10 Text + Image + Video + Audio
 
-1. 2024_arXiv_MIO_MIO=A foundation model on multimodal tokens.
+1. 2024_arXiv_MIO_MIO: A foundation model on multimodal tokens.
 
-2. 2024_ICML_VideoPoet_VideoPoet= A Large Language Model for Zero-Shot Video Generation.
+2. 2024_ICML_VideoPoet_VideoPoet: A Large Language Model for Zero-Shot Video Generation.
 
 
 
