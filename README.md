@@ -245,51 +245,51 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.1 Image
 
-1. 2017_CVPR_DVSQ_Deep Visual-Semantic Quantization for Efficient Image Retrieval.
+1. 2017_CVPR_DVSQ_Deep Visual-Semantic Quantization for Efficient Image Retrieval. [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.html)
 
-2. 2019_IJCAI_DPQ_Beyond product quantization：Deep progressive quantization for image retrieval.
+2. 2019_IJCAI_DPQ_Beyond product quantization：Deep progressive quantization for image retrieval. [[IJCAI]](https://dl.acm.org/doi/10.5555/3367032.3367136) [[arXiv]](https://arxiv.org/abs/1906.06698)
 
-3. 2021_ICCV_SPQ_Self-supervised Product Quantization for Deep Unsupervised Image Retrieval.
+3. 2021_ICCV_SPQ_Self-supervised Product Quantization for Deep Unsupervised Image Retrieval. [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_Self-Supervised_Product_Quantization_for_Deep_Unsupervised_Image_Retrieval_ICCV_2021_paper.pdf) [[arXiv]](https://arxiv.org/abs/2109.02244)
 
-4. 2022_arXiv_BEiT v2_BEiT v2= Masked Image Modeling with Vector-Quantized Visual Tokenizers.
+4. 2022_arXiv_BEiT v2_BEiT v2: Masked Image Modeling with Vector-Quantized Visual Tokenizers. [[arXiv]](https://arxiv.org/abs/2208.06366)
 
-5. 2022_AAAI_MeCoQ_Contrastive Quantization with Code Memory for Unsupervised Image Retrieval.
+5. 2022_AAAI_MeCoQ_Contrastive Quantization with Code Memory for Unsupervised Image Retrieval. [[AAAI]](https://aaai.org/papers/02468-contrastive-quantization-with-code-memory-for-unsupervised-image-retrieval/) [[arXiv]](https://arxiv.org/abs/2109.05205)
 
-6. 2022_CVPR_MaskGIT_MaskGIT：Masked Generative Image Transformer.
+6. 2022_CVPR_MaskGIT_MaskGIT：Masked Generative Image Transformer. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.pdf)  [[arXiv]](https://arxiv.org/abs/2202.04200) [[Github]](https://github.com/google-research/maskgit)
 
-7. 2022_CVPR_RQ-VAE RQ-Transformer_AutoRegressive Image Generation using Residual Quantization.
+7. 2022_CVPR_RQ-VAE RQ-Transformer_AutoRegressive Image Generation using Residual Quantization. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Autoregressive_Image_Generation_Using_Residual_Quantization_CVPR_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2203.01941)
 
-8. 2022_ICLR_BEiT_BEiT= BERT Pre-Training of Image Transformers.
+8. 2022_ICLR_BEiT_BEiT: BERT Pre-Training of Image Transformers. [[ICLR]](https://iclr.cc/virtual/2022/oral/6324) [[arXiv]](https://arxiv.org/abs/2106.08254)
 
-9. 2022_ICLR_ViT-VQGAN_Vector-Quantization Image Modeling with Improved VQGAN.
+9. 2022_ICLR_ViT-VQGAN_Vector-Quantization Image Modeling with Improved VQGAN. [[ICLR]](https://iclr.cc/virtual/2022/poster/6405) [[arXiv]](https://arxiv.org/abs/2110.04627)
 
-10. 2022_NeurlPS_MoVQ_MoVQ：Modulating Quantized Vectors for High-Fidelity Image Generation.
+10. 2022_NeurlPS_MoVQ_MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation. [[NeurIPS]](https://neurips.cc/virtual/2022/poster/55365) [[arXiv]](https://arxiv.org/abs/2209.09002)
 
-11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding：Improved Autoregressive Image Generation with Dynamic Vector Quantization.
+11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding：Improved Autoregressive Image Generation with Dynamic Vector Quantization. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2305.11718)
 
-12. 2023_CVPR_MAGE_MAGE：MAsked Generative Encoder to Unify Representation Learning and Image Synthesis.
+12. 2023_CVPR_MAGE_MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_MAGE_MAsked_Generative_Encoder_To_Unify_Representation_Learning_and_Image_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2211.09117) [[Github]](https://github.com/LTH14/mage)
 
-13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter：Masked Vector Quantization for Autoregressive Image Generation.
+13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter：Masked Vector Quantization for Autoregressive Image Generation. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2305.13607)
 
-14. 2023_ICCV_Efficient-VQGAN_Efficient-VQGAN：Towards High-Resolution Image Generation with Efficient Vision Transformers.
+14. 2023_ICCV_Efficient-VQGAN_Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers. [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf) [[IEEE ICCV]](https://ieeexplore.ieee.org/document/10377581) [[arXiv]](https://arxiv.org/abs/2310.05400)
 
-15. 2024_CVPR_SeQ-GAN_Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis.
+15. 2024_CVPR_SeQ-GAN_Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Rethinking_the_Objectives_of_Vector-Quantized_Tokenizers_for_Image_Synthesis_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2212.03185)
 
-16. 2024_ICLR_ClusterMIM_On the Role of Discrete Tokenization in Visual Representation Learning.
+16. 2024_ICLR_ClusterMIM_On the Role of Discrete Tokenization in Visual Representation Learning. [[ICLR]](https://iclr.cc/virtual/2024/poster/18482) [[arXiv]](https://arxiv.org/abs/2407.09087)
 
-17. 2024_NeurlPS_TiTok_An Image is Worth 32 Tokens for Reconstruction and Generation.
+17. 2024_NeurlPS_TiTok_An Image is Worth 32 Tokens for Reconstruction and Generation. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e91bf7dfba0477554994c6d64833e9d8-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2406.07550)
 
-18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling：Scalable Image Generation via Next-Scale Prediction.
+18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling：Scalable Image Generation via Next-Scale Prediction. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9a24e284b187f662681440ba15c416fb-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2404.02905v2)
 
-19. 2024_NeurlPS_VQ-KD_Image Understanding Makes for A Good Tokenizer for Image Generation.
+19. 2024_NeurlPS_VQ-KD_Image Understanding Makes for A Good Tokenizer for Image Generation. [[NeurIPS]](https://neurips.cc/virtual/2024/poster/95176) [[arXiv]](https://arxiv.org/abs/2411.04406v1)
 
-20. 2024_TMLR_MaskBit_MaskBit：Embedding-free Image Generation via Bit Tokens.
+20. 2024_TMLR_MaskBit_MaskBit: Embedding-free Image Generation via Bit Tokens. [[Poster]](https://iclr.cc/media/iclr-2025/Slides/31452.pdf) [[arXiv]](https://arxiv.org/abs/2409.16211)
 
-21. 2025_arXiv_FlowMo_Flow to the Mode= Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization.
+21. 2025_arXiv_FlowMo_Flow to the Mode: Mode-Seeking Diffusion Autoencoders for State-of-the-Art Image Tokenization. [[arXiv]](https://arxiv.org/abs/2503.11056)
 
-22. 2025_CVPR_MergeVQ_MergeVQ：A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization.
+22. 2025_CVPR_MergeVQ_MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization. [[CVPR]](MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization) [[arXiv]](https://arxiv.org/abs/2504.00999) [[Github]](https://github.com/ApexGen-X/MergeVQ)
 
-23. 2025_ICLR_DnD-Transformer_A spark of vision-language intelligence=2-dimensional autoregressive transformer for efficient finegrained image generation.
+23. 2025_ICLR_DnD-Transformer_A spark of vision-language intelligence: 2-dimensional autoregressive transformer for efficient finegrained image generation. [[ICLR]](https://iclr.cc/virtual/2025/poster/27817) [[arXiv]](https://arxiv.org/abs/2410.01912)
 
 
 
