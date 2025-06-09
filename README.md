@@ -444,7 +444,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 12. 2025_AAAI_MyGO_MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion. [[arXiv]](https://arxiv.org/abs/2404.09468v1) [[Github]](https://github.com/zjukg/MyGO)
 
-13. 2025_ICLR_HART_HART: Efficient Visual Generation with Hybrid Autoregressive Transformer.
+13. 2025_ICLR_HART_HART: Efficient Visual Generation with Hybrid Autoregressive Transformer. [[arXiv]](https://arxiv.org/abs/2410.10812) [[Github]](https://github.com/mit-han-lab/hart/tree/main)
 
 
 
@@ -455,29 +455,29 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.7 Text + Sound
 
-1. 2023_ICLR_AudioGen_AudioGen：Textually Guided Audio Generation.
+1. 2023_ICLR_AudioGen_AudioGen：Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[HUggingface]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
 
-2. 2024_arXiv_Spectral Codecs：Spectrogram-Based Audio Codecs for High Quality Speech Synthesis.
-
-
+2. 2024_arXiv_Spectral Codecs：Spectrogram-Based Audio Codecs for High Quality Speech Synthesis. [[arXiv]](https://arxiv.org/abs/2406.05298)
 
 
 
-1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice：Cross-Lingual Neural Codec Language Modeling.
 
-2. 2023_arXiv_VALL-E_Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers.
 
-3. 2024_arXiv_RALL-E_RALL-E=Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis.
+1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice：Cross-Lingual Neural Codec Language Modeling. [[arXiv]](https://arxiv.org/abs/2303.03926)
 
-4. 2024_arXiv_SimpleSpeech 2_SimpleSpeech 2：Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models.
+2. 2023_arXiv_VALL-E_Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers. [[arXiv]](https://arxiv.org/abs/2301.02111)
 
-5. 2024_ICML_NaturalSpeech 3_NaturalSpeech 3：Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models.
+3. 2024_arXiv_RALL-E_RALL-E: Robust Codec Language Modeling with Chain-of-Thought Prompting for Text-to-Speech Synthesis. [[arXiv]](https://arxiv.org/abs/2404.03204)
 
-6. 2024_Interspeech_SimpleSpeech_SimpleSpeech：Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models.
+4. 2024_arXiv_SimpleSpeech 2_SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/11017597) [[arXiv]](https://arxiv.org/abs/2408.13893)
 
-7. 2024_Interspeech_Single-Codec_Single-Codec=Single-Codebook Speech Codec towards High-Performance.
+5. 2024_ICML_NaturalSpeech 3_NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models. [[ICML]](https://proceedings.mlr.press/v235/ju24b.html) [[arXiv]](https://arxiv.org/abs/2403.03100) [[Mircosoft]](https://www.microsoft.com/en-us/research/publication/naturalspeech-3-zero-shot-speech-synthesis-with-factorized-codec-and-diffusion-models/) [[Github]](https://speechresearch.github.io/naturalspeech3/) 
 
-8. 2025_ICLR_HALL-E_HALL-E=Hierarchical Neural Codec Language Mdoel for Minute-Long Zero-Shot Text-to-Speech Synthesis.
+6. 2024_Interspeech_SimpleSpeech_SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models. [[arXiv]](https://arxiv.org/abs/2406.02328) [[Github]](https://github.com/yangdongchao/simplespeech)
+
+7. 2024_Interspeech_Single-Codec_Single-Codec: Single-Codebook Speech Codec towards High-Performance. [[arXiv]](https://arxiv.org/abs/2406.07422) [[Github]](https://kkksuper.github.io/Single-Codec/)
+
+8. 2025_ICLR_HALL-E_HALL-E: Hierarchical Neural Codec Language Mdoel for Minute-Long Zero-Shot Text-to-Speech Synthesis. [[ICLR]](https://iclr.cc/virtual/2025/poster/30784) [[arXiv]](https://arxiv.org/abs/2410.04380)
 
 
 
@@ -493,7 +493,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.8 Audio + Video
 
-1. 2025_CVIU_VQ-MAE-AV_A vector quantized masked autoencoder for audiovisual speech emotion recognition.
+1. 2025_CVIU_VQ-MAE-AV_A vector quantized masked autoencoder for audiovisual speech emotion recognition. [[arXiv]](https://arxiv.org/abs/2305.03568)
 
 
 
@@ -502,7 +502,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.9 Audio + Action
 
-1. 2024_CVPR_ProTalk_Towards Variable and Coordinated Holistic Co-Speech Motion Generation.
+1. 2024_CVPR_ProTalk_Towards Variable and Coordinated Holistic Co-Speech Motion Generation. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Towards_Variable_and_Coordinated_Holistic_Co-Speech_Motion_Generation_CVPR_2024_paper.pdf) [[arXiv]](https://arxiv.org/abs/2404.00368) [[Github]](https://github.com/feifeifeiliu/probtalk)
 
 
 
@@ -512,7 +512,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.10 Audio + Image + Video
 
-1. 2025_AAAI_VQTalker_VQTalker：Towards Multilingual Talking Avatars through Facial Motion Tokenization.
+1. 2025_AAAI_VQTalker_VQTalker: Towards Multilingual Talking Avatars through Facial Motion Tokenization. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/32595) [[arXiv]](https://arxiv.org/abs/2412.09892) [[Github]](https://x-lance.github.io/VQTalker/)
 
 
 
@@ -520,7 +520,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.11 Text + Image + Video + Action
 
-1. 2024_arXiv_WorldDreamer_Dreamer=Towards General World Models for Video Generation via Predicting Masked Tokens.
+1. 2024_arXiv_WorldDreamer_WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. [[arXiv]](https://arxiv.org/abs/2401.09985) [[Github]](https://world-dreamer.github.io/)
 
 
 
