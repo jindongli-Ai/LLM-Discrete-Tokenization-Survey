@@ -77,13 +77,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 8. 2022_arXiv_HC-VQ_Homology-constrained vector quantization entropy regularizer. [[arXiv]](https://arxiv.org/abs/2211.14363)
 
-9. 2022_ICML_SQ-VAE_SQ-VAE：Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization. [[ICML--Slides]](https://icml.cc/media/icml-2022/Slides/17788.pdf)  [[arXiv]](https://arxiv.org/abs/2205.07547)
+9. 2022_ICML_SQ-VAE_SQ-VAE:Variational Bayes on Discrete Representation with Self-annealed Stochastic Quantization. [[ICML--Slides]](https://icml.cc/media/icml-2022/Slides/17788.pdf)  [[arXiv]](https://arxiv.org/abs/2205.07547)
 
 10. 2023_CVPR_Reg-VQ_Regularized Vector Quantization for Tokenized Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Regularized_Vector_Quantization_for_Tokenized_Image_Synthesis_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2303.06424)
 
 11. 2023_ICCV_CVQ-VAE_Online Clustered Codebook. [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Online_Clustered_Codebook_ICCV_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2307.15139)
 
-12. 2023_ICML_Straightening Out the Straight-Through Estimator：Overcoming Optimization Challenges in Vector Quantized Networks. [[ICML]](https://proceedings.mlr.press/v202/huh23a.html) [[arXiv]](https://arxiv.org/abs/2305.08842)
+12. 2023_ICML_Straightening Out the Straight-Through Estimator:Overcoming Optimization Challenges in Vector Quantized Networks. [[ICML]](https://proceedings.mlr.press/v202/huh23a.html) [[arXiv]](https://arxiv.org/abs/2305.08842)
 
 13. 2023_ICML_VQ-WAE_Vector Quantized Wasserstein Auto-Encoder. [[ICML]](https://proceedings.mlr.press/v202/vuong23a) [[arXiv]](https://arxiv.org/abs/2302.05917)
 
@@ -97,7 +97,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 18. 2024_L4DC_SCQ_Soft Convex Quantization=Revisiting Vector Quantization with Convex Optimization. [[PMLR]](https://proceedings.mlr.press/v242/gautam24a/gautam24a.pdf) [[arXiv]](https://arxiv.org/abs/2310.03004)
 
-19. 2024_TMLR_HQ-VAE_HQ-VAE：Hierarchical Discrete Representation Learning with Variational Bayes.  [[arXiv]](https://arxiv.org/abs/2401.00365)
+19. 2024_TMLR_HQ-VAE_HQ-VAE:Hierarchical Discrete Representation Learning with Variational Bayes.  [[arXiv]](https://arxiv.org/abs/2401.00365)
 
 20. 2025_ICLR_rotation trick_Restructuring vector quantization with the rotation trick. [[ICLR--Slides]](https://iclr.cc/media/iclr-2025/Slides/30284_p9wWGoU.pdf) [[arXiv]](https://arxiv.org/abs/2410.06424)
 
@@ -129,7 +129,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 10. 2024_ICML_QINCo_Residual Quantization with Implicit Neural Codebooks. [[ICML]](https://proceedings.mlr.press/v235/huijben24a.html) [[arXiv]](https://arxiv.org/abs/2401.14732)
 
-11. 2025_arXiv_Qinco2_Qinco2：Vector Compression and Search with Improved Implicit Neural Codebooks. [[arXiv]](https://arxiv.org/abs/2501.03078)
+11. 2025_arXiv_Qinco2_Qinco2:Vector Compression and Search with Improved Implicit Neural Codebooks. [[arXiv]](https://arxiv.org/abs/2501.03078)
 
 
 
@@ -247,7 +247,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 1. 2017_CVPR_DVSQ_Deep Visual-Semantic Quantization for Efficient Image Retrieval. [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.html)
 
-2. 2019_IJCAI_DPQ_Beyond product quantization：Deep progressive quantization for image retrieval. [[IJCAI]](https://dl.acm.org/doi/10.5555/3367032.3367136) [[arXiv]](https://arxiv.org/abs/1906.06698)
+2. 2019_IJCAI_DPQ_Beyond product quantization:Deep progressive quantization for image retrieval. [[IJCAI]](https://dl.acm.org/doi/10.5555/3367032.3367136) [[arXiv]](https://arxiv.org/abs/1906.06698)
 
 3. 2021_ICCV_SPQ_Self-supervised Product Quantization for Deep Unsupervised Image Retrieval. [[ICCV]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jang_Self-Supervised_Product_Quantization_for_Deep_Unsupervised_Image_Retrieval_ICCV_2021_paper.pdf) [[arXiv]](https://arxiv.org/abs/2109.02244)
 
@@ -255,7 +255,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 5. 2022_AAAI_MeCoQ_Contrastive Quantization with Code Memory for Unsupervised Image Retrieval. [[AAAI]](https://aaai.org/papers/02468-contrastive-quantization-with-code-memory-for-unsupervised-image-retrieval/) [[arXiv]](https://arxiv.org/abs/2109.05205)
 
-6. 2022_CVPR_MaskGIT_MaskGIT：Masked Generative Image Transformer. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.pdf)  [[arXiv]](https://arxiv.org/abs/2202.04200) [[Github]](https://github.com/google-research/maskgit)
+6. 2022_CVPR_MaskGIT_MaskGIT:Masked Generative Image Transformer. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chang_MaskGIT_Masked_Generative_Image_Transformer_CVPR_2022_paper.pdf)  [[arXiv]](https://arxiv.org/abs/2202.04200) [[Github]](https://github.com/google-research/maskgit)
 
 7. 2022_CVPR_RQ-VAE RQ-Transformer_AutoRegressive Image Generation using Residual Quantization. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Autoregressive_Image_Generation_Using_Residual_Quantization_CVPR_2022_paper.html) [[arXiv]](https://arxiv.org/abs/2203.01941)
 
@@ -265,11 +265,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 10. 2022_NeurlPS_MoVQ_MoVQ: Modulating Quantized Vectors for High-Fidelity Image Generation. [[NeurIPS]](https://neurips.cc/virtual/2022/poster/55365) [[arXiv]](https://arxiv.org/abs/2209.09002)
 
-11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding：Improved Autoregressive Image Generation with Dynamic Vector Quantization. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2305.11718)
+11. 2023_CVPR_DQ-VAE_Towards Accurate Image Coding:Improved Autoregressive Image Generation with Dynamic Vector Quantization. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Towards_Accurate_Image_Coding_Improved_Autoregressive_Image_Generation_With_Dynamic_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2305.11718)
 
 12. 2023_CVPR_MAGE_MAGE: MAsked Generative Encoder to Unify Representation Learning and Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_MAGE_MAsked_Generative_Encoder_To_Unify_Representation_Learning_and_Image_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2211.09117) [[Github]](https://github.com/LTH14/mage)
 
-13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter：Masked Vector Quantization for Autoregressive Image Generation. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2305.13607)
+13. 2023_CVPR_MQ-VAE_Not All Image Regions Matter:Masked Vector Quantization for Autoregressive Image Generation. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Not_All_Image_Regions_Matter_Masked_Vector_Quantization_for_Autoregressive_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2305.13607)
 
 14. 2023_ICCV_Efficient-VQGAN_Efficient-VQGAN: Towards High-Resolution Image Generation with Efficient Vision Transformers. [[ICCV]](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_Efficient-VQGAN_Towards_High-Resolution_Image_Generation_with_Efficient_Vision_Transformers_ICCV_2023_paper.pdf) [[IEEE ICCV]](https://ieeexplore.ieee.org/document/10377581) [[arXiv]](https://arxiv.org/abs/2310.05400)
 
@@ -279,7 +279,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 17. 2024_NeurlPS_TiTok_An Image is Worth 32 Tokens for Reconstruction and Generation. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e91bf7dfba0477554994c6d64833e9d8-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2406.07550)
 
-18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling：Scalable Image Generation via Next-Scale Prediction. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9a24e284b187f662681440ba15c416fb-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2404.02905v2)
+18. 2024_NeurlPS_VAR_Visual Autoregressive Modeling:Scalable Image Generation via Next-Scale Prediction. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9a24e284b187f662681440ba15c416fb-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2404.02905v2)
 
 19. 2024_NeurlPS_VQ-KD_Image Understanding Makes for A Good Tokenizer for Image Generation. [[NeurIPS]](https://neurips.cc/virtual/2024/poster/95176) [[arXiv]](https://arxiv.org/abs/2411.04406v1)
 
@@ -300,7 +300,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.2 Sound
 
-1. 2022_TASLP_SoundStream_SoundStream：An End-to-End Neural Audio Codec. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9625818) [[arXiv]](https://arxiv.org/abs/2107.03312) [[Github]](https://github.com/haydenshively/SoundStream)
+1. 2022_TASLP_SoundStream_SoundStream:An End-to-End Neural Audio Codec. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9625818) [[arXiv]](https://arxiv.org/abs/2107.03312) [[Github]](https://github.com/haydenshively/SoundStream)
 
 2. 2023_arXiv_HiFi-Codec_HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec. [[arXiv]](https://arxiv.org/abs/2305.02765)
 
@@ -314,7 +314,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 7. 2025_arXiv_SQCodec_One Quantizer is Enough: Toward a Lightweight Audio Codec. [[arXiv]](https://arxiv.org/abs/2504.04949)
 
-8. 2025_arXiv_UniCodec_UniCodec：Unified Audio Codec with Single Domain-Adaptive Codebook. [[arXiv]](https://arxiv.org/abs/2502.20067) [[Github]](https://github.com/Jiang-Yidi/UniCodec/tree/main)
+8. 2025_arXiv_UniCodec_UniCodec:Unified Audio Codec with Single Domain-Adaptive Codebook. [[arXiv]](https://arxiv.org/abs/2502.20067) [[Github]](https://github.com/Jiang-Yidi/UniCodec/tree/main)
 
 9. 2025_IEEE Signal Processing Letter_StreamCodec_A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication. [[arXiv]](https://arxiv.org/abs/2504.06561)
 
@@ -422,13 +422,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 1. 2021_ICML_DALL-E_Zero-Shot Text-to-Image Generation. [[ICML]](https://proceedings.mlr.press/v139/ramesh21a.html) [[arXiv]](https://arxiv.org/abs/2102.12092)
 
-2. 2021_NeurIPS_CogView_CogView：Mastering Text-to-Image Generation via Transformers. [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/a4d92e2cd541fca87e4620aba658316d-Abstract.html) [[arXiv]](https://arxiv.org/abs/2105.13290) [[Github]](https://github.com/THUDM/CogView)
+2. 2021_NeurIPS_CogView_CogView:Mastering Text-to-Image Generation via Transformers. [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/a4d92e2cd541fca87e4620aba658316d-Abstract.html) [[arXiv]](https://arxiv.org/abs/2105.13290) [[Github]](https://github.com/THUDM/CogView)
 
 3. 2022_CVPR_VQ-Diffusion_Vector Quantized Diffusion Model for Text-to-Image Synthesis. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Gu_Vector_Quantized_Diffusion_Model_for_Text-to-Image_Synthesis_CVPR_2022_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/9879180) [[arXiv]](https://arxiv.org/abs/2111.14822) [[Github]](https://github.com/microsoft/VQ-Diffusion)
 
-4. 2022_ECCV_Make-A-Scene_Make-A-Scene：Scene-Based Text-to-Image Generation with Human Priors. [[ECCV]](https://dlnext.acm.org/doi/10.1007/978-3-031-19784-0_6) [[arXiv]](https://arxiv.org/abs/2203.13131) [[Github]](https://arxiv.org/abs/2203.13131)
+4. 2022_ECCV_Make-A-Scene_Make-A-Scene:Scene-Based Text-to-Image Generation with Human Priors. [[ECCV]](https://dlnext.acm.org/doi/10.1007/978-3-031-19784-0_6) [[arXiv]](https://arxiv.org/abs/2203.13131) [[Github]](https://arxiv.org/abs/2203.13131)
 
-5. 2023_CVPR_NUWA-LIP_NUWA-LIP：Language-guided Image Inpainting with Defect-free VQGAN. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2202.05009) [[Github]](https://github.com/kodenii/NUWA-LIP)
+5. 2023_CVPR_NUWA-LIP_NUWA-LIP:Language-guided Image Inpainting with Defect-free VQGAN. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_NUWA-LIP_Language-Guided_Image_Inpainting_With_Defect-Free_VQGAN_CVPR_2023_paper.pdf) [[arXiv]](https://arxiv.org/abs/2202.05009) [[Github]](https://github.com/kodenii/NUWA-LIP)
 
 6. 2023_ICLR_Unified-IO_Unified-IO: A unified model for vision, language, and multi-modal tasks. [[ICLR]](https://iclr.cc/virtual/2023/oral/12725) [[arXiv]](https://arxiv.org/abs/2206.08916)
 
@@ -455,15 +455,15 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.7 Text + Sound
 
-1. 2023_ICLR_AudioGen_AudioGen：Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[HUggingface]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
+1. 2023_ICLR_AudioGen_AudioGen:Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[HUggingface]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
 
-2. 2024_arXiv_Spectral Codecs：Spectrogram-Based Audio Codecs for High Quality Speech Synthesis. [[arXiv]](https://arxiv.org/abs/2406.05298)
-
-
+2. 2024_arXiv_Spectral Codecs:Spectrogram-Based Audio Codecs for High Quality Speech Synthesis. [[arXiv]](https://arxiv.org/abs/2406.05298)
 
 
 
-1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice：Cross-Lingual Neural Codec Language Modeling. [[arXiv]](https://arxiv.org/abs/2303.03926)
+
+
+1. 2023_arXiv_VALL-E X_Speak Foreign Languages with Your Own Voice:Cross-Lingual Neural Codec Language Modeling. [[arXiv]](https://arxiv.org/abs/2303.03926)
 
 2. 2023_arXiv_VALL-E_Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers. [[arXiv]](https://arxiv.org/abs/2301.02111)
 
@@ -528,17 +528,17 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.12 Complex Modality in RecSys
 
-1. 2020_WWW_MGQE_Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems.
+1. 2020_WWW_MGQE_Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems. [[WWW]](https://dl.acm.org/doi/abs/10.1145/3366424.3383416) [[arXiv]](https://arxiv.org/abs/2002.08530)
 
-2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval.
+2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval. [[NeurIPS]](https://papers.neurips.cc/paper_files/paper/2023/hash/20dcab0f14046a5c6b02b61da9f13229-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2305.05065) [[Huggingface]](https://huggingface.co/papers/2305.05065)
 
-3. 2023_TOIS_ReFRS_ReFRS：Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences.
+3. 2023_TOIS_ReFRS_ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences. [[ACM TOIS]](https://dl.acm.org/doi/abs/10.1145/3560486) [[arXiv]](https://arxiv.org/abs/2207.13897)
 
-4. 2023_WWW_VQ-Rec_Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders.
+4. 2023_WWW_VQ-Rec_Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders. [[ACM WWW]](https://dlnext.acm.org/doi/abs/10.1145/3543507.3583434?download=true) [[arXiv]](https://arxiv.org/abs/2210.12316) [[Github]](https://github.com/RUCAIBox/VQ-Rec)
 
-5. 2024_KDD_EAGER_EAGER：Two-Stream Generative Recommender with Behavior-Semantic Collaboration.
+5. 2024_KDD_EAGER_EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration. [[ACM KDD]](https://dl.acm.org/doi/10.1145/3637528.3671775) [[arXiv]](https://arxiv.org/abs/2406.14017) [[Github]](https://github.com/yewzz/EAGER)
 
-6. 2024_RecSys_CoST_CoST：Contrastive Quantization based Semantic Tokenization for Generative Recommendation.
+6. 2024_RecSys_CoST_CoST: Contrastive Quantization based Semantic Tokenization for Generative Recommendation. [[ACM RecSys]](https://dl.acm.org/doi/abs/10.1145/3640457.3688178) [[arXiv]](https://arxiv.org/abs/2404.14774) [[arXiv]](https://arxiv.org/abs/2404.14774)
 
 
 
@@ -554,17 +554,17 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 4.1 Image
 
-1. 2023_NeurIPS_SPAE_SPAE：Semantic Pyramid AutoEncoder for Multimoda Generation with Frozen LLMs.
+1. 2023_NeurIPS_SPAE_SPAE: Semantic Pyramid AutoEncoder for Multimoda Generation with Frozen LLMs. [[NeurIPS]](https://papers.nips.cc/paper_files/paper/2023/hash/a526cc8f6ffb74bedb6ff313e3fdb450-Abstract-Conference.html) [[ACM NeurIPS]](https://dl.acm.org/doi/10.5555/3666122.3668416) [[arXiv]](https://arxiv.org/abs/2306.17842) [[Github]](https://github.com/AkihikoWatanabe/paper_notes/issues/800)
 
-2. 2023_NeurlPS_LQAE_Language Quantized AutoEncoders：Towards Unsupervised Text-Image Alignment.
+2. 2023_NeurlPS_LQAE_Language Quantized AutoEncoders: Towards Unsupervised Text-Image Alignment. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0df1738319f8c6e15b58cb16ea3cfa57-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2302.00902)
 
-3. 2024_arXiv_LlamaGen_Autoregressive Model Beats Diffusion：Llama for Scalable Image Generation.
+3. 2024_arXiv_LlamaGen_Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation. [[arXiv]](https://arxiv.org/abs/2406.06525) [[Github]](https://peizesun.github.io/llamagen/)
 
-4. 2024_CVPR_V2T Tokenizer_Beyond Text：Frozen Large Language Models in Visual Signal Comprehension.
+4. 2024_CVPR_V2T Tokenizer_Beyond Text: Frozen Large Language Models in Visual Signal Comprehension. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Beyond_Text_Frozen_Large_Language_Models_in_Visual_Signal_Comprehension_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10657022) [[arXiv]](https://arxiv.org/abs/2403.07874)
 
-5. 2024_ICML_StrokeNUWA_StrokeNUWA=Tokenizing Strokes for Vector Graphic Synthesis.
+5. 2024_ICML_StrokeNUWA_StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis. [[ICML]](https://icml.cc/virtual/2024/poster/33497) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3694021) [[arXiv]](https://arxiv.org/abs/2401.17093) [[Github]](https://github.com/ProjectNUWA/StrokeNUWA) [[Huggingface]](https://huggingface.co/papers/2401.17093)
 
-6. 2025_arXiv_V2Flow_V2Flow：Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation.
+6. 2025_arXiv_V2Flow_V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation. [[arXiv]](https://arxiv.org/abs/2503.07493) [[Github]](https://github.com/Davinci-XLab/V2Flow)
 
 
 
@@ -586,7 +586,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 4.3 Graph
 
-1. 2024_arXiv_NT-LLM_NT-LLM：A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models.
+1. 2024_arXiv_NT-LLM_NT-LLM:A Novel Node Tokenizer for Integrating Graph Structure into Large Language Models.
 
 2. 2025_AAAI_Dr.E_Multi-View Empowered Structural Graph Wordification for Language Models.
 
@@ -614,11 +614,11 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 2. 2024_arXiv_META ID_Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens.
 
-3. 2024_arXiv_QARM_QARM：Quantitative Alignment Multi-Modal Recommendation at Kuaishou.
+3. 2024_arXiv_QARM_QARM:Quantitative Alignment Multi-Modal Recommendation at Kuaishou.
 
 4. 2024_arXiv_STORE_Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM.
 
-5. 2024_arXiv_TokenRec_TokenRec--Learning to Tokenize ID for LLM-bsed Generative Recommendations.
+5. 2024_arXiv_TokenRec_TokenRec: Learning to Tokenize ID for LLM-bsed Generative Recommendations.
 
 6. 2024_CIKM_ColaRec_Content-Based Collaborative Generation for Recommender Systems.
 
@@ -628,9 +628,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 9. 2025_arXiv_UTGRec_Universal Item Tokenization for Transferable Generative Recommendation.
 
-10. 2025_AAAI_Semantic Convergence：Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization.
+10. 2025_AAAI_Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization.
 
-11. 2025_WWW_EAGER-LLM_EAGER-LLM=Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration.
+11. 2025_WWW_EAGER-LLM_EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration.
 
 12. 2025_WWW_ED2_Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism.
 
@@ -646,7 +646,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 1. 2023_arXiv_SEED_Planting a SEED of Vision in Large Language Model.
 
-2. 2024_arXiv_Chameleon_Chameleon：Mixed-Modal Early-Fusion Foundation Models.
+2. 2024_arXiv_Chameleon_Chameleon:Mixed-Modal Early-Fusion Foundation Models.
 
 3. 2024_arXiv_ILLUME_ILLUME=Illuminating Your LLMs to See, Draw, and Self-Enhance.
 
@@ -654,9 +654,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 5. 2024_arXiv_Lumina-mGPT_Lumina-mGPT=Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining.
 
-6. 2024_arXiv_MUSE-VL_MUSE-VL：Modeling Unified VLM through Semantic Discrete Encoding.
+6. 2024_arXiv_MUSE-VL_MUSE-VL:Modeling Unified VLM through Semantic Discrete Encoding.
 
-7. 2024_arXiv_Show-o_Show-o：One single transformer to unify multimodal understanding and generation.
+7. 2024_arXiv_Show-o_Show-o:One single transformer to unify multimodal understanding and generation.
 
 8. 2024_ICLR_LaVIT_Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization.
 
@@ -672,23 +672,23 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 14. 2025_arXiv_FashionM3_FashionM3=Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model.
 
-15. 2025_arXiv_HiMTok_HiMTok：Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model.
+15. 2025_arXiv_HiMTok_HiMTok:Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model.
 
-16. 2025_arXiv_ILLUME+_ILLUME+：Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement.
+16. 2025_arXiv_ILLUME+_ILLUME+:Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement.
 
 17. 2025_arXiv_Janus-Pro_Janus-Pro=Unified Multimodal Understanding and Generation with Data and Model Scaling.
 
-18. 2025_arXiv_QLIP_QLIP：Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation.
+18. 2025_arXiv_QLIP_QLIP:Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation.
 
-19. 2025_arXiv_SemHiTok_SemHiTok：A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation.
+19. 2025_arXiv_SemHiTok_SemHiTok:A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation.
 
-20. 2025_arXiv_UniToken_UniToken：Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding.
+20. 2025_arXiv_UniToken_UniToken:Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding.
 
-21. 2025_arXv_Token-Shuffle_Token-Shuffle：Towards High-Resolution Image Generation with Autoregressive Models.
+21. 2025_arXv_Token-Shuffle_Token-Shuffle:Towards High-Resolution Image Generation with Autoregressive Models.
 
 22. 2025_AAAI_MARS_MARS=Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis.
 
-23. 2025_CVPR_TokenFlow_TokenFlow：Unified Image Tokenizer for Multimodal Understanding and Generation.
+23. 2025_CVPR_TokenFlow_TokenFlow:Unified Image Tokenizer for Multimodal Understanding and Generation.
 
 24. 2025_ICLR_ClawMachine_ClawMachine=Fetching Visual Tokens as An Entity for Referring and Grounding.
 
@@ -710,7 +710,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 6. 2024_arXiv_IntrinsicVoice_IntrinsicVoice=Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities.
 
-7. 2024_arXiv_Moshi_Moshi：a speech-text foundation model for real-time dialogue.
+7. 2024_arXiv_Moshi_Moshi:a speech-text foundation model for real-time dialogue.
 
 8. 2024_arXiv_OmniFlatten_OmniFlatten=An End-to-end GPT Model for Seamless Voice Conversation.
 
@@ -724,7 +724,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 13. 2024_MM_GPT-Talker_Generative Expressive Conversational Speech Synthesis.
 
-14. 2025_arXiv_Spark-TTS_Spark-TTS：An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens.
+14. 2025_arXiv_Spark-TTS_Spark-TTS:An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens.
 
 15. 2025_Kimi-Audio_Kimi-Audio Technical Report.
 
@@ -791,7 +791,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.7 Text + Image + Video
 
-1. 2024_arXiv_Emu3：Next-Token Prediction is All You Need.
+1. 2024_arXiv_Emu3:Next-Token Prediction is All You Need.
 
 2. 2025_ICLR_LWM_World model on million-length video and language with blockwise ringattention.
 
@@ -815,7 +815,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.9 Text + Image + Audio + Action
 
-1. 2024_CVPR_Unified-IO 2_Unified-IO 2：Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.
+1. 2024_CVPR_Unified-IO 2_Unified-IO 2:Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action.
 
 
 
@@ -838,13 +838,13 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ## Related Survey
 
-1. 1988_IEEE Transactions on Communications_Survey_Image Coding Using Vector Quantization：A Review.
+1. 1988_IEEE Transactions on Communications_Survey_Image Coding Using Vector Quantization:A Review.
 
 2. 1989_IEEE Transactions on Information Theory_Survey_High-Resolution Quantization Theory and the Vector Quantizer Advantage.
 
 3. 1990_IEEE Transactions on Information Theory_Survey_A Study of Vector Quantization for Noisy Channels.
 
-4. 1996_TIP_Survey_Advances in Residual Vector Quantization：A  Review.
+4. 1996_TIP_Survey_Advances in Residual Vector Quantization:A  Review.
 
 5. 1998_IEEE transactions on information theory_Survey_Quantization.
 
@@ -854,17 +854,17 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 8. 2018_MTA_Survey_A Survey of Product Quantization.
 
-9. 2019_Frontiers of Information Technology & Electronic Engineering_Survey_Vector quantization：a review.
+9. 2019_Frontiers of Information Technology & Electronic Engineering_Survey_Vector quantization:a review.
 
-10. 2023_ACM Computing Surveys_Survey_Embedding in Recommender Systems：A Survey.
+10. 2023_ACM Computing Surveys_Survey_Embedding in Recommender Systems:A Survey.
 
-11. 2024_arXiv_Survey_Vector quantization for recommender systems：a review and outlook.
+11. 2024_arXiv_Survey_Vector quantization for recommender systems:a review and outlook.
 
-12. 2024_ACM Computing Surveys_Survey_Embedding Compression in Recommender Systems：A Survey.
+12. 2024_ACM Computing Surveys_Survey_Embedding Compression in Recommender Systems:A Survey.
 
-13. 2024_Data Engineering_Survey_High-Dimensional Vector Quantization：General Framework, Recent Advances, and Future Directions.
+13. 2024_Data Engineering_Survey_High-Dimensional Vector Quantization:General Framework, Recent Advances, and Future Directions.
 
-14. 2024_arXIv_Survey_Next Token Prediction Towards Multimodal Intelligence：A Comprehensive Survey.
+14. 2024_arXIv_Survey_Next Token Prediction Towards Multimodal Intelligence:A Comprehensive Survey.
 
 15. 2024_PrePrints_Survey_Continuous or Discrete, That is the Question=A Survey on Large Multi-Modal Models from the Perspective of Input-Output Space Extension.
 
@@ -872,9 +872,9 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 17. 2025_arXiv_Survey_From Principles to Applications= A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval.
 
-18. 2025_arXiv_Survey_Recent Advances in Discrete Speech Tokens：A Review.
+18. 2025_arXiv_Survey_Recent Advances in Discrete Speech Tokens:A Review.
 
-19. 2025_TMLR_Survey_Autoregressive Models in Vision：A Survey.
+19. 2025_TMLR_Survey_Autoregressive Models in Vision:A Survey.
 
 
 
