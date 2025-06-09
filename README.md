@@ -643,53 +643,53 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 5.1 Text + Image
 
-1. 2023_arXiv_SEED_Planting a SEED of Vision in Large Language Model.
+1. 2023_arXiv_SEED_Planting a SEED of Vision in Large Language Model. [[arXiv]](https://arxiv.org/abs/2307.08041) [[Github]](https://ailab-cvc.github.io/seed/seed.html)
 
-2. 2024_arXiv_Chameleon_Chameleon:Mixed-Modal Early-Fusion Foundation Models.
+2. 2024_arXiv_Chameleon_Chameleon: Mixed-Modal Early-Fusion Foundation Models. [[arXiv]](https://arxiv.org/abs/2405.09818) [[Github]](https://github.com/facebookresearch/chameleon)
 
-3. 2024_arXiv_ILLUME_ILLUME=Illuminating Your LLMs to See, Draw, and Self-Enhance.
+3. 2024_arXiv_ILLUME_ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance. [[arXiv]](https://arxiv.org/abs/2412.06673)
 
-4. 2024_arXiv_ILLUME_ILLUME=Illuminating Your LLMs to See, Draw, and Self-Enhance.
+4. 2024_arXiv_Janus_Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/papers/Wu_Janus_Decoupling_Visual_Encoding_for_Unified_Multimodal_Understanding_and_Generation_CVPR_2025_paper.pdf) [[arXiv]](https://arxiv.org/abs/2410.13848)
 
-5. 2024_arXiv_Lumina-mGPT_Lumina-mGPT=Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining.
+5. 2024_arXiv_Lumina-mGPT_Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining. [[arXiv]](https://arxiv.org/abs/2408.02657) [[Github]](https://github.com/Alpha-VLLM/Lumina-mGPT)
 
-6. 2024_arXiv_MUSE-VL_MUSE-VL:Modeling Unified VLM through Semantic Discrete Encoding.
+6. 2024_arXiv_MUSE-VL_MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding. [[arXiv]](https://arxiv.org/abs/2411.17762)
 
-7. 2024_arXiv_Show-o_Show-o:One single transformer to unify multimodal understanding and generation.
+7. 2024_arXiv_Show-o_Show-o: One single transformer to unify multimodal understanding and generation. [[arXiv]](https://arxiv.org/abs/2408.12528v6) [[Github]](https://github.com/showlab/Show-o)
 
-8. 2024_ICLR_LaVIT_Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization.
+8. 2024_ICLR_LaVIT_Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization. [[ICLR]](https://iclr.cc/virtual/2024/poster/19049) [[arXiv]](https://arxiv.org/abs/2309.04669) [[Github]](https://github.com/jy0205/LaVIT)
 
-9. 2024_ICLR_SEED-LLaMA_Making LLaMA SEE and Draw with SEED Tokenizer.
+9. 2024_ICLR_SEED-LLaMA_Making LLaMA SEE and Draw with SEED Tokenizer. [[ICLR]](https://iclr.cc/virtual/2024/poster/19618) [[arXiv]](https://arxiv.org/abs/2310.01218) [[Github]](https://ailab-cvc.github.io/seed/seed_llama.html)
 
-10. 2024_ICML_Libra_Libra= Building Decoupled Vision System on Large Language Models.
+10. 2024_ICML_Libra_Libra: Building Decoupled Vision System on Large Language Models. [[ICML]](https://proceedings.mlr.press/v235/xu24ab.html) [[arXiv]](https://arxiv.org/abs/2405.10140) [[Github]](https://github.com/YifanXu74/Libra)
 
-11. 2024_ICML_Morph-Tokens_Auto-Encoding Morph-Tokens for Multimodal LLM.
+11. 2024_ICML_Morph-Tokens_Auto-Encoding Morph-Tokens for Multimodal LLM. [[ICML]](https://proceedings.mlr.press/v235/pan24h.html) [[arXiv]](https://arxiv.org/abs/2405.01926) [[Github]](https://github.com/dcdmllm/morphtokens)
 
-12. 2025_arXiv_DDT-LLaMA_Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens.
+12. 2025_arXiv_DDT-LLaMA_Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens. [[arXiv]](https://arxiv.org/abs/2504.14666) [[Github]](https://ddt-llama.github.io/)
 
-13. 2025_arXiv_ETT_End-to-End-Vision Tokenizer Tuning.
+13. 2025_arXiv_ETT_End-to-End-Vision Tokenizer Tuning. [[arXiv]](https://arxiv.org/abs/2505.10562) [[Huggingface]](https://huggingface.co/papers/2505.10562)
 
-14. 2025_arXiv_FashionM3_FashionM3=Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model.
+14. 2025_arXiv_FashionM3_FashionM3: Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model. [[arXiv]](https://arxiv.org/abs/2504.17826)
 
-15. 2025_arXiv_HiMTok_HiMTok:Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model.
+15. 2025_arXiv_HiMTok_HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. [[arXiv]](https://arxiv.org/abs/2503.13026) [[Github]](https://github.com/yayafengzi/LMM-HiMTok/tree/main) [[Huggingface]](https://huggingface.co/collections/yayafengzi/lmm-himtok-67d3945fb7d8bec54101487d)
 
-16. 2025_arXiv_ILLUME+_ILLUME+:Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement.
+16. 2025_arXiv_ILLUME+_ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement. [[arXiv]](https://arxiv.org/abs/2504.01934) [[Github]](https://illume-unified-mllm.github.io/)
 
-17. 2025_arXiv_Janus-Pro_Janus-Pro=Unified Multimodal Understanding and Generation with Data and Model Scaling.
+17. 2025_arXiv_Janus-Pro_Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling. [[arXiv]](https://arxiv.org/abs/2501.17811)
 
-18. 2025_arXiv_QLIP_QLIP:Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation.
+18. 2025_arXiv_QLIP_QLIP: Text-Aligned Visual Tokenization Unifies Auto-Regressive Multimodal Understanding and Generation. [[arXiv]](https://arxiv.org/abs/2502.05178) [[Github]](https://github.com/NVlabs/QLIP)
 
-19. 2025_arXiv_SemHiTok_SemHiTok:A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation.
+19. 2025_arXiv_SemHiTok_SemHiTok: A Unified Image Tokenizer via Semantic-Guided Hierarchical Codebook for Multimodal Understanding and Generation. [[arXiv]](https://arxiv.org/abs/2503.06764)
 
-20. 2025_arXiv_UniToken_UniToken:Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding.
+20. 2025_arXiv_UniToken_UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding. [[arXiv]](https://arxiv.org/abs/2504.04423) [[Github]](https://github.com/SxJyJay/UniToken)
 
-21. 2025_arXv_Token-Shuffle_Token-Shuffle:Towards High-Resolution Image Generation with Autoregressive Models.
+21. 2025_arXv_Token-Shuffle_Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models. [[arXiv]](https://arxiv.org/abs/2504.17789) [[Github]](https://github.com/ma-xu/token-shuffle) [[Huggingface]](https://huggingface.co/papers/2504.17789#:~:text=A%20Token-Shuffle%20method%20enhances%20high-resolution%20AR%20image%20generation,Transformers%2C%20enabling%20efficient%20generation%20and%20outperforming%20diffusion%20models.)
 
-22. 2025_AAAI_MARS_MARS=Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis.
+22. 2025_AAAI_MARS_MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/33882) [[arXiv]](https://arxiv.org/abs/2407.07614) [[Github]](https://github.com/fusiming3/MARS)
 
-23. 2025_CVPR_TokenFlow_TokenFlow:Unified Image Tokenizer for Multimodal Understanding and Generation.
+23. 2025_CVPR_TokenFlow_TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Qu_TokenFlow_Unified_Image_CVPR_2025_supplemental.pdf) [[arXiv]](https://arxiv.org/abs/2412.03069) [[Github]](https://github.com/ByteFlow-AI/TokenFlow)
 
-24. 2025_ICLR_ClawMachine_ClawMachine=Fetching Visual Tokens as An Entity for Referring and Grounding.
+24. 2025_ICLR_ClawMachine_ClawMachine: Fetching Visual Tokens as An Entity for Referring and Grounding. [[ICLR]](https://iclr.cc/virtual/2025/poster/29545) [[arXiv]](https://arxiv.org/abs/2406.11327v1)
 
 
 
