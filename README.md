@@ -300,37 +300,37 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 ### 3.2 Sound
 
-1. 2022_TASLP_SoundStream_SoundStream：An End-to-End Neural Audio Codec.
+1. 2022_TASLP_SoundStream_SoundStream：An End-to-End Neural Audio Codec. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/9625818) [[arXiv]](https://arxiv.org/abs/2107.03312) [[Github]](https://github.com/haydenshively/SoundStream)
 
-2. 2023_arXiv_HiFi-Codec_HiFi-Codec：Group-residual Vector quantization for High Fidelity Audio Codec.
+2. 2023_arXiv_HiFi-Codec_HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec. [[arXiv]](https://arxiv.org/abs/2305.02765)
 
-3. 2023_NeurlPS_DAC_High fidelity neural audio compression with Improved RVQGAN.
+3. 2023_NeurlPS_DAC_High fidelity neural audio compression with Improved RVQGAN. [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/58d0e78cf042af5876e12661087bea12-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2306.06546)
 
-4. 2023_TMLR_EnCodec_High Fidelity Neural Audio Compression.
+4. 2023_TMLR_EnCodec_High Fidelity Neural Audio Compression. [[arXiv]](https://arxiv.org/abs/2210.13438)
 
-5. 2024_J-STSP_SemantiCodec_SemantiCodec：An Ultra Low Bitrate Semantic Audio Codec for General Sound.
+5. 2024_J-STSP_SemantiCodec_SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound. [[arXiv]](https://arxiv.org/abs/2405.00233)
 
-6. 2025_arXiv_QINCODEC_QINCODEC：Neural Audio Compression with Implicit Neural Codebooks.
+6. 2025_arXiv_QINCODEC_QINCODEC: Neural Audio Compression with Implicit Neural Codebooks. [[arXiv]](https://arxiv.org/abs/2503.19597)
 
-7. 2025_arXiv_SQCodec_One Quantizer is Enough：Toward a Lightweight Audio Codec.
+7. 2025_arXiv_SQCodec_One Quantizer is Enough: Toward a Lightweight Audio Codec. [[arXiv]](https://arxiv.org/abs/2504.04949)
 
-8. 2025_arXiv_UniCodec_UniCodec：Unified Audio Codec with Single Domain-Adaptive Codebook.
+8. 2025_arXiv_UniCodec_UniCodec：Unified Audio Codec with Single Domain-Adaptive Codebook. [[arXiv]](https://arxiv.org/abs/2502.20067) [[Github]](https://github.com/Jiang-Yidi/UniCodec/tree/main)
 
-9. 2025_IEEE Signal Processing Letter_StreamCodec_A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication.
+9. 2025_IEEE Signal Processing Letter_StreamCodec_A Streamable Neural Audio Codec with Residual Scalar-Vector Quantization for Real-Time Communication. [[arXiv]](https://arxiv.org/abs/2504.06561)
 
 
 
-1. 2020_ICLR_vq-wav2vec_vq-wav2vec：Self-Supervised Learning of Discrete Speech Representations.
+1. 2020_ICLR_vq-wav2vec_vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations. [[ICLR]](https://iclr.cc/virtual_2020/poster_rylwJxrYDS.html) [[arXiv]](https://arxiv.org/abs/1910.05453)
 
-2. 2020_NeurlPS_wav2vec 2.0_wav2vec 2.0：A Framework for Self-Supervised Learning of Speech Representations.
+2. 2020_NeurlPS_wav2vec 2.0_wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations. [[NeurIPS]](https://proceedings.neurips.cc/paper/2020/hash/92d1e1eb1cd6f9fba3227870bb6d7f07-Abstract.html) [[arXiv]](https://arxiv.org/abs/2006.11477)
 
-3. 2023_ICASSP_LMCodec_LMCodec：A Low Bitrate Speech Codec with Causal Transformer Models.
+3. 2023_ICASSP_LMCodec_LMCodec: A Low Bitrate Speech Codec with Causal Transformer Models. [[IEEE ICASSP]](https://ieeexplore.ieee.org/abstract/document/10095442) [[arXiv]](https://arxiv.org/abs/2303.12984)
 
-4. 2024_ICLR_SpeechTokenizer_SpeechTokenizer：Unified Speech Tokenizer for Speech Language Models.
+4. 2024_ICLR_SpeechTokenizer_SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models. [[ICLR]](https://iclr.cc/virtual/2024/poster/19270) [[arXiv]](https://arxiv.org/abs/2308.16692)
 
-5. 2025_ICASSP_LFSC_Low Frame-rate Speech Codec=A Codec Designed for Fast High-quality Speech LLM Training and Inference.
+5. 2025_ICASSP_LFSC_Low Frame-rate Speech Codec: A Codec Designed for Fast High-quality Speech LLM Training and Inference. [[IEEE ICASSP]](https://ieeexplore.ieee.org/document/10888202) [[arXiv]](https://arxiv.org/abs/2409.12117)
 
-6. 2025_ICLR_TAAE_Scaling Transformers for Low-Bitrate High-Quality Speech Coding.
+6. 2025_ICLR_TAAE_Scaling Transformers for Low-Bitrate High-Quality Speech Coding. [[ICLR]](https://iclr.cc/virtual/2025/poster/31006)
 
 
 
