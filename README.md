@@ -781,7 +781,7 @@ The official GitHub page for the survey paper "Bridging Multiple Modality to LLM
 
 2. 2024_arXiv_DMLM_Discrete Multimodal Transformers with A Pretrained Large Language Model for Mixed-Supervision Speech Processing. [[arXiv]](https://arxiv.org/abs/2406.06582)
 
-3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling. [[ACL]](https://aclanthology.org/2024.acl-long.521/) [[arXiv]](https://arxiv.org/abs/2402.12226) [[Github]](https://github.com/OpenMOSS/AnyGPT) [[Huggingface]](https://huggingface.co/fnlp/AnyGPT-base) [[Video]](https://www.youtube.com/watch?v=oW3E3pIsaRg) [[Bilibili]](https://www.bilibili.com/video/BV1qm411S7tk/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
+3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling. [[ACL]](https://aclanthology.org/2024.acl-long.521/) [[arXiv]](https://arxiv.org/abs/2402.12226) [[Github]](https://github.com/OpenMOSS/AnyGPT) [[Huggingface]](https://huggingface.co/fnlp/AnyGPT-base) [[Youtube]](https://www.youtube.com/watch?v=oW3E3pIsaRg) [[Bilibili]](https://www.bilibili.com/video/BV1qm411S7tk/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
 
 
