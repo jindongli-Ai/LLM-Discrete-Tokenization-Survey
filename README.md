@@ -1,9 +1,9 @@
 
 <div align="center">
-    <h1><b>Bridging Multiple Modality to LLMs: A Survey on Discrete Tokenization</b></h1>
+    <h1><b>Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b></h1>
 </div>
 
-The official GitHub page for the survey paper "Bridging Multiple Modality to LLMs: A Survey on Discrete Tokenization".
+The official GitHub page for the survey paper "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey".
 
 
 <div align="center">
