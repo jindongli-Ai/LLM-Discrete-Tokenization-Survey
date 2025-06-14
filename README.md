@@ -455,7 +455,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 3.7 Text + Sound
 
-1. 2023_ICLR_AudioGen_AudioGen:Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[Huggingface]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
+1. 2023_ICLR_AudioGen_AudioGen:Textually Guided Audio Generation. [[ICLR]](https://iclr.cc/virtual/2023/poster/11521) [[arXiv]](https://arxiv.org/abs/2209.15352) [[Github]](https://github.com/replicate/musicgen-chord/blob/main/docs/AUDIOGEN.md) [[HuggingFace]](https://huggingface.co/immverse-ai/audiocraft-music-generation/blob/main/docs/AUDIOGEN.md)
 
 2. 2024_arXiv_Spectral Codecs:Spectrogram-Based Audio Codecs for High Quality Speech Synthesis. [[arXiv]](https://arxiv.org/abs/2406.05298)
 
@@ -530,7 +530,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 1. 2020_WWW_MGQE_Learning Multi-granular Quantized Embeddings for Large-Vocab Categorical Features in Recommender Systems. [[WWW]](https://dl.acm.org/doi/abs/10.1145/3366424.3383416) [[arXiv]](https://arxiv.org/abs/2002.08530)
 
-2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval. [[NeurIPS]](https://papers.neurips.cc/paper_files/paper/2023/hash/20dcab0f14046a5c6b02b61da9f13229-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2305.05065) [[Huggingface]](https://huggingface.co/papers/2305.05065)
+2. 2023_NeurlPS_TIGER_Recommender Systems with Generative Retrieval. [[NeurIPS]](https://papers.neurips.cc/paper_files/paper/2023/hash/20dcab0f14046a5c6b02b61da9f13229-Abstract-Conference.html) [[arXiv]](https://arxiv.org/abs/2305.05065) [[HuggingFace]](https://huggingface.co/papers/2305.05065)
 
 3. 2023_TOIS_ReFRS_ReFRS: Resource-efficient Federated Recommender System for Dynamic and Diversified User Preferences. [[ACM TOIS]](https://dl.acm.org/doi/abs/10.1145/3560486) [[arXiv]](https://arxiv.org/abs/2207.13897)
 
@@ -562,7 +562,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 4. 2024_CVPR_V2T Tokenizer_Beyond Text: Frozen Large Language Models in Visual Signal Comprehension. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_Beyond_Text_Frozen_Large_Language_Models_in_Visual_Signal_Comprehension_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10657022) [[arXiv]](https://arxiv.org/abs/2403.07874)
 
-5. 2024_ICML_StrokeNUWA_StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis. [[ICML]](https://icml.cc/virtual/2024/poster/33497) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3694021) [[arXiv]](https://arxiv.org/abs/2401.17093) [[Github]](https://github.com/ProjectNUWA/StrokeNUWA) [[Huggingface]](https://huggingface.co/papers/2401.17093)
+5. 2024_ICML_StrokeNUWA_StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis. [[ICML]](https://icml.cc/virtual/2024/poster/33497) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3694021) [[arXiv]](https://arxiv.org/abs/2401.17093) [[Github]](https://github.com/ProjectNUWA/StrokeNUWA) [[HuggingFace]](https://huggingface.co/papers/2401.17093)
 
 6. 2025_arXiv_V2Flow_V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation. [[arXiv]](https://arxiv.org/abs/2503.07493) [[Github]](https://github.com/Davinci-XLab/V2Flow)
 
@@ -623,7 +623,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 7. 2024_CIKM_LETTER_Learnable Item Tokenization for Generative Recommendation. [[ACM CIKM]](https://dl.acm.org/doi/10.1145/3627673.3679569) [[arXiv]](https://arxiv.org/abs/2405.07314) [[Github]](https://github.com/HonghuiBao2000/LETTER)
 
-8. 2024_ICDE_LC-Rec_Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation. [[arXiv]](https://arxiv.org/abs/2311.09049) [[Github]](https://github.com/RUCAIBox/LC-Rec) [[Huggingface]](https://huggingface.co/papers/2311.09049)
+8. 2024_ICDE_LC-Rec_Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation. [[arXiv]](https://arxiv.org/abs/2311.09049) [[Github]](https://github.com/RUCAIBox/LC-Rec) [[HuggingFace]](https://huggingface.co/papers/2311.09049)
 
 9. 2025_arXiv_UTGRec_Universal Item Tokenization for Transferable Generative Recommendation. [[arXiv]](https://arxiv.org/abs/2504.04405) [[Github]](https://github.com/zhengbw0324/UTGRec)
 
@@ -667,11 +667,11 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 12. 2025_arXiv_DDT-LLaMA_Generative Multimodal Pretraining with Discrete Diffusion Timestep Tokens. [[arXiv]](https://arxiv.org/abs/2504.14666) [[Github]](https://ddt-llama.github.io/)
 
-13. 2025_arXiv_ETT_End-to-End-Vision Tokenizer Tuning. [[arXiv]](https://arxiv.org/abs/2505.10562) [[Huggingface]](https://huggingface.co/papers/2505.10562)
+13. 2025_arXiv_ETT_End-to-End-Vision Tokenizer Tuning. [[arXiv]](https://arxiv.org/abs/2505.10562) [[HuggingFace]](https://huggingface.co/papers/2505.10562)
 
 14. 2025_arXiv_FashionM3_FashionM3: Multimodal, Multitask, and Multiround Fashion Assistant based on Unified Vision-Language Model. [[arXiv]](https://arxiv.org/abs/2504.17826)
 
-15. 2025_arXiv_HiMTok_HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. [[arXiv]](https://arxiv.org/abs/2503.13026) [[Github]](https://github.com/yayafengzi/LMM-HiMTok/tree/main) [[Huggingface]](https://huggingface.co/collections/yayafengzi/lmm-himtok-67d3945fb7d8bec54101487d)
+15. 2025_arXiv_HiMTok_HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. [[arXiv]](https://arxiv.org/abs/2503.13026) [[Github]](https://github.com/yayafengzi/LMM-HiMTok/tree/main) [[HuggingFace]](https://huggingface.co/collections/yayafengzi/lmm-himtok-67d3945fb7d8bec54101487d)
 
 16. 2025_arXiv_ILLUME+_ILLUME+: Illuminating Unified MLLM with Dual Visual Tokenization and Diffusion Refinement. [[arXiv]](https://arxiv.org/abs/2504.01934) [[Github]](https://illume-unified-mllm.github.io/)
 
@@ -683,7 +683,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 20. 2025_arXiv_UniToken_UniToken: Harmonizing Multimodal Understanding and Generation through Unified Visual Encoding. [[arXiv]](https://arxiv.org/abs/2504.04423) [[Github]](https://github.com/SxJyJay/UniToken)
 
-21. 2025_arXv_Token-Shuffle_Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models. [[arXiv]](https://arxiv.org/abs/2504.17789) [[Github]](https://github.com/ma-xu/token-shuffle) [[Huggingface]](https://huggingface.co/papers/2504.17789)
+21. 2025_arXv_Token-Shuffle_Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models. [[arXiv]](https://arxiv.org/abs/2504.17789) [[Github]](https://github.com/ma-xu/token-shuffle) [[HuggingFace]](https://huggingface.co/papers/2504.17789)
 
 22. 2025_AAAI_MARS_MARS: Mixture of Auto-Regressive Models for Fine-grained Text-to-image Synthesis. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/33882) [[arXiv]](https://arxiv.org/abs/2407.07614) [[Github]](https://github.com/fusiming3/MARS)
 
@@ -697,11 +697,11 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 5.2 Text + Audio
 
-1. 2023_arXiv_AudioPaLM_AudioPaLM: A Large Language Model That Can Speak and Listen. [[arXiv]](https://arxiv.org/abs/2306.12925) [[Huggingface]](https://huggingface.co/papers/2306.12925) [[Youtube]](https://www.youtube.com/watch?v=inUO_3DMjrI)
+1. 2023_arXiv_AudioPaLM_AudioPaLM: A Large Language Model That Can Speak and Listen. [[arXiv]](https://arxiv.org/abs/2306.12925) [[HuggingFace]](https://huggingface.co/papers/2306.12925) [[Youtube]](https://www.youtube.com/watch?v=inUO_3DMjrI)
 
 2. 2023_arXiv_LauraGPT_LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT. [[arXiv]](https://arxiv.org/abs/2310.04673) [[Github]](https://lauragpt.github.io/)
 
-3. 2023_EMNLP_SpeechGPT_SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities. [[ENMLP]](https://aclanthology.org/2023.findings-emnlp.1055/) [[arXiv]](https://arxiv.org/abs/2305.11000) [[Github]](https://github.com/0nutation/SpeechGPT) [[Huggingface]](https://huggingface.co/fnlp/SpeechGPT-7B-cm)
+3. 2023_EMNLP_SpeechGPT_SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities. [[ENMLP]](https://aclanthology.org/2023.findings-emnlp.1055/) [[arXiv]](https://arxiv.org/abs/2305.11000) [[Github]](https://github.com/0nutation/SpeechGPT) [[HuggingFace]](https://huggingface.co/fnlp/SpeechGPT-7B-cm)
 
 4. 2024_arXiv_CosyVoice 2_CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models. [[arXiv]](https://arxiv.org/abs/2412.10117) [[Github]](https://github.com/Render-AI/CosyVoice2)
 
@@ -719,13 +719,13 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 11. 2024_IEEE Signal Processing Letters_MSRT_Tuning Large Language Model for Speech Recognition With Mixed-Scale Re-Tokenization. [[IEEE Signal Processing Letters]](https://ieeexplore.ieee.org/document/10574347)
 
-12. 2024_Interspeech_DiscreteSLU_DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding. [[arXiv]](https://arxiv.org/abs/2406.09345) [[Huggingface]](https://huggingface.co/papers/2406.09345)
+12. 2024_Interspeech_DiscreteSLU_DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding. [[arXiv]](https://arxiv.org/abs/2406.09345) [[HuggingFace]](https://huggingface.co/papers/2406.09345)
 
 13. 2024_MM_GPT-Talker_Generative Expressive Conversational Speech Synthesis. [[ACM MM]](https://dl.acm.org/doi/10.1145/3664647.3681697) [[arXiv]](https://arxiv.org/abs/2407.21491) [[Github]](https://gpt-talker.github.io/GPT-Talker/)
 
 14. 2025_arXiv_Spark-TTS_Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens. [[arXiv]](https://arxiv.org/abs/2503.01710) [[Github]](https://github.com/sparkaudio/spark-tts)
 
-15. 2025_Kimi-Audio_Kimi-Audio Technical Report. [[arXiv]](http://export.arxiv.org/abs/2504.18425) [[Github]](https://github.com/MoonshotAI/Kimi-Audio) [[Huggingface]](https://huggingface.co/moonshotai/Kimi-Audio-7B)
+15. 2025_Kimi-Audio_Kimi-Audio Technical Report. [[arXiv]](http://export.arxiv.org/abs/2504.18425) [[Github]](https://github.com/MoonshotAI/Kimi-Audio) [[HuggingFace]](https://huggingface.co/moonshotai/Kimi-Audio-7B)
 
 
 
@@ -733,7 +733,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 5.3 Text + Video
 
-1. 2024_arXiv_Loong_Loong: Generating Minute-level Long Videos with Autoregressive Language Models. [[arXiv]](https://arxiv.org/abs/2410.02757) [[Github]](https://yuqingwang1029.github.io/Loong-video/) [[Huggingface]](https://huggingface.co/papers/2410.02757)
+1. 2024_arXiv_Loong_Loong: Generating Minute-level Long Videos with Autoregressive Language Models. [[arXiv]](https://arxiv.org/abs/2410.02757) [[Github]](https://yuqingwang1029.github.io/Loong-video/) [[HuggingFace]](https://huggingface.co/papers/2410.02757)
 
 2. 2024_ICML_Video-LaVIT_Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization. [[ICML]](https://proceedings.mlr.press/v235/jin24f.html) [[ACM ICML]](https://dl.acm.org/doi/10.5555/3692070.3692962) [[arXiv]](https://arxiv.org/abs/2402.03161) [[Github]](https://video-lavit.github.io/)
 
@@ -753,7 +753,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 3. 2025_arXiv_MedTok_Multimodal Medical Code Tokenizer. [[arXiv]](https://arxiv.org/abs/2502.04397)
 
-4. 2025_arXiv_SSQR_Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models. [[arXiv]](https://arxiv.org/abs/2501.18119) [[Huggingface]](https://huggingface.co/papers/2501.18119)
+4. 2025_arXiv_SSQR_Self-Supervised Quantized Representation for Seamlessly Integrating Knowledge Graphs with Large Language Models. [[arXiv]](https://arxiv.org/abs/2501.18119) [[HuggingFace]](https://huggingface.co/papers/2501.18119)
 
 
 
@@ -781,7 +781,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 2. 2024_arXiv_DMLM_Discrete Multimodal Transformers with A Pretrained Large Language Model for Mixed-Supervision Speech Processing. [[arXiv]](https://arxiv.org/abs/2406.06582)
 
-3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling. [[ACL]](https://aclanthology.org/2024.acl-long.521/) [[arXiv]](https://arxiv.org/abs/2402.12226) [[Github]](https://github.com/OpenMOSS/AnyGPT) [[Huggingface]](https://huggingface.co/fnlp/AnyGPT-base) [[Youtube]](https://www.youtube.com/watch?v=oW3E3pIsaRg) [[Bilibili]](https://www.bilibili.com/video/BV1qm411S7tk/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
+3. 2024_ACL_AnyGPT_AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling. [[ACL]](https://aclanthology.org/2024.acl-long.521/) [[arXiv]](https://arxiv.org/abs/2402.12226) [[Github]](https://github.com/OpenMOSS/AnyGPT) [[HuggingFace]](https://huggingface.co/fnlp/AnyGPT-base) [[Youtube]](https://www.youtube.com/watch?v=oW3E3pIsaRg) [[Bilibili]](https://www.bilibili.com/video/BV1qm411S7tk/?vd_source=5a0ffee00ec6c37f96345e35b2838f32)
 
 
 
@@ -792,9 +792,9 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 1. 2024_arXiv_Emu3: Next-Token Prediction is All You Need. [[arXiv]](https://arxiv.org/abs/2409.18869) [[Github]](https://github.com/baaivision/Emu3) [[Youtube]](https://www.youtube.com/watch?v=vO3sEdNGibw)
 
-2. 2025_ICLR_LWM_World model on million-length video and language with blockwise ringattention. [[ICLR]](https://iclr.cc/virtual/2025/poster/30229) [[arXiv]](https://arxiv.org/abs/2402.08268) [[Github]](https://github.com/LargeWorldModel/lwm) [[Huggingface]](https://huggingface.co/papers/2402.08268) [[Youtube]](https://www.youtube.com/watch?v=ZCa_BqDCWgo)
+2. 2025_ICLR_LWM_World model on million-length video and language with blockwise ringattention. [[ICLR]](https://iclr.cc/virtual/2025/poster/30229) [[arXiv]](https://arxiv.org/abs/2402.08268) [[Github]](https://github.com/LargeWorldModel/lwm) [[HuggingFace]](https://huggingface.co/papers/2402.08268) [[Youtube]](https://www.youtube.com/watch?v=ZCa_BqDCWgo)
 
-3. 2025_ICLR_VILA-U_VILA-U: A Unified Foundation Model Integrating Visual Understanding and Generation. [[ICLR]](https://iclr.cc/virtual/2025/poster/31274) [[arXiv]](https://arxiv.org/abs/2409.04429) [[Huggingface]](https://huggingface.co/mit-han-lab/vila-u-7b-256)
+3. 2025_ICLR_VILA-U_VILA-U: A Unified Foundation Model Integrating Visual Understanding and Generation. [[ICLR]](https://iclr.cc/virtual/2025/poster/31274) [[arXiv]](https://arxiv.org/abs/2409.04429) [[HuggingFace]](https://huggingface.co/mit-han-lab/vila-u-7b-256)
 
 
 
@@ -814,7 +814,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 5.9 Text + Image + Audio + Action
 
-1. 2024_CVPR_Unified-IO 2_Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10657364) [[arXiv]](https://arxiv.org/abs/2312.17172) [[Huggingface]](https://huggingface.co/papers/2312.17172)
+1. 2024_CVPR_Unified-IO 2_Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action. [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf) [[IEEE CVPR]](https://ieeexplore.ieee.org/document/10657364) [[arXiv]](https://arxiv.org/abs/2312.17172) [[HuggingFace]](https://huggingface.co/papers/2312.17172)
 
 
 
@@ -822,9 +822,9 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 5.10 Text + Image + Video + Audio
 
-1. 2024_arXiv_MIO_MIO: A foundation model on multimodal tokens. [[arXiv]](https://arxiv.org/abs/2409.17692) [[Huggingface]](https://huggingface.co/papers/2409.17692) [[Youtube]](https://www.youtube.com/watch?v=SAUQvgSuOW0)
+1. 2024_arXiv_MIO_MIO: A foundation model on multimodal tokens. [[arXiv]](https://arxiv.org/abs/2409.17692) [[HuggingFace]](https://huggingface.co/papers/2409.17692) [[Youtube]](https://www.youtube.com/watch?v=SAUQvgSuOW0)
 
-2. 2024_ICML_VideoPoet_VideoPoet: A Large Language Model for Zero-Shot Video Generation. [[ICML]](https://proceedings.mlr.press/v235/kondratyuk24a.html) [[arXiv]](https://arxiv.org/abs/2312.14125) [[Huggingface]](https://huggingface.co/papers/2312.14125) [[Youtube]](https://www.youtube.com/watch?v=eMQ1mCVBQPs)
+2. 2024_ICML_VideoPoet_VideoPoet: A Large Language Model for Zero-Shot Video Generation. [[ICML]](https://proceedings.mlr.press/v235/kondratyuk24a.html) [[arXiv]](https://arxiv.org/abs/2312.14125) [[HuggingFace]](https://huggingface.co/papers/2312.14125) [[Youtube]](https://www.youtube.com/watch?v=eMQ1mCVBQPs)
 
 
 
