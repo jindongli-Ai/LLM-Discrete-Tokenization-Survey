@@ -1098,50 +1098,55 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
    [[Github]](https://github.com/0nutation/SpeechGPT)
    [[HuggingFace]](https://huggingface.co/fnlp/SpeechGPT-7B-cm)
 
-4. 2024_arXiv_CosyVoice 2_CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models.
+4. 2024_arXiv_SpeechGPT-Gen_SpeechGPT-Gen=Scaling Chain-of-Information Speech Generation.
+   [[arXiv]](https://arxiv.org/abs/2401.13527)
+   [[Github]](https://github.com/0nutation/SpeechGPT)
+   [[Demo]](https://0nutation.github.io/SpeechGPT-Gen.github.io/)
+
+6. 2024_arXiv_CosyVoice 2_CosyVoice 2: Scalable Streaming Speech Synthesis with Large Language Models.
    [[arXiv]](https://arxiv.org/abs/2412.10117)
    [[Github]](https://github.com/Render-AI/CosyVoice2)
 
-5. 2024_arXiv_CosyVoice_CosyVoice_A Scalable Multilingual Zero-shot Text-to-Speech Synthesizer based on Supervised Semantic Tokens.
+7. 2024_arXiv_CosyVoice_CosyVoice_A Scalable Multilingual Zero-shot Text-to-Speech Synthesizer based on Supervised Semantic Tokens.
     [[arXiv]](https://arxiv.org/abs/2407.05407)
     [[Github]](https://github.com/FunAudioLLM/CosyVoice)
 
-6. 2024_arXiv_IntrinsicVoice_IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities.
+8. 2024_arXiv_IntrinsicVoice_IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities.
     [[arXiv]](https://arxiv.org/abs/2410.08035)
 
-7. 2024_arXiv_Moshi_Moshi: a speech-text foundation model for real-time dialogue.
+9. 2024_arXiv_Moshi_Moshi: a speech-text foundation model for real-time dialogue.
     [[arXiv]](https://arxiv.org/abs/2410.00037)
     [[Github]](https://github.com/kyutai-labs/moshi)
 
-8. 2024_arXiv_OmniFlatten_OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation.
+10. 2024_arXiv_OmniFlatten_OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation.
     [[arXiv]](https://arxiv.org/abs/2410.17799)
 
-9. 2024_arXiv_T5-TTS_Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment.
+11. 2024_arXiv_T5-TTS_Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment.
     [[arXiv]](https://arxiv.org/abs/2406.17957)
     [[Github]](https://t5tts.github.io/)
 
-10. 2024_ICASSP_VoxtLM_VoxtLM: Unified Decoder-Only Models for Consolidating Speech Recognition, Synthesis and Speech, Text Continuation Tasks.
+12. 2024_ICASSP_VoxtLM_VoxtLM: Unified Decoder-Only Models for Consolidating Speech Recognition, Synthesis and Speech, Text Continuation Tasks.
     [[IEEE ICASSP]](https://ieeexplore.ieee.org/abstract/document/10447112)
     [[arXiv]](https://arxiv.org/abs/2309.07937)
     [[Github]](https://soumimaiti.github.io/icassp24_voxtlm/)
 
-11. 2024_IEEE Signal Processing Letters_MSRT_Tuning Large Language Model for Speech Recognition With Mixed-Scale Re-Tokenization.
+13. 2024_IEEE Signal Processing Letters_MSRT_Tuning Large Language Model for Speech Recognition With Mixed-Scale Re-Tokenization.
     [[IEEE Signal Processing Letters]](https://ieeexplore.ieee.org/document/10574347)
 
-12. 2024_Interspeech_DiscreteSLU_DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding.
+14. 2024_Interspeech_DiscreteSLU_DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding.
     [[arXiv]](https://arxiv.org/abs/2406.09345)
     [[HuggingFace]](https://huggingface.co/papers/2406.09345)
 
-13. 2024_MM_GPT-Talker_Generative Expressive Conversational Speech Synthesis.
+15. 2024_MM_GPT-Talker_Generative Expressive Conversational Speech Synthesis.
     [[ACM MM]](https://dl.acm.org/doi/10.1145/3664647.3681697)
     [[arXiv]](https://arxiv.org/abs/2407.21491)
     [[Github]](https://gpt-talker.github.io/GPT-Talker/)
 
-14. 2025_arXiv_Spark-TTS_Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens.
+16. 2025_arXiv_Spark-TTS_Spark-TTS: An Efficient LLM-Based Text-to-Speech Model with Single-Stream Decoupled Speech Tokens.
     [[arXiv]](https://arxiv.org/abs/2503.01710)
     [[Github]](https://github.com/sparkaudio/spark-tts)
 
-15. 2025_Kimi-Audio_Kimi-Audio Technical Report.
+17. 2025_Kimi-Audio_Kimi-Audio Technical Report.
     [[arXiv]](http://export.arxiv.org/abs/2504.18425)
     [[Github]](https://github.com/MoonshotAI/Kimi-Audio)
     [[HuggingFace]](https://huggingface.co/moonshotai/Kimi-Audio-7B)
