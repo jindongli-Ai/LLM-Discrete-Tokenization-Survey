@@ -61,15 +61,13 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_3.png" alt="fig_3" width="400" />
 </p>
-<br>
-<br>
+
 
 
 <p align="center">
     <img src="./figs/fig_4.png" alt="fig_4" width="400" />
 </p>
-<br>
-<br>
+
 
 
 ### 2.1 Vinalla Vector Quantization (VQ)
@@ -157,8 +155,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_5.png" alt="fig_5" width="400" />
 </p>
-<br>
-<br>
+
 
 
 1. 2010_Sensors_RVQ_Approximate nearest neighbor search by residual vector quantization.
@@ -207,8 +204,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_6.png" alt="fig_6" width="400" />
 </p>
-<br>
-<br>
+
 
 
 
@@ -283,8 +279,8 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_7.png" alt="fig_7" width="400" />
 </p>
-<br>
-<br>
+
+
 
 1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression.
    [[IEEE CVPR]](https://ieeexplore.ieee.org/document/6909519)
@@ -314,8 +310,6 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_8.png" alt="fig_8" width="400" />
 </p>
-<br>
-<br>
 
 
 
@@ -336,8 +330,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_9.png" alt="fig_9" width="400" />
 </p>
-<br>
-<br>
+
 
 
 
@@ -356,8 +349,8 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/fig_10.png" alt="fig_10" width="400" />
 </p>
-<br>
-<br>
+
+
 
 
 1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization.
@@ -387,8 +380,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <p align="center">
     <img src="./figs/tab_1.png" alt="tab_1" width="400" />
 </p>
-<br>
-<br>
+
 
 
 
