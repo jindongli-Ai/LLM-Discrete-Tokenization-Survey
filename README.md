@@ -58,6 +58,19 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ## 2 Fundamental Techniques
 
+<p align="center">
+    <img src="./figs/fig_3.png" alt="fig_3" width="400" />
+</p>
+<br>
+<br>
+
+
+<p align="center">
+    <img src="./figs/fig_4.png" alt="fig_4" width="400" />
+</p>
+<br>
+<br>
+
 
 ### 2.1 Vinalla Vector Quantization (VQ)
 
@@ -141,6 +154,13 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 2.2 Residual Vector Quantization (RVQ)
 
+<p align="center">
+    <img src="./figs/fig_5.png" alt="fig_5" width="400" />
+</p>
+<br>
+<br>
+
+
 1. 2010_Sensors_RVQ_Approximate nearest neighbor search by residual vector quantization.
    [[Sensors]](https://www.mdpi.com/1424-8220/10/12/11259)
 
@@ -182,6 +202,15 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 ### 2.3 Product Quantization (PQ)
+
+
+<p align="center">
+    <img src="./figs/fig_6.png" alt="fig_6" width="400" />
+</p>
+<br>
+<br>
+
+
 
 1. 2011_TPAMI_PQ_Product Quantization for Nearest Neighbor Search.
    [[IEEE TPAMI]](https://ieeexplore.ieee.org/document/5432202)
@@ -250,6 +279,13 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 2.4 Additive Vector Quantzation (AQ)
 
+
+<p align="center">
+    <img src="./figs/fig_7.png" alt="fig_7" width="400" />
+</p>
+<br>
+<br>
+
 1. 2014_CVPR_AQ_Additive Quantization for Extreme Vector Compression.
    [[IEEE CVPR]](https://ieeexplore.ieee.org/document/6909519)
    [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2014/html/Babenko_Additive_Quantization_for_2014_CVPR_paper.html)
@@ -274,6 +310,15 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 2.5 Finite Scalar Quantization (FSQ)
 
+
+<p align="center">
+    <img src="./figs/fig_8.png" alt="fig_8" width="400" />
+</p>
+<br>
+<br>
+
+
+
 1. 2024_ICLR_FSQ_Finite Scalar Quantization: VQ-VAE Made Simple. [
    [ICLR]](https://iclr.cc/virtual/2024/poster/19317)
    [[arXiv]](https://arxiv.org/abs/2309.15505)
@@ -287,6 +332,15 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 ### 2.6 Look-up Free Quantization (LFQ)
 
+
+<p align="center">
+    <img src="./figs/fig_9.png" alt="fig_9" width="400" />
+</p>
+<br>
+<br>
+
+
+
 1. 2024_ICLR_MAGVIT-v2_Language Model Beats Diffusion--Tokenizer is Key to Visual Generation.
    [[ICLR]](https://iclr.cc/virtual/2024/poster/18119)
    [[arXiv]](https://arxiv.org/abs/2310.05737)
@@ -298,6 +352,13 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 ### 2.7 Binary Spherical Quantization (BSQ)
+
+<p align="center">
+    <img src="./figs/fig_10.png" alt="fig_10" width="400" />
+</p>
+<br>
+<br>
+
 
 1. 2025_ICLR_BSQ_Image and Video Tokenization with Binary Spherical Quantization.
    [[arXiv]](https://arxiv.org/abs/2406.07548)
@@ -323,7 +384,11 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
-
+<p align="center">
+    <img src="./figs/tab_1.png" alt="tab_1" width="400" />
+</p>
+<br>
+<br>
 
 
 
