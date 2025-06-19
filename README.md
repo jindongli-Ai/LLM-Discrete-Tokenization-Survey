@@ -882,6 +882,11 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
+<p align="center">
+    <img src="./figs/fig_11.png" alt="fig_11" width="400" />
+</p>
+
+
 
 
 
@@ -1366,6 +1371,9 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
+<p align="center">
+    <img src="./figs/fig_13.png" alt="fig_13" width="400" />
+</p>
 
 
 
