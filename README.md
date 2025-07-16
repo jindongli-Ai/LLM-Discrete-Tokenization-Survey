@@ -1139,6 +1139,9 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
     [[ICLR]](https://iclr.cc/virtual/2025/poster/29545)
     [[arXiv]](https://arxiv.org/abs/2406.11327v1)
 
+25. 2025_arXiv_Unicode2_Unicode2: Cascaded-Large-scale-Codebooks-for-Unified-Multimodal-Understanding-and-Generation.
+    [[arXiv]](https://arxiv.org/abs/2506.20214)
+
 
 
 
