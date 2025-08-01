@@ -3,6 +3,7 @@
     <h1><b>Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey</b></h1>
 </div>
 
+
 The official GitHub page for the survey paper "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey".
 
 
