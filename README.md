@@ -5,6 +5,8 @@
 
 The official GitHub page for the survey paper "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey".
 
+[[arXiv]](https://arxiv.org/abs/2507.22920)
+
 
 <div align="center">
 
@@ -12,7 +14,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 ![](https://img.shields.io/github/forks/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=lightblue)
 ![](https://img.shields.io/github/last-commit/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2507.22920" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.22920-009688.svg" alt="arXiv"></a>
 
 </div>
 
