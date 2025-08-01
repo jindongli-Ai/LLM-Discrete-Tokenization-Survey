@@ -5,7 +5,6 @@
 
 The official GitHub page for the survey paper "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey".
 
-[[arXiv]](https://arxiv.org/abs/2507.22920)
 
 
 <div align="center">
@@ -17,6 +16,15 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 <a href="https://arxiv.org/abs/2507.22920" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.22920-009688.svg" alt="arXiv"></a>
 
 </div>
+
+
+<div align="center">
+    [arXiv][https://arxiv.org/abs/2507.22920]
+</div>
+
+
+<br>
+
 
 
 <p align="center">
