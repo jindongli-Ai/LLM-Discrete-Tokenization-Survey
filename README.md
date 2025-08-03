@@ -32,8 +32,6 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
     <img src="./figs/Abstract.png" alt="fig_1" width="700" />
 </p>
 <br>
-<br>
-
 
 
 
