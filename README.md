@@ -1451,9 +1451,16 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 ## 📖 Citation
+If you compare with, build on, or use aspects of this work, please cite the following:
 
-
-
+```
+@article{li2025discrete,
+  title={Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey},
+  author={Li, Jindong and Fu, Yali and Liu, Jiahong and Cao, Linxiao and Ji, Wei and Yang, Menglin and King, Irwin and Yang, Ming-Hsuan},
+  journal={arXiv preprint arXiv:2507.22920},
+  year={2025}
+}
+```
 
 
 
