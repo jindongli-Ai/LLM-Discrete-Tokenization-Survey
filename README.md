@@ -1451,7 +1451,19 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
-## Related Reposority
+## Acknowledgements
+
+The following works are recommended by their authors after the initial release of this survey and will be added to the revised version and this repository. We sincerely thank them for their contributions to enriching the coverage of this work.
+
+
+1. 2024_arXiv_Liquid_Liquid: Language Models are Scalable and Unified Multi-modal Generators. (5.1 Text + Image)
+
+    Authors: Junfeng Wu *et al.* (HUST & ByteDance)  
+    [[arXiv]](https://arxiv.org/abs/2412.04332v4)
+    [[Github]](https://github.com/FoundationVision/Liquid) 
+    *(Added on August 9, 2025, following the authors’ kind recommendation)*
+
+
 
 
 ## 📖 Citation
