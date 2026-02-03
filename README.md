@@ -834,7 +834,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
-### 3.9 Audio + Action
+### 3.9 Audio + Motion
 
 1. 2024_CVPR_ProTalk_Towards Variable and Coordinated Holistic Co-Speech Motion Generation.
    [[CVPR]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Towards_Variable_and_Coordinated_Holistic_Co-Speech_Motion_Generation_CVPR_2024_paper.pdf)
