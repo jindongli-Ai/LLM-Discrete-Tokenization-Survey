@@ -964,7 +964,15 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 3. 2024_arXiv_SSVC_Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations.
    [[arXiv]](https://arxiv.org/abs/2402.03407)
 
+4. 2025_ICLR_WavTokenizer_Wavtokenizer: An Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling.
+   [[OpenReview]](https://openreview.net/forum?id=yBlVlS2Fd9)
+   [[arXiv]](https://arxiv.org/abs/2408.16532)
+   [[GitHub]](https://github.com/jishengpeng/WavTokenizer)
 
+5. 2024_arXiv_GLM-4-Voice_GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot.
+   [[arXiv]](https://arxiv.org/abs/2412.02612)
+   [[GitHub]](https://github.com/zai-org/GLM-4-Voice)
+   [[HuggingFace]](https://huggingface.co/zai-org/glm-4-voice-9b)
 
 
 
