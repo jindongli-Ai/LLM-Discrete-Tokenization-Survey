@@ -565,7 +565,10 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 6. 2025_ICLR_TAAE_Scaling Transformers for Low-Bitrate High-Quality Speech Coding.
     [[ICLR]](https://iclr.cc/virtual/2025/poster/31006)
 
-
+7. 2025_ICLR_WavTokenizer_Wavtokenizer: An Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling.
+   [[OpenReview]](https://openreview.net/forum?id=yBlVlS2Fd9)
+   [[arXiv]](https://arxiv.org/abs/2408.16532)
+   [[GitHub]](https://github.com/jishengpeng/WavTokenizer)
 
 
 
@@ -684,7 +687,6 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
-
 ### 3.5 Action
 
 1. 2023_CoLR_SAQ_Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning.
@@ -695,8 +697,6 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
    [[ICML]](https://proceedings.mlr.press/v235/zheng24b.html)
    [[arXiv]](https://arxiv.org/abs/2402.10450)
    [[Github]](https://github.com/FrankZheng2022/PRISE)
-
-
 
 
 
@@ -766,8 +766,6 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
-
-
 ### 3.7 Text + Sound
 
 1. 2023_ICLR_AudioGen_AudioGen:Textually Guided Audio Generation.
@@ -818,17 +816,10 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
-
-
-
-
-
-
 ### 3.8 Audio + Video
 
 1. 2025_CVIU_VQ-MAE-AV_A vector quantized masked autoencoder for audiovisual speech emotion recognition.
    [[arXiv]](https://arxiv.org/abs/2305.03568)
-
 
 
 
@@ -964,12 +955,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 3. 2024_arXiv_SSVC_Enhancing the Stability of LLM-based Speech Generation Systems through Self-Supervised Representations.
    [[arXiv]](https://arxiv.org/abs/2402.03407)
 
-4. 2025_ICLR_WavTokenizer_Wavtokenizer: An Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling.
-   [[OpenReview]](https://openreview.net/forum?id=yBlVlS2Fd9)
-   [[arXiv]](https://arxiv.org/abs/2408.16532)
-   [[GitHub]](https://github.com/jishengpeng/WavTokenizer)
-
-5. 2024_arXiv_GLM-4-Voice_GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot.
+4. 2024_arXiv_GLM-4-Voice_GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot.
    [[arXiv]](https://arxiv.org/abs/2412.02612)
    [[GitHub]](https://github.com/zai-org/GLM-4-Voice)
    [[HuggingFace]](https://huggingface.co/zai-org/glm-4-voice-9b)
