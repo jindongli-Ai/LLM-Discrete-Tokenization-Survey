@@ -4,7 +4,7 @@
 </div>
 
 
-The official GitHub page for the survey paper "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey".
+The official GitHub page for the survey paper "Discrete Tokenization for Multimodal LLMs: A Comprehensive Survey". This paper has been accepted for publication in IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 
 
 
