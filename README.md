@@ -23,7 +23,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 <div align="center">
     [IEEE TPAMI][https://ieeexplore.ieee.org/document/11455337] <br>
-    [arXiv][https://arxiv.org/abs/2507.22920]
+    [arXiv][https://arxiv.org/abs/2507.22920] <br>
     [机器之心][https://mp.weixin.qq.com/s/rDlzbRSEmQqBg-GRP0DTlA]
 </div>
 
