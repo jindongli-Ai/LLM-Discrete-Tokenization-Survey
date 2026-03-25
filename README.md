@@ -225,7 +225,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 <p align="center">
-    <img src="./figs/fig_6.png" alt="fig_6" width="400" />
+    <img src="./figs/fig_6.png" alt="fig_6" width="1000" />
 </p>
 
 
@@ -299,9 +299,6 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 ### 2.4 Additive Vector Quantzation (AQ)
 
 
-<p align="center">
-    <img src="./figs/fig_7.png" alt="fig_7" width="400" />
-</p>
 
 
 
@@ -331,7 +328,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 <p align="center">
-    <img src="./figs/fig_8.png" alt="fig_8" width="400" />
+    <img src="./figs/fig_8.png" alt="fig_7" width="400" />
 </p>
 
 
@@ -351,7 +348,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 <p align="center">
-    <img src="./figs/fig_9.png" alt="fig_9" width="400" />
+    <img src="./figs/fig_9.png" alt="fig_8" width="400" />
 </p>
 
 
@@ -370,7 +367,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 ### 2.7 Binary Spherical Quantization (BSQ)
 
 <p align="center">
-    <img src="./figs/fig_10.png" alt="fig_10" width="400" />
+    <img src="./figs/fig_10.png" alt="fig_9" width="400" />
 </p>
 
 
@@ -897,7 +894,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 <p align="center">
-    <img src="./figs/fig_11.png" alt="fig_11" width="400" />
+    <img src="./figs/fig_10.png" alt="fig_11" width="400" />
 </p>
 
 
@@ -1396,7 +1393,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 <p align="center">
-    <img src="./figs/fig_13.png" alt="fig_13" width="400" />
+    <img src="./figs/fig_11.png" alt="fig_13" width="400" />
 </p>
 
 
