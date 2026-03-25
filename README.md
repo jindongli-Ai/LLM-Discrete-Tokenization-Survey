@@ -397,11 +397,24 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 
 
+### Discussion
+
+
 <p align="center">
     <img src="./figs/tab_1.png" alt="tab_1" width="400" />
 </p>
 
+<p align="center">
+    <img src="./figs/tab_2.png" alt="tab_2" width="700" />
+</p>
 
+<p align="center">
+    <img src="./figs/tab_3.png" alt="tab_3" width="350" />
+</p>
+
+<p align="center">
+    <img src="./figs/tab_4.png" alt="tab_4" width="350" />
+</p>
 
 
 ## 3 Classical Applications without LLMs
