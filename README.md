@@ -10,7 +10,7 @@ The official GitHub page for the survey paper "Discrete Tokenization for Multimo
 
 <div align="center">
 
-[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2502.11528)
+[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://ieeexplore.ieee.org/document/11455337)
 <a href="https://arxiv.org/abs/2507.22920" target="_blank"><img src="https://img.shields.io/badge/arXiv-2507.22920-009688.svg" alt="arXiv"></a>
 ![](https://img.shields.io/github/stars/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=yellow)
 ![](https://img.shields.io/github/forks/jindongli-Ai/LLM-Discrete-Tokenization-Survey?color=lightblue)
